@@ -4296,7 +4296,7 @@
 	],
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.ds1",
-	"display_name": "DEEP SPACE 1",
+	"display_name": "Deep Space 1",
 	"display_description": "The Deep Space 1 mission launched in 1998. It studied 9969 Braille and comet 19P/Borrelly."
 },{
 	"tags": [
