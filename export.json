@@ -3577,6 +3577,48 @@
 	"logical_identifier": "urn:nasa:pds:context:target:asteroid.4179_toutatis",
 	"display_name": "4179 Toutatis",
 	"display_description": "4179 Toutatis (provisional designation 1989 AC) is an elongated, stony asteroid and slow rotator, classified as near-Earth object and potentially hazardous asteroid of the Apollo and Alinda group."
+},{
+	"tags": [
+		"Short-Period Comet",
+		"Halley-Type",
+		"Retrograde Orbit"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:target:comet.1p_halley",
+	"display_name": "1P/Halley",
+	"display_description": "1P/Halley (Halley's Comet or Comet Halley) is a short-period comet visible from Earth every 75–76 years. Halley is the only known short-period comet that is regularly visible to the naked eye from Earth, and the only naked-eye comet that might appear twice in a human lifetime. Halley last appeared in the inner parts of the Solar System in 1986 and will next appear in mid-2061. During its 1986 apparition, Halley's Comet became the first comet to be observed in detail by spacecraft."
+},{
+	"tags": [
+		"Short-Period Comet"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:target:comet.21p_giacobini-zinner",
+	"display_name": "21P/GIACOBINI-ZINNER",
+	"display_description": "21P/Giacobini–Zinner (Comet Giacobini–Zinner ) is a periodic comet in the Solar System. The comet nucleus is estimated to be 2.0 kilometers in diameter."
+},{
+	"tags": [
+		"Short-Period Comet"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:target:comet.26p_grigg-skjellerup",
+	"display_name": "26P/GRIGG-SKJELLERUP",
+	"display_description": "Comet Grigg–Skjellerup (26P/Grigg–Skjellerup) is a periodic comet. It was visited by the Giotto probe in July 1992. The comet nucleus is estimated to be 2.6 kilometers in diameter. The comet is a type locality for the mineral brownleeite."
+},{
+	"tags": [
+		"Long-Period Comet"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:target:comet.c1999_t1_mcnaught-hartley",
+	"display_name": "C/1999 T1 (McNaught-Hartley)",
+	"display_description": "C/1999 T1 (McNaught-Hartley) comet tail for was analyzed by Ulysses spacecraft."
+},{
+	"tags": [
+		"Long-Period Comet"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:target:comet.c1996_b2_hyakutake",
+	"display_name": "C/1996 B2 (Hyakutake)",
+	"display_description": "C/1996 B2 Hyakutake is a long-period comet. Before its most recent passage through the Solar System, its orbital period was about 17,000 years, but the gravitational perturbation of the giant planets has increased this period to 70,000 years. It was the first comet that had X-ray emission."
 }],"missions": [{
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_11",
 	"display_name": "Pioneer 11",
@@ -4378,6 +4420,14 @@
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.p8",
 	"display_name": "Pioneer 8",
 	"display_description": "Pioneer 8, also known as Pioneer C, was launched on 13 December 1967 into a heliocentric orbit to study interplanetary space with a primary focus to collection data on magnetic fields, plasma, and cosmic rays."
+},{
+	"tags": [
+		"Orbiter"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"display_name": "Ulysses",
+	"display_description": "The Ulysses mission was launched in 1990. It studied Jupiter, comet Hyakutake, McNaught-Hartley, and McNaught. It consisted of no other spacecrafts."
 }],"instruments": [{
 	"tags": [
 		"Dust Detector"
@@ -7146,6 +7196,12 @@
 },{
 	"name": "Alinda Group",
 	"type": "targets"
+},{
+	"name": "Halley-Type",
+	"type": "targets"
+},{
+	"name": "Long-Period Comet",
+	"type": "targets"
 }],"objectRelationships": [{
 	"instrument": "urn:nasa:pds:context:instrument:instrument.ldex__ladee",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ladee",
@@ -9395,9 +9451,9 @@
 	"target": "urn:nasa:pds:context:target:planet.jupiter",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
-	"target": "urn:nasa:pds:context:target:planet.jupiter",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
-	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+	"target": "urn:nasa:pds:context:target:planet.jupiter",
+	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"target": "urn:nasa:pds:context:target:planet.jupiter",
@@ -9823,12 +9879,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:pepe.ds1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.gio",
 	"target": "urn:nasa:pds:context:target:comet.1p_halley",
-	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.gio",
+	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
+},{
 	"target": "urn:nasa:pds:context:target:comet.26p_grigg-skjellerup",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.gio",
 	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.gio",
@@ -9907,8 +9963,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:wfpc2.hst",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ice",
 	"target": "urn:nasa:pds:context:target:comet.21p_giacobini-zinner",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ice",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ice",
@@ -10077,6 +10133,90 @@
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p8",
 	"instrument": "urn:nasa:pds:context:instrument:cdd.p8",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"target": "urn:nasa:pds:context:target:comet.1p_halley",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
+	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
+},{
+	"target": "urn:nasa:pds:context:target:comet.1p_halley",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.suisei",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"target": "urn:nasa:pds:context:target:comet.1p_halley",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
+	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
+},{
+	"target": "urn:nasa:pds:context:target:comet.1p_halley",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sakig",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"target": "urn:nasa:pds:context:target:sun.sun",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:udds.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:vhm-fgm.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:swics.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:cospin-at.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:grb.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:sce.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:cospin-ket.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:gwe.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:swoops.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:cospin-let.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:urap.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:gas.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:epac.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:hiscale.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:cospin-het.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"instrument": "urn:nasa:pds:context:instrument:cospin-hft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 }],"tools": [{
 	"name": "Small Bodies Image Browser",
