@@ -7439,8 +7439,8 @@
 	"target": "urn:nasa:pds:context:target:star.wasp-3",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
 	"target": "urn:nasa:pds:context:target:satellite.saturn.rhea",
@@ -8031,8 +8031,8 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.grail-a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
@@ -9115,100 +9115,100 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mgs",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12c",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14l",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16l",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msx",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15l",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16s",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17s",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14c",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16a",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lro",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15s",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16c",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17c",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.jno",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.jno",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15c",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12l",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12l",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
