@@ -3654,11 +3654,11 @@
 	"display_description": "The Mars Pathfinder mission, designed to demonstrate a low-cost method for delivering a set of science instruments to the Red Planet, was the first wheeled vehicle to be used on any other planet in the solar system and served as the foundation for the Mars rovers of today. \n\nThe mission landed a rover -- Sojourner -- on the surface of Mars using an air bag landing system and innovative petal design, which have been used since in various incarnations to land other rovers on the Red Planet. Sojourner spent 83 days of a planned seven-day mission exploring the Martian terrain, snapping photographs and taking chemical, atmospheric and other measurements",
 	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/pathfinder.jpg"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.2001_mars_odyssey",
-	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/mars-odyssey.png",
-	"display_name": "Mars Odyssey",
-	"display_description": "The Mars Odyssey spacecraft was launched from the Cape Canaveral Air Station in Florida on 2001-04-07 aboard a Boeing Delta II 7925 launch vehicle. At launch Odyssey weighed 729.7 kilograms (1606.7 pounds), including the 331.8 kilogram (731.5 pound) dry spacecraft with all of its subsystems, 353.4 kilograms (779.1 pounds) of fuel and 44.5 kilograms (98.1 pounds) of instruments. The spacecraft traveled more than 460 million kilometers over the course of a 200-day cruise period to reach Mars on 2001-10-24. Upon reaching Mars, Odyssey fired its main rocket engine for a 19-minute Mars orbit insertion (MOI) burn. This maneuver slowed the spacecraft and allowed the planet's gravity to capture it into orbit. Initially, Odyssey whirled around the red planet in a highly elliptical orbit that took 45 hours to complete. After orbit insertion, Odyssey performed a series of orbit changes to drop the low point of its orbit into the upper fringes of the Martian atmosphere at an altitude of about 110 kilometers. During every atmospheric pass, the spacecraft slowed by a small amount because of air resistance. This slowing caused the spacecraft to lose altitude on its next pass through the atmosphere. Odyssey used this aerobraking technique over a period of three months to transition from an elliptical orbit into a 400 km nearly circular orbit for mapping. Mars Odyssey was intended to last for more than 2 full Mars years, or 1374 days. The orbiter had its own science mission and also acted as a relay for landed Mars missions in 2004. The primary mapping mission began in February 2002 and lasted until August 2004 for a total of 917 days. An extended mission then took place through the end of September 2006. The inclination of the science orbit was 93.1 degrees, resulting in a nearly Sun- synchronous orbit [JPLD-16303]. The orbit period was just under two hours. The spacecraft was three-axis stabilized and powered by solar cells. It was built of lightweight composite materials and divided into two sub-assemblies: the equipment module and the propulsion module. The equipment module consisted of two decks - the equipment deck, containing engineering equipment and one science instrument, the Martian Radiation Environment Experiment (MARIE), and the science deck, which housed the remainder of the science instruments and other engineering components. Mars Odyssey carried three on-board science instruments. The Thermal Emission Imaging System (THEMIS) worked both in the visible and infrared spectral regions. It took multi-spectral thermal-infrared images to determine the surface mineralogy at a global scale and also acquired visible images with a per-pixel resolution of 18 meters (59 feet). The Gamma Ray Spectrometer (GRS) measured gamma rays emitted from the surface of Mars to determine the elemental composition of the surface, including mapping water deposits in water-ice form. It also studied cosmic gamma ray bursts. GRS was actually a suite of three instruments - the Gamma Ray Spectrometer, the Neuron Spectrometer (NS) and the High-Energy Neutron Detector (HEND). GRS and THEMIS could not operate at the same time due to conflicts in the parameters necessary for operation. The third instrument, the Martian Radiation Environment Experiment (MARIE), was intended to operate continuously throughout the science mission to collect data about the radiation environment of the planet. Flight commanders turned off MARIE on 2001-08-18 because the instrument failed to reset after it did not respond during a downlink session the previous week. It was turned on again in early March 2002 after the mapping orbit had been established. MARIE operated from that time until it was disabled following an intense solar particle event on October 29, 2003. Before being disabled, the instrument showed abnormally high current draw and temperatures. Throughout November and early December of 2003, after the solar event subsided and after Odyssey recovered from entering safe mode, the Odyssey team attempted unsuccessfully to reestablish communication with MARIE. Two other instruments aboard Odyssey were, like MARIE, sensitive to energetic charged particles. The first instrument was the gamma detector on GRS, which used a large germanium crystal to detects gamma rays coming from the Martian surface. The detection of gamma rays depended on the deposition of energy in the crystal by the incident photons. Charged particles also deposited energy in the crystal. The second non-MARIE instrument aboard Odyssey that was sensitive to charged particles was the scintillation block in the high energy neutron detector (HEND, an element of the GRS suite). The 'external' detector was a cesium-iodide (CsI) scintillator surrounding a stilbene crystal scintillator that was used for high-energy neutron detection. These two detectors were available to continue the monitoring of aspects of the radiation environment at Mars that was conducted by MARIE during Odyssey's cruise and prime mission phases. The local mean solar time (LMST) at the start of the Odyssey mission was approximately 4:00 p.m. and was later frozen by a maneuver to approximately 5:00 p.m. The local true solar time (LTST) oscillated about 45 minutes around the mean. During the Extended Mission, a small maneuver could be used to eliminate any further drift in LMST. The solar beta angle, which is closely related to the local solar time, had to be maintained at values less than -55 degrees to ensure that GRS radiative cooler was not exposed to the Sun. The Extended Mission orbit had several notable features. In late 2005, the LTST drifted to earlier values, which was favorable for THEMIS daytime infrared imaging. This period also coincided with a minimum in the Earth-Mars range, allowing high downlink data rates, also favorable for THEMIS. A similar favorable geometry occurs in late 2007.",
-	"funding_level": "N/A"
+	"display_name": "2001 Mars Odyssey",
+	"display_description": "The Mars Odyssey spacecraft was launched on 2001. It studied Mars. It consisted of no other spacecraft.",
+	"funding_level": "n/a"
 },{
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.ladee",
 	"display_name": "LADEE",
@@ -3724,11 +3724,11 @@
 	"funding_level": "Flagship",
 	"image_url": "http://www.collectspace.com/review/lrolcross_patch03.jpg"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.gravity_recovery_and_interior_laboratory",
-	"display_name": "Gravity Recovery and Interior Laboratory (GRAIL)",
-	"display_description": "Mission Overview\n  ================\n    The GRAIL mission placed two spacecraft (GRAIL-A and GRAIL-B),\n    flying in formation, into orbit around the Moon to study its\n    internal structure. By very precisely measuring the distance of\n    one orbiter relative to the other, the orbital perturbations\n    caused by the Moon could be observed. Combining this with the\n    orbiter position as determined from Earth-based observations, the\n    mass distribution on the Moon could be determined.\n \n    The GRAIL spacecraft were launched side-by-side on a single Delta\n    II vehicle during a 26-day launch window that opened on September\n    8, 2011. The actual launch was two days later.  The mission\n    timeline was constructed to ensure continuity in operations by\n    avoiding lunar eclipses on December 10, 2011, and June 4, 2012,\n    when spacecraft power from the solar panels would be interrupted.\n    The Goldstone DSN complex acquired initial spacecraft signals and\n    confirmed solar array deployment.\n \n    The trans-lunar cruise phase consisted of a 3.5-month low-energy\n    transfer via the Sun-Earth Lagrange point 1 (EL1). Compared to a\n    direct trajectory, this low-energy transfer reduced spacecraft\n    fuel requirements (by approximately 130 m/s), allowed more time\n    for spacecraft check-out and out-gassing, and increased the number\n    of days available in the launch window each month.\n \n    Both spacecraft approached the Moon under the South Pole where they\n    each executed a 41-minute Lunar Orbit Insertion (LOI) maneuver to\n    put them into an elliptical orbit with a period of 11.5 hours. The\n    LOIs for the two spacecraft were separated by one day. Each LOI\n    was simultaneously visible from the Goldstone and Canberra DSN\n    complexes.\n \n    A series of four maneuvers were then performed to reduce the orbits\n    to nearly circular with a mean 55-km altitude and 113-minute\n    period. Further maneuvers positioned the spacecraft to the desired\n    initial separation distance, which then drifted between 65 km and\n    225 km.\n \n    The 90-day Science Phase was divided into three 27.3-day\n    nadir-pointed mapping cycles. Two daily 8-hour DSN tracking passes\n    acquired science and 'E/PO MoonKam' data.\n \n    Following the Extended Mission Phase (August 29 - December 12,\n    2012), there was a 6-day decommissioning period, after which the\n    spacecraft impacted the lunar surface.\n \n    For more information on the GRAIL mission, see [RONCOLI&FUJII2010].\n \n  Mission Phases\n  ==============\n    The GRAIL Mission was divided into eight phases: Launch, Cruise,\n    Orbit Insertion, Transition to Science, Science, Hiatus, Extended\n    Mission, and Decommissioning.\n \n    LAUNCH\n    ------\n    The Launch Phase extended from the start of the countdown to the\n    initial acquisition, by the DSN, of the orbiters in a safe and\n    stable configuration.\n \n    The twin orbiters were launched from Cape Canaveral Air Force\n    Station, Florida, on a Delta II Heavy shortly after the opening of\n    the launch window in September 2011. There were at least 21 launch\n    opportunities within this 26-day window. The Goldstone DSN complex\n    acquired the initial signal, as well as confirmation of solar\n    array deployment.\n \n      Mission Phase Start Time : 2011-09-10\n      Mission Phase Stop Time  : 2011-09-10\n \n    CRUISE\n    ------\n    The Cruise Phase extended from after DSN initial acquisition of\n    the orbiters in a safe and stable configuration until the first\n    Lunar Orbit Insertion (LOI) maneuver.\n \n    The orbiters followed a low-energy trajectory to the Moon, which\n    took them near the Sun-Earth Lagrange Point 1 (EL1). The low-energy\n    trajectory minimized the velocity change (dV) required for\n    insertion into lunar orbit. During the 112-day cruise, several\n    maneuvers were executed on each orbiter to adjust the trajectory.\n    One maneuver placed the orbiter on the low-energy trajectory and\n    another separated the Lunar Orbit Insertion (LOI) maneuvers for\n    each orbiter by about a day. The remaining maneuvers were used to\n    fine tune the trajectory.\n \n    The low-energy transfer was chosen to reduce the spacecraft fuel\n    requirements (by ~130 m/s), to allow more time for spacecraft\n    check-out and out-gassing, and to increase the number of days\n    available in the launch window each month.\n \n      Mission Phase Start Time : 2011-09-10\n      Mission Phase Stop Time  : 2011-12-31\n \n    ORBIT INSERTION\n    ---------------\n    This phase included the propulsive maneuvers to insert the two\n    spacecraft into lunar orbit. The maneuvers were separated by about\n    25 hours, with the GRAIL-A maneuver occurring on December 31, 2011,\n    and the GRAIL-B maneuver occurring on January 1, 2012.\n \n    Both spacecraft approached the Moon under the South Pole where\n    they each executed a 41-minute Lunar Orbit Insertion (LOI)\n    maneuver to put them into an elliptical orbit with a period of\n    about 11.5 hours. Each LOI was simultaneously visible from the\n    Goldstone and Canberra DSN complexes.\n \n      Mission Phase Start Time : 2011-12-31\n      Mission Phase Stop Time  : 2012-01-01\n \n    TRANSITION TO SCIENCE\n    ---------------------\n    Once in lunar orbit, and after checkout of the orbiter systems,\n    several maneuvers were performed on each orbiter to reduce the\n    orbit period and lower the altitude to the science orbit. These\n    maneuvers were grouped into two clusters, with each cluster\n    spanning about a week; clusters alternated between GRAIL-A and\n    GRAIL-B. Each maneuver cluster used the same maneuver design,\n    which reduced the workload on the operations teams. The orbit\n    period was reduced to 113 minutes.\n \n    A series of maneuvers was then performed to establish the proper\n    spacecraft formation at the start of the Science Phase. These\n    maneuvers positioned the spacecraft to the desired initial\n    separation distance, which would then drift between 65 km and 225\n    km.\n \n      Mission Phase Start Time : 2012-01-01\n      Mission Phase Stop Time  : 2012-03-01\n \n    SCIENCE\n    -------\n    The 90-day Science Phase was divided into three 27.3-day\n    nadir-pointed mapping cycles. Two daily 8-hour DSN tracking passes\n    acquired science and 'E/PO MoonKam' data.\n \n    The Science Phase of the mission was conducted from a\n    near-circular, near-polar orbit with a mean altitude of 55 km.\n    There were three different mapping cycles during the Science\n    Phase, each covering a sidereal month (27.32 days). The first\n    mapping cycle started while the science orbit had low periapsis\n    altitudes with an orbiter separation distance of approximately 85\n    kilometers. Over the course of the first mapping cycle, and into\n    the second mapping cycle, the periapsis altitudes of the science\n    orbit increased, and the mean separation distance slowly drifted\n    to 225 kilometers. A small Orbit Trim Maneuver (OTM) was performed\n    during the second mapping cycle to decrease the separation drift\n    rate. Following this OTM to the end of the third mapping cycle,\n    the periapsis altitudes decreased, and the mean separation between\n    the orbiters slowly drifted from 225 km back to 65 km.\n \n    During the Science Phase, data were stored onboard and downlinked\n    as bandwidth became available. Each orbiter received an average of\n    twelve hours of tracking coverage per day.\n \n      Mission Phase Start Time : 2012-03-01\n      Mission Phase Stop Time  : 2012-05-29\n \n    HIATUS\n    ------\n    In the Hiatus Phase the beta-angle, which determines the amount of\n    sunlight on the solar panels and controls the amount of energy\n    available to the spacecraft, dropped below its threshold.  Science\n    operations were suspended and the two spacecraft executed a series\n    of maneuvers to re-position themselves for beta-angles above the\n    threshold prior to the start of the Extended Mission.\n \n      Mission Phase Start Time : 2012-05-29\n      Mission Phase Stop Time  : 2012-08-29\n \n    EXTENDED MISSION\n    ----------------\n    GRAIL proposed (and NASA approved) an Extended Mission, since\n    there was sufficient fuel in the two spacecraft to acquire\n    additional science data.  The mean spacecraft altitude was\n    lowered by about a factor of 2 to increase the sensitivity of the\n    gravity measurements, and GRAIL defined a new set of science\n    objectives.  As in the Science Phase, the spacecraft separation\n    distance was variable.  DSN coverage was comparable.\n \n      Mission Phase Start Time : 2012-08-29\n      Mission Phase Stop Time  : 2012-12-12\n \n    DECOMMISSIONING\n    ---------------\n    Science data were collected during the Decommissioning Phase as in\n    the Extended Mission phase. After final calibrations, the\n    Decommissioning Phase ended with impact of the spacecraft on the\n    lunar surface.\n \n      Mission Phase Start Time : 2012-12-12\n      Mission Phase Stop Time  : 2012-12-18",
-	"funding_level": "Flagship",
-	"image_url": "http://1.bp.blogspot.com/-ZzEx7_MW2g4/TmvZA-oWnbI/AAAAAAAACHA/Lg3-95-pZ4c/s1600/GRAIL-logo.JPG"
+	"display_name": "Gravity Recovery And Interior Laboratory (GRAIL)",
+	"display_description": "The GRAIL mission was launched in 2011. It studied the Moon. It consisted of two small orbiters, and an impactor.",
+	"funding_level": "$496 million"
 },{
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.dawn_mission_to_vesta_and_ceres",
 	"display_name": "Dawn",
@@ -3755,6 +3755,215 @@
 	"display_name": "MESSENGER",
 	"display_description": "Discovery mission to image Mercury",
 	"funding_level": "Discovery"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.messenger",
+	"display_name": "MESSENGER",
+	"display_description": "The MESSENGER mission was launched in 2004. It studied Mercury. It consisted of no other spacecrafts.",
+	"funding_level": "Discovery"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_space_program_science_experiment",
+	"display_name": "Deep Space Program Science Experiment",
+	"display_description": "The Deep Space Program Science Experiment (DSPSE), first in a planned series of technology demonstrations jointly sponsored by the Ballistic Missile Defense Organization (BMDO) of the DoD and the National Aeronautics and Space Administration (NASA), was launched on 1994. The spacecraft itself was affectionately known as Clementine since, as in the song of the same name, it would be 'lost and gone forever' after completing its short mission.",
+	"funding_level": "$80 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_impact",
+	"display_name": "Deep Impact",
+	"display_description": "The goal of the Deep Impact mission was to understand the physical and chemical properties of a comet as a function of depth below the surface.   The mission delivered an impactor spacecraft onto the nucleus of 9P/Tempel 1.",
+	"funding_level": "$240 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"display_name": "Deep Impact EPOXI",
+	"display_description": "The Deep Impact EPOXI mission was an extension to the Deep Impact spacecraft in 2005. It studied comet 10P/Hartley, Moon, Comet Garradd (C/2009 P1), and Comet ISON. It consisted of no other spacecraft.",
+	"funding_level": "$40 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_space_1",
+	"display_name": "Deep Space 1",
+	"display_description": "The Deep Space 1 mission launched in 1998. It studied 9969 Braille and comet 19P/Borrelly. It consisted of no other spacecrafts.",
+	"funding_level": "$149.7 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.galileo",
+	"display_name": "Galileo",
+	"display_description": "The Galileo mission was launched in 1989. It studied 951 Gaspra, 243 Ida, Dactyl, Comet Shoemaker-Levy 9, Jupiter and its moons. It consisted of an orbiter and atmospheric probe.",
+	"funding_level": "$1.39 billion"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.giotto",
+	"display_name": "Giotto",
+	"display_description": "The Giotto mission was launched in 1985. It studied the comet Halley and Grigg-Skjellerup. It consisted of no other spacecrafts."
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.international_cometary_explorer",
+	"display_name": "International Cometary Explorer",
+	"display_description": "The ICE mission was launched in 1978. It studied comet Giacobini-Zinner and Halley. It consisted of no other spacecrafts.",
+	"funding_level": "$3 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.juno",
+	"display_name": "Juno",
+	"display_description": "The Juno mission was launched in 2011. It studied Jupiter and its moons. It consisted of no other spacecraft.",
+	"funding_level": "$700 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.magellan",
+	"display_name": "Magellan",
+	"display_description": "The Magellan mission was launched in 1989. It studied Venus. It consisted no other spacecrafts.",
+	"funding_level": "$551 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mariner_10",
+	"display_name": "Mariner 10",
+	"display_description": "Mariner 10  was launched in 1973. It studied Venus and Mercury. It consisted of no other spacecraft.",
+	"funding_level": "$97 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.maven",
+	"display_name": "Mars Atmosphere and Volatile Evolution (MAVEN)",
+	"display_description": "The MAVEN mission was launched in 2013. It studied Mars. It consisted of no other spacecrafts.",
+	"funding_level": "$485 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.new_horizons",
+	"display_name": "New Horizons",
+	"display_description": "The New Horizons mission was launched in 2006. It studied Pluto and its moons, 2014 MU. It consists of no other spacecrafts.",
+	"funding_level": "$550 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.international_rosetta_mission",
+	"display_name": "International Rosetta Mission/ Philae",
+	"display_description": "The Rosetta mission was launched in 2004. It studied 21 Lutetia, 2867 Steins, Mars, and 67P/Churyumov-Gerasimenko. It consisted of an orbiter and a lander.",
+	"funding_level": "$900 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_10",
+	"display_name": "Pioneer 10",
+	"display_description": "The Pioneer 10 was launched in 1972. It studied Jupiter. It consisted of no other spacecrafts.",
+	"funding_level": "$350 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_venus",
+	"display_name": "Pioneer Venus",
+	"display_description": "The Pioneer Venus mission was launched in 1978. It studied Venus. It consisted of an orbiter and a bus that carried a large probe and three small probes.",
+	"funding_level": "$208 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.stardust",
+	"display_name": "Stardust",
+	"display_description": "The Stardust mission was launched in 1999. It studied asteroid 5535 Annefrank and comet Wild 2. It consisted of no other spacecraft.",
+	"funding_level": "$199.6 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.ulysses",
+	"display_name": "Ulysses",
+	"display_description": "The Ulysses mission was launched in 1990. It studied Jupiter, comet Hyakutake, McNaught-Hartley, and McNaught. It consisted of no other spacecrafts.",
+	"funding_level": "$756 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_express",
+	"display_name": "Mars Express",
+	"display_description": "The Mars Express mission was launched in 2003. It studied Mars. It consisted of an orbiter and a lander.",
+	"funding_level": "$150 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.phobos_2",
+	"display_name": "Phobos 2",
+	"display_description": "The Phobos 2 mission was launched in 1988. It studied Phobos and Mars. It consisted of no other spacecrafts.",
+	"funding_level": "$480 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.sakigake",
+	"display_name": "Sakigake",
+	"display_description": "The Sakigake mission was launched in 1985. It studied the comet Halley. It consisted of no other spacecrafts.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.suisei",
+	"display_name": "Suisei",
+	"display_description": "The Suisei mission was launched in 1985. It studied the comet Halley. It consisted of no other spacecrafts.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.venera_15_and_16",
+	"display_name": "Venera 15 AND 16",
+	"display_description": "The Venera mission launched in 1983. It studied Venus. This mission consisted of two orbiters.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.vega_1",
+	"display_name": "Vega 1",
+	"display_description": "The Vega 1 mission launched in 1984. It studied Venus and comet Halley. This mission consisted of of lander and balloon.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.vega_2",
+	"display_name": "Vega 2",
+	"display_description": "The Vega 2 mission launched in 1984. It studied Venus and comet Halley. This mission consisted of of lander and balloon.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.venus_express",
+	"display_name": "Venus Express",
+	"display_description": "The Venus Express mission launched in 2005. It studied Venus. This mission consisted of no other spacecrafts.",
+	"funding_level": "$262 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.chandrayaan-1",
+	"display_name": "Chandrayaan-1",
+	"display_description": "The Chandrayaan-1 mission was launched in 2008. It studied the Moon. It consisted of an orbiter and an impactor.",
+	"funding_level": "$83 million"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_12",
+	"display_name": "Apollo 12",
+	"display_description": "Apollo 12 was launched in 1969. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_14",
+	"display_name": "Apollo 14",
+	"display_description": "Apollo 14 was launched in 1971. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_15",
+	"display_name": "Apollo 15",
+	"display_description": "Apollo 15 was launched in 1971. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_16",
+	"display_name": "Apollo 16",
+	"display_description": "Apollo 16 was launched in 1972. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_17",
+	"display_name": "Apollo 17",
+	"display_description": "Apollo 17 was launched in 1972. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.contour_mission",
+	"display_name": "Comet Nucleus Tour Mission",
+	"display_description": "The Comet Nucleus Tour (CONTOUR) mission launched 2002.",
+	"funding_level": "Discovery"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.iue",
+	"display_name": "International Ultraviolet Explorer (IUE)",
+	"display_description": "The International Ultraviolet Explorer (IUE) was launched 1978. The satellite was developed to provide a general facility for observing ultraviolet (UV) spectra of astronomical sources.",
+	"funding_level": "n/a"
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:mission.midcourse_space_experiment",
+	"display_name": "Midcourse Space Experiment",
+	"display_description": "The Midcourse Space Experiment (MSX) mission launched 1996.",
+	"funding_level": "n/a"
 }],"spacecraft": [{
 	"tags": [
 		"Flyby"
