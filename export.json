@@ -3612,11 +3612,11 @@
 	"display_name": "C/1996 B2 (Hyakutake)",
 	"display_description": "C/1996 B2 Hyakutake is a long-period comet. Before its most recent passage through the Solar System, its orbital period was about 17,000 years, but the gravitational perturbation of the giant planets has increased this period to 70,000 years. It was the first comet that had X-ray emission."
 }],"missions": [{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_11",
 	"display_name": "Pioneer 11",
 	"display_description": "NASA's Pioneer 11, a sister spacecraft to Pioneer 10, was the first spacecraft to study Saturn up close. The mission ended in 1995 and Pioneer 11 is on a trajectory to take it out of the solar system.\n\nPioneer 11 is one of five spacecraft on a trajectory that will take them out of our solar system.\nPioneer 11 will pass near the star Lambda Aquila in almost four million years.\nLike Pioneer 10 and Voyager 1 and 2, Pioneer 11 carries a message from humanity to the cosmos.",
-	"image_url": "https://nssdc.gsfc.nasa.gov/image/spacecraft/pioneer_patch.jpg",
-	"funding_level": "."
+	"image_url": "https://nssdc.gsfc.nasa.gov/image/spacecraft/pioneer_patch.jpg"
 },{
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mariner69",
 	"display_name": "Mariner 6 and 7",
@@ -3658,7 +3658,8 @@
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.2001_mars_odyssey",
 	"display_name": "2001 Mars Odyssey",
 	"display_description": "The Mars Odyssey spacecraft was launched on 2001. It studied Mars. It consisted of no other spacecraft.",
-	"funding_level": "n/a"
+	"funding_level": "n/a",
+	"image_url": "https://pdsregistryimages.psi.edu/images/public/dd50e060-1530-11ea-b265-875a92031799.png"
 },{
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.ladee",
 	"display_name": "LADEE",
