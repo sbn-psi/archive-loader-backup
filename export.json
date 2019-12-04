@@ -6785,6 +6785,15 @@
 	"logical_identifier": "urn:nasa:pds:context:instrument:uvvis.clem1",
 	"display_name": "Ultraviolet/Visible Camera",
 	"display_description": "The Ultraviolet/Visible Camera (UVVIS) has a catadioptic telescope using fused silica lenses focused onto a metachrome-coated charge couple device (CCD) imager.  Active wavelength response is limited on the short wavelength end by the transmission of fused silica and the optical blur of the lens.  Wavelength response on the long end is limited by the response of the CCD.  Six spectral bands can be selected from a filter wheel which is controlled through the same serial-addressable synchronous interface (SASI)."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rss.near",
+	"display_name": "NEAR Radio Science (RS) and Gravimetry",
+	"display_description": "The radio science experiment (RS) used the NEAR telemetry system to estimate the gravity field of the asteroids 253 Mathilde and 433 Eros. The principal scientific objectives of this investigation were to determine the mass and gravity variations of the asteroids and combine this data with information from the multispectral imager and laser rangefinder to estimate the density of bodies and constrain the internal structure.",
+	"is_prime": true,
+	"tools": []
 }],"targetRelationships": [{
 	"parent_ref": "urn:nasa:pds:context:target:planet.mars",
 	"child_ref": "urn:nasa:pds:context:target:satellite.mars.phobos"
@@ -8198,8 +8207,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:nis.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"instrument": "urn:nasa:pds:context:instrument:rss.near",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
