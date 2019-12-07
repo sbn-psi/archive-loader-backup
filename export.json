@@ -3752,12 +3752,6 @@
 	"image_url": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/osiris-rex-mission-logo12_copy.png"
 },{
 	"tags": [],
-	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.mess",
-	"display_name": "MESSENGER",
-	"display_description": "Discovery mission to image Mercury",
-	"funding_level": "Discovery"
-},{
-	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.messenger",
 	"display_name": "MESSENGER",
 	"display_description": "The MESSENGER mission was launched in 2004. It studied Mercury. It consisted of no other spacecrafts.",
@@ -7089,15 +7083,6 @@
 },{
 	"parent_ref": "urn:nasa:pds:context:target:planet.uranus",
 	"child_ref": "urn:nasa:pds:context:target:satellite.uranus.miranda"
-},{
-	"parent_ref": "urn:nasa:pds:context:target:planet.neptune",
-	"child_ref": "urn:nasa:pds:context:target:satellite.uranus.titania"
-},{
-	"parent_ref": "urn:nasa:pds:context:target:planet.neptune",
-	"child_ref": "urn:nasa:pds:context:target:satellite.uranus.oberon"
-},{
-	"parent_ref": "urn:nasa:pds:context:target:planet.neptune",
-	"child_ref": "urn:nasa:pds:context:target:satellite.uranus.umbriel"
 },{
 	"parent_ref": "urn:nasa:pds:context:target:planet.uranus",
 	"child_ref": "urn:nasa:pds:context:target:satellite.uranus.titania"
