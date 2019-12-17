@@ -6050,7 +6050,7 @@
 		"Imager"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hirise.mro",
-	"display_name": "MRO High Resolution Imaging Science Experiment",
+	"display_name": "MRO HiRISE",
 	"display_description": "The High Resolution Imaging Science Experiment (HiRISE) is one of\n    the remote sensing instruments on the Mars Reconnaissance Orbiter\n    (MRO) spacecraft that acquires orbital observations of the Martian\n    surface during a two earth-year primary mapping phase.  MRO,\n    successfully launched in August 2005, arrived at Mars in March\n    2006.  Following orbit insertion the spacecraft went into an\n    aerobraking period to achieve a 250 x 315 kilometer near-polar\n    orbit suitable for the Primary Science Phase (PSP) mapping that\n    started in November 2006.  Since the start of PSP HiRISE has been\n    continuously operating acquiring 5-20 observations per day.\n \n    The HiRISE camera is a pushbroom imaging system featuring a 0.5 m\n    aperture telescope with a 12 m focal effective length and 14 CCD\n    detectors capable of generating images of up to 20,000 cross-scan\n    observation pixels (exclusive of overlap pixels) and 65,000\n    unbinned scan lines. The HiRISE instrument capabilities include\n    the acquisition of: (1) observations of the Mars surface from\n    orbit with a ground sampling dimension between 25 and 32 cm/pixel,\n    depending on the orbital altitude, along with an intrinsic point\n    spread function of 1.4 pixels (full width at half maximum assuming\n    no spacecraft jitter) and high signal-to-noise ratio (SNR), (2)\n    high-resolution topographic data from stereo observations with a\n    vertical precision of ~0.2 m over areas of ~5x5 pixels (~1.5 m),\n    and (3) observations in 3 colors with high radiometric fidelity. A\n    key instrument design feature includes Charge Couple Device (CCD)\n    detectors with up to 128 lines of Time Delay and Integration (TDI)\n    to create high (>100:1) SNR in the Red filter bandpass anywhere on\n    Mars. At the nominal 300 km MRO orbital altitude the instrument\n    can acquire image swaths of approximately 6 kilometers cross-orbit\n    and 20 kilometers along-orbit.",
 	"is_prime": true,
 	"tools": []
@@ -6059,7 +6059,7 @@
 		"Radar Transceiver"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:sharad.mro",
-	"display_name": "MRO Shallow Radar",
+	"display_name": "MRO SHARAD",
 	"display_description": "The SHAllow RADar instrument (SHARAD) is the sub-surface sounding\n    radar provided by the Italian Space Agency (ASI) as one of six\n    science instruments onboard NASA's 2005 Mars Reconnaissance Orbiter\n    (MRO). SHARAD is a wideband radar sounder that operates on a 20 MHz\n    central frequency with a 10 MHz bandwidth and transmits frequency-\n    modulated radar pulses of about 85 microseconds in length.\n \n    SHARAD is designed to create subsurface profiles with\n    approximately 10 to 20 m vertical resolution (15 m in free space),\n    300 to 1000 m along-track resolution, and 1500 to 8000 m across-track\n    resolution, depending on spacecraft altitude and terrain roughness.\n    Radar penetration depends on the dielectric properties of subsurface\n    materials, and is estimated from several hundred meters up to 1 km\n    for the range of dielectric properties of expected Martian rocks.",
 	"is_prime": true,
 	"tools": []
@@ -6068,7 +6068,7 @@
 		"Spectrometer"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:crism.mro",
-	"display_name": "MRO Compact Reconnaissance Imaging Spectrometer for Mars",
+	"display_name": "MRO CRISM",
 	"display_description": "CRISM (Compact Reconnaissance Imaging Spectrometer for Mars) is a\nhyperspectral imager on the MRO (Mars Reconnaissance Orbiter)\nspacecraft.  MRO's objectives are to recover climate science originally\nto have been conducted on the Mars Climate Orbiter (MCO), to identify\nand characterize sites of possible aqueous activity to which future\nlanded missions may be sent, and to characterize the composition,\ngeology, and stratigraphy of Martian surface deposits. MRO will operate\nfrom a sun-synchronous, near- circular (255x320 km altitude), near-polar\norbit with a mean local solar time of 3 PM.\n \nCRISM's spectral range spans the ultraviolet (UV) to the mid-wave\ninfrared (MWIR), 362 nm to 3920 nm. The instrument utilizes a\nRitchey-Chretien telescope with a 2.12 degree field-of-view (FOV) to\nfocus light on the entrance slit of a dual spectrometer. Within the\nspectrometer, light is split by a dichroic into VNIR\n(visible-near-infrared, 362-1053 nm) and IR (infrared, 1002-3920 nm)\nbeams. Each beam is directed into a separate modified Offner\nspectrometer that focuses a spectrally dispersed image of the slit onto\na two dimensional focal plane (FP). The IR FP is a 640 x 480 HgCdTe area\narray; the VNIR FP is a 640 x 480 silicon photodiode area array. The\nspectral image is contiguously sampled with a 6.55 nm spectral spacing\nand an instantaneous field of view of 61.5 microradians. The Optical\nSensor Unit (OSU) can be gimbaled to take out along-track smear,\nallowing long integration times that afford high signal-to-noise ratio\n(SNR) at high spectral and spatial resolution. The scan motor and\nencoder are controlled by a separately housed Gimbal Motor Electronics\n(GME) unit. A Data Processing Unit (DPU) provides power, command and\ncontrol, and data editing and compression.",
 	"is_prime": true,
 	"tools": []
@@ -6077,7 +6077,7 @@
 		"Imager"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ctx.mro",
-	"display_name": "MRO Context Camera",
+	"display_name": "MRO CTX",
 	"display_description": "The Context Camera (CTX) on the Mars Reconnaissance Orbiter (MRO)\n    is a Facility Instrument (i.e., government-furnished equipment\n    operated by a science team not responsible for design and\n    fabrication) designed, built, and operated by Malin Space Science\n    Systems and the MRO Mars Color Imager team (MARCI).  CTX will (1)\n    provide context images for data acquired by other MRO instruments,\n    (2) observe features of interest to NASA's Mars Exploration\n    Program (e.g., candidate landing sites), and (3) conduct a\n    scientific investigation, led by the MARCI team, of geologic,\n    geomorphic, and meteorological processes on Mars.  CTX consists of\n    a digital electronics assembly; a 350 mm f/3.25 Schmidt-type\n    telescope of catadioptric optical design with a 5.7-degree fiels\n    of view, providing a ~30-km wide swath from ~290 km altitude; and\n    a 5000-element CCD with a band pass of 500-700 nm and 7 micron\n    pixels, giving ~6 m/pixel spatial resolution from MRO's nearly\n    circular, nearly polar mapping orbit.  Raw data are transferred to\n    the MRO spacecraft flight computer for processing (e.g., data\n    compression) before transmission to Earth.  The ground data system\n    and operations are based on 9 years of Mars Global Surveyor Mars\n    Orbiter Camera on-orbit experience.  CTX has been allocated 12\n    percent of the total MRO data return, or about >= 3 terabits for\n    the nominal mission.  This data volume would cover ~9 percent of\n    Mars at 6 m/pixel, but overlapping images (for stereo, mosaics,\n    and observation of changes and meteorological events) will reduce\n    this area.  CTX acquired its first (instrument checkout) images of\n    Mars on 24 March 2006.",
 	"is_prime": true,
 	"tools": []
@@ -6095,7 +6095,7 @@
 		"Infrared Sounder"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:mcs.mro",
-	"display_name": "MRO Mars Climate Sounder",
+	"display_name": "MRO MCS",
 	"display_description": "The Mars Climate Sounder (MCS) represents NASA's third attempt to\n    observe Martian weather and monitor the planet's climate using\n    modern infrared remote sensing techniques, including limb sounding.\n \n    The campaign began in 1986 with the Pressure Modulator Infrared\n    Radiometer (PMIRR) [MCCLEESEETAL1986; MCCLEESEETAL1992] on the Mars\n    Observer mission, which was lost in 1993 during the final\n    pressurization of the spacecraft propulsion system only a few days\n    prior to Mars orbit insertion (MOI). NASA re-selected that\n    scientific investigation, including an enlarged science team and\n    using the same PMIRR instrument design, for another mission, the\n    Mars Climate Orbiter (MCO). Launched in 1998, the MCO spacecraft\n    entered the Martian atmosphere during MOI and was destroyed. NASA\n    selected the same team once more to build the new MCS instrument\n    now onboard the Mars Reconnaissance Orbiter (MRO). MCS is not a\n    copy of the PMIRR instrument launched in 1992, as the 1998 PMIRR II\n    was, but is a smaller, lighter instrument with the same scientific\n    objectives as those of the previous two investigations.\n \n    The Mars Climate Sounder is the first custom designed infrared\n    sounder for systematic meteorological measurements at Mars, using\n    the limb viewing technique to obtain relatively high vertical\n    resolution of better than one pressure scale height.\n \n    The application of modern technology and the use of new high\n    performance, linear array thermopile detectors with focal plane\n    signal processing and miniature multilayer interference and mesh\n    filters has permitted a fivefold reduction in mass, in part by the\n    elimination of the requirement for cryogenic operation of the focal\n    plane.\n \n    The compact dimensions of the design allow the entire instrument to\n    be pointed to limb or nadir, for atmospheric and surface mapping\n    respectively, and special patterns to be implemented, for example\n    for mapping over the poles where the complex physics of the energy\n    balance and atmospheric response during the long winter night is to\n    be addressed.",
 	"is_prime": true,
 	"tools": []
@@ -6113,7 +6113,7 @@
 		"Imager"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:marci.mro",
-	"display_name": "MRO Mars Color Imager",
+	"display_name": "MRO MARCI",
 	"display_description": "The instrument overview provided here is the summary description from\nthe EDR SIS (in the document directory).  [MALINETAL2001] describes\nthe Mars Climate Orbiter MARCI; currently there is no published MRO-\nMARCI paper, but a paper describing the investigation is being written\nand may be included on future archive volumes.",
 	"is_prime": true,
 	"tools": []
@@ -6266,7 +6266,7 @@
 		"Imager"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:mast_right.msl",
-	"display_name": "Curiosity MAST CAMERA RIGHT",
+	"display_name": "Curiosity Mastcam Right",
 	"display_description": "The Mast-mounted Cameras (Mastcams) are two instrument suite\nof imaging systems on the Mars Science Laboratory rover's\nRemote Sensing Mast (RSM).",
 	"is_prime": true,
 	"tools": []
@@ -6356,8 +6356,8 @@
 		"Imager"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:mast_left.msl",
-	"display_name": "Curiosity MAST CAMERA LEFT",
-	"display_description": "SEE INSTRUMENT OVERVIEW BELOW",
+	"display_name": "Curiosity Mastcam Left",
+	"display_description": "The Mast-mounted Cameras (Mastcams) are two instrument suite\nof imaging systems on the Mars Science Laboratory rover's\nRemote Sensing Mast (RSM).",
 	"is_prime": true,
 	"tools": []
 },{
@@ -6409,7 +6409,7 @@
 		"Sensor Package"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:rems.msl",
-	"display_name": "Curiosity ROVER ENVIRONMENTAL MONITORING STATION",
+	"display_name": "Curiosity REMS",
 	"display_description": "The Rover Environmental Monitoring Station (REMS) instrument is\n    intended to provide in situ near-surface measurements of air and\n    ground temperatures, wind speed and direction, pressure, humidity\n    and ultraviolet radiation. Its objective is to characterize the\n    Martian climate and to study Mars habitability.\n \n    Systematic measurement is the main driver for REMS operation. Each\n    hour, every sol, REMS will record 5 minutes of data at 1 Hz for\n    all sensors. This strategy will be implemented based on a high\n    degree of autonomy in REMS operations. The instrument will wake\n    itself up each hour and after recording and storing data, will go\n    to sleep independently of rover operations. REMS will record data\n    whether the rover is awake or not, and both day and night.\n \n    REMS operation is designed assuming a minimum of three hours of\n    operation each day, primarily constrained by power\n    availability. Since the hourly observations will use a total of\n    two hours of operational time, the third hour can be scheduled as\n    a continuous block, for example. Another option that has been\n    implemented in REMS flight software is a simple algorithm to\n    lengthen some of the regular observations autonomously when an\n    atmospheric event is detected. Depending on resources available\n    during the mission, and the science team wishes, REMS can operate\n    more than three hours per day.\n \n    REMS instrument is formed by four main subsets:\n \n    - ICU (instrument Control Unit), allowing power conditioning and\n      distribution, analog acquisition and control of some of the\n      sensor, thermal control loops, communications with the Booms and\n      data processing and communications with the RCE. The ICU is\n      composed of three boards: CPU, Analog and a DC/DC Converter. The\n      Analog board also integrates the Pressure Sensor (PS).\n \n    - Ultraviolet Sensor (UV), consisting of 6 photodiodes, each one\n      devoted to a different measurement band.\n \n    - Boom 1, hosting an Air Temperature Sensor (ATS), a Wind Sensor\n      (WS), the Ground Temperature Sensor (GTS) and the front-end ASIC\n      that processes all the received analog inputs from the\n      transducers and sends the data to the ICU via a transmission\n      link.\n \n    - Boom 2, hosting another Air Temperature Sensor, another Wind\n      Sensor, the Humidity Sensor (HS) and other front-end ASIC that\n      also processes all the received analog inputs from the\n      transducers and sends the data to the ICU via a transmission\n      link.\n \n    Booms are to be located orthogonal to the rover mast, with boom 1\n    looking to the side and slightly to the rear of the rover, while\n    boom 2 points in the driving direction of the rover. The UVS is\n    going to be placed on top of the Rover Deck and the ICU is to be\n    located inside the warm body of the rover.",
 	"is_prime": true,
 	"tools": []
@@ -7940,8 +7940,8 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vl1",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phx",
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
@@ -8064,9 +8064,9 @@
 	"target": "urn:nasa:pds:context:target:satellite.mars.deimos",
 	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
 },{
-	"target": "urn:nasa:pds:context:target:planet.venus",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mess",
-	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
+	"target": "urn:nasa:pds:context:target:planet.venus",
+	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
 },{
 	"target": "urn:nasa:pds:context:target:planet.venus",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mgn",
@@ -8520,36 +8520,36 @@
 	"instrument": "urn:nasa:pds:context:facility:observatory.dsn",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:hirise.mro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:sharad.mro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:crism.mro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:rss.mro",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:ctx.mro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:accel.mro",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:marci.mro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:mcs.mro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:mb.mer2",
@@ -8794,7 +8794,7 @@
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phx",
 	"instrument": "urn:nasa:pds:context:instrument:meca_tecp.phx",
-	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phx",
 	"instrument": "urn:nasa:pds:context:instrument:ase.phx",
@@ -9272,12 +9272,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:crt.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"target": "urn:nasa:pds:context:target:planet.earth",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mess",
+	"target": "urn:nasa:pds:context:target:planet.earth",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"target": "urn:nasa:pds:context:target:planet.mercury",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mess",
+	"target": "urn:nasa:pds:context:target:planet.mercury",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mess",
@@ -9348,9 +9348,9 @@
 	"instrument": "urn:nasa:pds:context:instrument:rhaz_right_a.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:mast_right.msl",
-	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:hazcam.msl",
@@ -9384,9 +9384,9 @@
 	"instrument": "urn:nasa:pds:context:instrument:chemin.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:mast_left.msl",
-	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:fhaz_right_a.msl",
@@ -9408,9 +9408,9 @@
 	"instrument": "urn:nasa:pds:context:instrument:fhaz_left_b.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:rems.msl",
-	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:nav_left_a.msl",
