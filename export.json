@@ -3736,13 +3736,15 @@
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.gravity_recovery_and_interior_laboratory",
 	"display_name": "Gravity Recovery And Interior Laboratory (GRAIL)",
-	"display_description": "The GRAIL mission was launched in 2011. It studied the Moon. It consisted of two small orbiters, and an impactor.",
-	"funding_level": "$496 million"
+	"display_description": "Gravity Recovery and Interior Laboratory (GRAIL) consist of two small spacecrafts (GRAIL A [Ebb] and B [Flow]). It was launched on September 10, 2011. It used high-quality gravitational field mapping of the Moon to determine its interior structure. On August 31, 2012, the two spacecrafts started collecting data at a lower altitude.",
+	"funding_level": "Discovery"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.dawn_mission_to_vesta_and_ceres",
 	"display_name": "Dawn",
 	"display_description": "The Dawn mission launched in Sept. 2007 to rendezvous and orbit the asteroids 4 Vesta and 1 Ceres. Vesta orbit operations took place from July 2011 to Sept. 2012, and Ceres orbit operations from March 2015 to Oct. 2018.  The scientific objectives of the mission were to characterize the asteroids' internal structure, density, shape, size, composition and mass and to return data on surface morphology, cratering, and magnetism.",
-	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/dawn.jpg"
+	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/dawn.jpg",
+	"funding_level": "Discovery"
 },{
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"display_name": "Hayabusa",
@@ -3754,15 +3756,17 @@
 	"display_description": "The Near Earth Asteroid Rendezvous (NEAR) mission to the near-earth asteroid 433 Eros was launched in Feb. 1996 and carried out Eros orbital operations from Feb. 2000 through Feb. 2001.  It acquired the first comprehensive, spatially resolved measurements of the geomorphology, reflectance spectral properties, and shape of an asteroid, and X-ray and gamma-ray spectral measurements of elemental abundances from orbit and the surface. The ambient magnetic field in the vicinity of Eros was also measured.  On the way to Eros, the spacecraft also performed a flyby of the asteroid 253 Mathilde in June 1997, obtaining image data and a mass determination.",
 	"image_url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1996-008A"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.orex",
 	"display_name": "OSIRIS-REx Mission",
-	"display_description": "The OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer) mission is designed to return a sample of material from near-Earth carbonaceous asteroid Bennu. The primary scientific objectives are to: \n\n(1) return and analyze a sample (at least 60 g, with a capability of up to 2 kg) of pristine asteroid regolith; \n\n(2) map the global properties, chemistry, and mineralogy; \n\n(3) document the texture, morphology, volatile chemistry, and spectral properties of the sample site; \n\n(4) measure the orbit deviation caused by non-gravitational forces (the Yarkovsky effect);\n\n(5) characterize the integrated global properties of the asteroid for comparison with ground-based observations. OSIRIS-REx launched in September 2016 and will carry out Bennu orbit operations from Dec. 2018 through around March 2021.  It will sample the asteroid in July 2020 and return the sample to Earth in September 2023.",
-	"image_url": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/osiris-rex-mission-logo12_copy.png"
+	"display_description": "The OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer) mission is designed to return a sample of material from near-Earth carbonaceous asteroid Bennu. OSIRIS-REx launched in September 2016 and will carry out Bennu orbit operations from December 2018 through around March 2021.  It will sample the asteroid in July 2020 and return the sample to Earth in September 2023. Along with returning a sample, it will map the asteroid and measure non-gravitational forces on the orbit.",
+	"image_url": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/osiris-rex-mission-logo12_copy.png",
+	"funding_level": "New Frontiers"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.messenger",
 	"display_name": "MESSENGER",
-	"display_description": "The MESSENGER mission was launched in 2004. It studied Mercury. It consisted of no other spacecrafts.",
+	"display_description": "MESSENGER (Mercury Surface, Space Environment, Geochemistry, and Ranging) launched in August 2004. It entered into orbit around Mercury on March 18, 2011. It was to study the chemical composition, geology, and magnetic field of Mercury. It impacted the planet on April 30, 2015.",
 	"funding_level": "Discovery"
 },{
 	"tags": [],
@@ -3774,20 +3778,20 @@
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_impact",
 	"display_name": "Deep Impact",
-	"display_description": "The goal of the Deep Impact mission was to understand the physical and chemical properties of a comet as a function of depth below the surface.   The mission delivered an impactor spacecraft onto the nucleus of 9P/Tempel 1.",
+	"display_description": "The goal of the Deep Impact mission was to understand the physical and chemical properties of a comet as a function of depth below the surface.   The mission delivered an impactor spacecraft onto the nucleus of 9P/Tempel 1. It was launched on January, 12, 2005.",
 	"funding_level": "$240 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.epoxi",
 	"display_name": "Deep Impact EPOXI",
-	"display_description": "The Deep Impact EPOXI mission was an extension to the Deep Impact spacecraft in 2005. It studied comet 10P/Hartley, Moon, Comet Garradd (C/2009 P1), and Comet ISON. It consisted of no other spacecraft.",
+	"display_description": "Deep Impact EPOXI is the compilation of the two extended missions for the Deep Impact spacecraft. The first is called Deep Impact Extended Investigation (DIXI) and Extrasolar Planet Observation and Characterization (EPOCh). As part of the DIXI mission, the spacecraft flew by comet Hartley 2. As part of the EPOCh mission, the spacecraft used the larger of its two telescopes to find extrasolar planets using the transit method.",
 	"funding_level": "$40 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_space_1",
 	"display_name": "Deep Space 1",
-	"display_description": "The Deep Space 1 mission launched in 1998. It studied 9969 Braille and comet 19P/Borrelly. It consisted of no other spacecrafts.",
-	"funding_level": "$149.7 million"
+	"display_description": "Deep Space was a demonstration spacecraft to test advanced technologies. It was launched on October 24, 1998. It took images and spectra of all the comets and asteroids that it was sent. There were twelve technologies that were tested.",
+	"funding_level": "New Millennium"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.galileo",
