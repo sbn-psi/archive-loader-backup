@@ -3796,25 +3796,25 @@
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.galileo",
 	"display_name": "Galileo",
-	"display_description": "The Galileo mission was launched in 1989. It studied 951 Gaspra, 243 Ida, Dactyl, Comet Shoemaker-Levy 9, Jupiter and its moons. It consisted of an orbiter and atmospheric probe.",
+	"display_description": "The Galileo was sent to Jupiter to study the planet and its moons. It was delivered to space on Space Shuttle Atlantis on October 18, 1989. It sent an atmospheric probe into Jupiter's atmosphere to study the composition.",
 	"funding_level": "$1.39 billion"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.giotto",
 	"display_name": "Giotto",
-	"display_description": "The Giotto mission was launched in 1985. It studied the comet Halley and Grigg-Skjellerup. It consisted of no other spacecrafts."
+	"display_description": "The Giotto was a spacecraft that part of the Halley Armada to study comet Halley in 1986. The role of Giotto in the armada was to approach close to the nucleus of the comet to take images and measurements."
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.international_cometary_explorer",
 	"display_name": "International Cometary Explorer",
-	"display_description": "The ICE mission was launched in 1978. It studied comet Giacobini-Zinner and Halley. It consisted of no other spacecrafts.",
+	"display_description": "The International Cometary Explorer (ICE) became part of the Halley Armada to study comet Halley in 1986. It was first place in the Earth-Sun L1 position under the name of International Sun/Earth Explorer 3 (ISEE-3). It was to study the Sun-Earth relationship beyond the Earth's magnetosphere. As the part of the armada, it went through the tail of Halley to collect data. In 2014, a crowdfunding group tried to use it for another comet pass, but it lost contact with the spacecraft.",
 	"funding_level": "$3 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.juno",
 	"display_name": "Juno",
-	"display_description": "The Juno mission was launched in 2011. It studied Jupiter and its moons. It consisted of no other spacecraft.",
-	"funding_level": "$700 million"
+	"display_description": "Juno is a spacecraft that was sent to Jupiter. It was launched on August 5, 2011. It will take measurements to help find clues about how the planet formed, has a rocky core, and deep winds.",
+	"funding_level": "New Frontiers"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.magellan",
