@@ -3698,7 +3698,8 @@
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.phoenix",
 	"display_name": "Phoenix",
 	"display_description": "The Phoenix Mission was the first Scout class mission. It consisted of a single lander with associated instrumentation. Phoenix was launched on August 4, 2007 and landed on the northern plains of Mars (68.22 degrees N, 234.25 degrees East Areocentric) on May 25, 2008. The Lander operated until November 2, 2008, performing on the Martian surface for 152 sols (sols are Martian days, 1 sol equaling 24.66 hours). The Surface Phase constituted the primary and extended missions, and focused on testing the hypothesis that water ice exists beneath a thin soil cover, evaluating evidence for habitability zones, and monitoring weather during the northern summer. Hence, inferring the presence of water and its interaction with the Martian soil was of crucial importance.",
-	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/phoenix.png"
+	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/phoenix.png",
+	"funding_level": "Mars Scout"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_science_laboratory",
@@ -3819,32 +3820,32 @@
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.magellan",
 	"display_name": "Magellan",
-	"display_description": "The Magellan mission was launched in 1989. It studied Venus. It consisted no other spacecrafts.",
+	"display_description": "Magellan is a spacecraft that was sent to Venus to study the surface of the planet. It was launched on May 4, 1989 by the Space Shuttle Atlantis. It mapped the surface by radar.",
 	"funding_level": "$551 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mariner_10",
 	"display_name": "Mariner 10",
-	"display_description": "Mariner 10  was launched in 1973. It studied Venus and Mercury. It consisted of no other spacecraft.",
+	"display_description": "The Mariner 10 is a spacecraft that did flybys of Mercury and Venus. It was launched on November 3, 1973. It was the first spacecraft to use gravity assist to get to its destination.",
 	"funding_level": "$97 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.maven",
 	"display_name": "Mars Atmosphere and Volatile Evolution (MAVEN)",
-	"display_description": "The MAVEN mission was launched in 2013. It studied Mars. It consisted of no other spacecrafts.",
-	"funding_level": "$485 million"
+	"display_description": "The Mars Atmosphere and Volatile Evolution (MAVEN) spacecraft was sent to Mars to study the atmosphere. It was launched on November 18, 2013. It would study the loss of volatiles, current state of the upper atmosphere, rate of escape for the gases, and ratios of stable isotopes. In 2017, the orbit was changed to be part of the communications relay for Mars.",
+	"funding_level": "Mars Scout ($485 million)"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.new_horizons",
 	"display_name": "New Horizons",
-	"display_description": "The New Horizons mission was launched in 2006. It studied Pluto and its moons, 2014 MU. It consists of no other spacecrafts.",
-	"funding_level": "$550 million"
+	"display_description": "The New Horizons was launched on January 19, 2006. It was to study Pluto and its moons. Its extended mission has it doing flybys of Kuiper Belt Objects that it can. The spacecraft will eventually leave the Solar System.",
+	"funding_level": "New Frontiers"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.international_rosetta_mission",
 	"display_name": "International Rosetta Mission/ Philae",
-	"display_description": "The Rosetta mission was launched in 2004. It studied 21 Lutetia, 2867 Steins, Mars, and 67P/Churyumov-Gerasimenko. It consisted of an orbiter and a lander.",
-	"funding_level": "$900 million"
+	"display_description": "The Rosetta mission was launched on March 2, 2004. It was to do a detailed study of comet Churyumov-Gerasimenko. It was the first spacecraft to orbit a comet, and to have a lander on a comet.",
+	"funding_level": "Cornerstone (Horizon 2000)"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_10",
