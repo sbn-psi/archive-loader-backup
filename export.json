@@ -3850,37 +3850,37 @@
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_10",
 	"display_name": "Pioneer 10",
-	"display_description": "The Pioneer 10 was launched in 1972. It studied Jupiter. It consisted of no other spacecrafts.",
+	"display_description": "Pioneer 10 was the first spacecraft that went to Jupiter. It was also the first spacecraft to achieve escape velocity. It was launched on March 2, 1972. It was at 80 AU from Earth when it lost contact.",
 	"funding_level": "$350 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_venus",
 	"display_name": "Pioneer Venus",
-	"display_description": "The Pioneer Venus mission was launched in 1978. It studied Venus. It consisted of an orbiter and a bus that carried a large probe and three small probes.",
+	"display_description": "The Pioneer Venus was launched on May 20, 1978. It had an orbiter and four probes that entered the atmosphere. One probe had even transmitted data from the surface. The bus that carried the orbiter and probes also had mass spectrometers to study the atmosphere. The orbiter lasted until August 1992.",
 	"funding_level": "$208 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.stardust",
 	"display_name": "Stardust",
-	"display_description": "The Stardust mission was launched in 1999. It studied asteroid 5535 Annefrank and comet Wild 2. It consisted of no other spacecraft.",
-	"funding_level": "$199.6 million"
+	"display_description": "The Stardust is a spacecraft that was the first sample return mission. It collected dust from the coma of the comet. It was launched on February 7, 1999. It got an extended mission to Tempel 1.",
+	"funding_level": "Discovery"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.ulysses",
 	"display_name": "Ulysses",
-	"display_description": "The Ulysses mission was launched in 1990. It studied Jupiter, comet Hyakutake, McNaught-Hartley, and McNaught. It consisted of no other spacecrafts.",
+	"display_description": "The Ulysses main mission was to study the Sun. It was launch on Space Shuttle Discovery on October 6, 1990. It needed to use Jupiter in a gravity assist to get into an orbit that was about 80 degrees inclination to the ecliptic. It passed through a few comet tails.",
 	"funding_level": "$756 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_express",
 	"display_name": "Mars Express",
-	"display_description": "The Mars Express mission was launched in 2003. It studied Mars. It consisted of an orbiter and a lander.",
+	"display_description": "Mars Express was launched on June 2, 2003. The mission had an orbiter and a lander. The lander wasn't able to fully deploy once it landed. The orbiter studies the atmosphere of Mars and maps the surface.",
 	"funding_level": "$150 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.phobos_2",
 	"display_name": "Phobos 2",
-	"display_description": "The Phobos 2 mission was launched in 1988. It studied Phobos and Mars. It consisted of no other spacecrafts.",
+	"display_description": "The Phobos 2 was launched on July 12, 1988. It was designed to study the satellites of Mars. It had two landers with it. The spacecraft was able to take images of Phobos and measurements of the Marian atmosphere before its signal was lost.",
 	"funding_level": "$480 million"
 },{
 	"tags": [],
