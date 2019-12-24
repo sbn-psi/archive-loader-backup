@@ -3886,43 +3886,43 @@
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.sakigake",
 	"display_name": "Sakigake",
-	"display_description": "The Sakigake mission was launched in 1985. It studied the comet Halley. It consisted of no other spacecrafts.",
+	"display_description": "The Sakigake spacecraft was part of the Halley Armada. It was to study the interplanetary plasma and magnetic field. It was launched on January 7, 1985.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.suisei",
 	"display_name": "Suisei",
-	"display_description": "The Suisei mission was launched in 1985. It studied the comet Halley. It consisted of no other spacecrafts.",
+	"display_description": "The Suisei spacecraft was part of the Halley Armada. The main objective was to take UV images of the corona of comet. It was launched on August 18, 1985.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.venera_15_and_16",
 	"display_name": "Venera 15 AND 16",
-	"display_description": "The Venera mission launched in 1983. It studied Venus. This mission consisted of two orbiters.",
+	"display_description": "Venera 15 and 16 mission were orbiters that took high resolution imaging of the surface of Venus. The two orbiters were in near polar orbits. These two orbiters were identical to each other.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.vega_1",
 	"display_name": "Vega 1",
-	"display_description": "The Vega 1 mission launched in 1984. It studied Venus and comet Halley. This mission consisted of of lander and balloon.",
+	"display_description": "Vega 1 was launch on December 15, 1984. It was sent to Venus to study the atmosphere and surface. The lander was unable to provide a data. The two balloons were deployed on the dark side and stayed in the zone that is most Earth-like. This spacecraft was part of the Halley Armada. It left Venus to have the encounter to get measurements of the comet and its nucleus.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.vega_2",
 	"display_name": "Vega 2",
-	"display_description": "The Vega 2 mission launched in 1984. It studied Venus and comet Halley. This mission consisted of of lander and balloon.",
+	"display_description": "Vega 1 was launch on December 21, 1984. It was sent to Venus to study the atmosphere and surface. The lander studied the atmosphere as it descended and the surface. The two balloons were deployed on the dark side and stayed in the zone that is most Earth-like. This spacecraft was part of the Halley Armada. It left Venus to have the encounter to get measurements of the comet and its nucleus. Afterwards, it measured dust from other comets.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.venus_express",
 	"display_name": "Venus Express",
-	"display_description": "The Venus Express mission launched in 2005. It studied Venus. This mission consisted of no other spacecrafts.",
+	"display_description": "The Venus Express spacecraft was sent to Venus to study the atmosphere for a longer period than before. It was launched on November 9, 2005. It was also able to make global maps of the surface temperatures. It was able to provide observations of Earth that are used to help develop methods to studying habitability of exoplanets.",
 	"funding_level": "$262 million"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.chandrayaan-1",
 	"display_name": "Chandrayaan-1",
-	"display_description": "The Chandrayaan-1 mission was launched in 2008. It studied the Moon. It consisted of an orbiter and an impactor.",
+	"display_description": "The Chandrayaan-1 was an orbiter and impactor mission to the Moon. It was the first for the Indian Space Research Organisation. It was launched on October 22, 2008. It helped confirmed the presence of water on the Moon.",
 	"funding_level": "$83 million"
 },{
 	"tags": [],
