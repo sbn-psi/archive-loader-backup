@@ -3928,61 +3928,61 @@
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_12",
 	"display_name": "Apollo 12",
-	"display_description": "Apollo 12 was launched in 1969. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"display_description": "The Apollo 12 was the second mission that allowed humans to walk on the Moon. It consisted of the Command and Service Module (CSM) and the Lunar Module (LM). The CSM took images of the surface and communicated with Earth. The LM carried the Astronauts and Apollo Lunar Surface Experiments Package (ALSEP) to the surface.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_14",
 	"display_name": "Apollo 14",
-	"display_description": "Apollo 14 was launched in 1971. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"display_description": "The Apollo 14 was the third mission that allowed humans to walk on the Moon. It consisted of the Command and Service Module (CSM) and the Lunar Module (LM). The CSM took images of the surface and communicated with Earth. The LM carried the Astronauts and Apollo Lunar Surface Experiments Package (ALSEP) to the surface.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_15",
 	"display_name": "Apollo 15",
-	"display_description": "Apollo 15 was launched in 1971. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"display_description": "The Apollo 15 was the fourth mission that allowed humans to walk on the Moon. It consisted of the Command and Service Module (CSM) and the Lunar Module (LM). The CSM took images of the surface and communicated with Earth. The LM carried the Astronauts and Apollo Lunar Surface Experiments Package (ALSEP) to the surface.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_16",
 	"display_name": "Apollo 16",
-	"display_description": "Apollo 16 was launched in 1972. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"display_description": "The Apollo 16 was the fifth mission that allowed humans to walk on the Moon. It consisted of the Command and Service Module (CSM) and the Lunar Module (LM). The CSM took images of the surface and communicated with Earth. The LM carried the Astronauts and Apollo Lunar Surface Experiments Package (ALSEP) to the surface.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_17",
 	"display_name": "Apollo 17",
-	"display_description": "Apollo 17 was launched in 1972. It studied the Moon. Apollo Lunar Surface Experiment Package was left on the landing site.",
+	"display_description": "The Apollo 17 was the sixth mission that allowed humans to walk on the Moon. It consisted of the Command and Service Module (CSM) and the Lunar Module (LM). The CSM took images of the surface and communicated with Earth. The LM carried the Astronauts and Apollo Lunar Surface Experiments Package (ALSEP) to the surface.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.contour_mission",
 	"display_name": "Comet Nucleus Tour Mission",
-	"display_description": "The Comet Nucleus Tour (CONTOUR) mission launched 2002.",
+	"display_description": "The Comet Nucleus Tour (CONTOUR) was a supposed to flyby two comet nuclei. It was launched on July 3, 2002. Communication was lost on August 15, 2002. It did help provide some navigation techniques for spacecraft.",
 	"funding_level": "Discovery"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.iue",
 	"display_name": "International Ultraviolet Explorer (IUE)",
-	"display_description": "The International Ultraviolet Explorer (IUE) was launched 1978. The satellite was developed to provide a general facility for observing ultraviolet (UV) spectra of astronomical sources.",
+	"display_description": "The International Ultraviolet Explorer (IUE) is an UV spectra observatory satellite. It was launched on January 26, 1978. It was able to observations on objects that included Solar System bodies.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.midcourse_space_experiment",
 	"display_name": "Midcourse Space Experiment",
-	"display_description": "The Midcourse Space Experiment (MSX) mission launched 1996.",
+	"display_description": "The Midcourse Space Experiment (MSX) was a satellite. It had optical sensors cover the spectrum from the far ultraviolet to the far infrared. It was also able to identify and track ballistic missiles. It was launched on April 24, 1996. It did take measurements for Solar System objects.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_8",
 	"display_name": "Pioneer 8",
-	"display_description": "Pioneer 8, also known as Pioneer C, was launched on 13 December 1967 into a heliocentric orbit to study interplanetary space with a primary focus to collection data on magnetic fields, plasma, and cosmic rays.",
+	"display_description": "The Pioneer 8, Pioneer C, was launched on December 13, 1967. It was part of group of spacecrafts to study space weather at various points between Earth and the Sun. The spacecraft was in a solar orbit of 1.1 AU.",
 	"funding_level": "n/a"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_9",
 	"display_name": "Pioneer 9",
-	"display_description": "Pioneer 9, also known as Pioneer D, was launched on 08 November 1968 into a heliocentric orbit to study interplanetary space with a primary focus of collecting data on magnetic fields, plasma, and cosmic rays.",
+	"display_description": "The Pioneer 9, Pioneer D, was launched on November 8, 1968. It was part of group of spacecrafts to study space weather at various points between Earth and the Sun. The spacecraft was in a solar orbit of 0.8 AU.",
 	"funding_level": "n/a"
 }],"spacecraft": [{
 	"tags": [
@@ -4740,7 +4740,8 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"display_name": "Stardust",
-	"display_description": "The Stardust mission was launched in 1999. It studied asteroid 5535 Annefrank, comet Wild 2, and comet Tempel 1."
+	"display_description": "The Stardust mission was launched in 1999. It studied asteroid 5535 Annefrank, comet Wild 2, and comet Tempel 1.",
+	"mission_override": "urn:nasa:pds:context:investigation:mission.stardust"
 },{
 	"tags": [
 		"Flyby"
