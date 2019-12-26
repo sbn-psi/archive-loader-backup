@@ -4615,7 +4615,8 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.iue",
 	"display_name": "International Ultraviolet Explorer",
-	"display_description": "The IUE satellite was launched on 26 January 1978 into an elliptical geosynchronous orbit, in which it is always visible from Goddard Space Flight Center (GSFC)."
+	"display_description": "The IUE satellite was launched on 26 January 1978 into an elliptical geosynchronous orbit, in which it is always visible from Goddard Space Flight Center (GSFC).",
+	"mission_override": "urn:nasa:pds:context:investigation:mission.iue"
 },{
 	"tags": [
 		"Orbiter"
@@ -4699,7 +4700,8 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.p12",
 	"display_name": "Pioneer 12",
-	"display_description": "The Pioneer Venus mission was launched in 1978. It studied Venus. It consisted of an orbiter and a bus that carried a large probe and three small probes."
+	"display_description": "The Pioneer Venus mission was launched in 1978. It studied Venus. It consisted of an orbiter and a bus that carried a large probe and three small probes.",
+	"mission_override": "urn:nasa:pds:context:investigation:mission.pioneer_venus"
 },{
 	"tags": [
 		"Orbiter"
@@ -4772,7 +4774,8 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.v16",
 	"display_name": "Venera 16",
-	"display_description": "The Venera 15 spacecraft was launched in 1983. It studied Venus."
+	"display_description": "The Venera 15 spacecraft was launched in 1983. It studied Venus.",
+	"mission_override": "urn:nasa:pds:context:investigation:mission.venera_15_and_16"
 },{
 	"tags": [
 		"Flyby",
