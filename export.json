@@ -7471,6 +7471,73 @@
 	"logical_identifier": "urn:nasa:pds:context:instrument:euv.maven",
 	"display_name": "MAVEN Extreme Ultraviolet Monitor",
 	"display_description": "The EUV monitor is designed to measure the solar irradiance in three broad bands in the soft x-ray and extreme ultraviolet wavelength range. It consists of three filter radiometers that each have a limiting aperture, bandpass limiting filter, silicon photodiode detector, and an electrometer to measure the current in the detector. A fourth detector-electrometer combination that is blocked from receiving any light input is used as a “dark” detector to monitor changes in the thermal and radiation induced background signals. A temperature diode is also included in the EUV instrument. There is also a mechanism to place or remove additional fused silica windows in front of the three science apertures. These filters block the EUV and X-ray sunlight, but still allow longer wavelength light (primarily visible) through into the radiometers. This allows for a measurement of the out-of-band contribution to the signals from the science channels."
+},{
+	"tags": [
+		"Mass Spectrometer",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ngims.maven",
+	"display_name": "MAVEN Neutral Gas and Ion Mass Spectrometer",
+	"display_description": "The MAVEN Neutral Gas and Ion Mass Spectrometer (NGIMS) is a high sensitivity quadrupole mass spectrometer with a mass range of 2 to 150 Dalton and unit mass resolution. The sensor of the NGIMS instrument has a high heritage from the Neutral Gas and Ion Mass Spectrometer (NGIMS) developed for the CONTOUR mission and the Neutral Mass Spectrometer (NMS) developed for the LADEE Mission. This mass spectrometer is similar to the Cassini Ion and Neutral Mass Spectrometer (INMS) designed and developed at GSFC. The MAVEN NGIMS instrument was modified from the heritage CONTOUR NGIMS instrument to increase the instrument sensitivity, field of view and overall operational flexibility."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:static.maven",
+	"display_name": "MAVEN Supra-Thermal and Thermal Ion Composition",
+	"display_description": "The Supra-Thermal And Thermal Ion Composition (STATIC) instrument is designed to measure the ion composition and distribution function of the cold Martian ionosphere, of the heated suprathermal tail of this plasma in the upper ionosphere, and the pickup ions accelerated by solar wind electric fields. STATIC operates over an energy range of 0.1 eV up to 30 keV, with a base time resolution of 4 seconds. The instrument consists of a toroidal “top hat” electrostatic analyzer with a 360 degree x 90 degree field-of-view, combined with a time-of-flight (TOF) velocity analyzer with 22.5 degree resolution in the detection plane. The TOF combines a -15 kV acceleration voltage with ultra-thin carbon foils to resolve H+, He++, He+, O+, O2+, and CO2+ ions. Secondary electrons from carbon foils are detected by microchannel plate detectors and binned into a variety of data products with varying energy, mass, angle, and time resolution. To prevent detector saturation when measuring cold RAM ions at periapsis (~10**11 eV/cm**2-s-sr-eV) while maintaining adequate sensitivity to resolve tenuous pickup ions at apoapsis (~10**3 eV/cm**2-s-sreV), the sensor includes both mechanical and electrostatic attenuators that increase the dynamic range by a factor of 10**3. The STATIC sensor is mounted on the APP boom, along with NGIMS and IUVS, so that it can be pointed in the ram direction during periapsis passes. During apoapsis, pointing of the APP is alternated between optimal viewing for IUVS and STATIC, both of which depend on orbit parameters and local time."
+},{
+	"tags": [
+		"UV Detector",
+		"Sensor Package"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:lpw.maven",
+	"display_name": "MAVEN Langmuir Probe and Waves Instrument",
+	"display_description": "The LPW instrument measures the electron density (ne) and temperature (Te) of Mars ionosphere and detects waves that can heat ions in resulting in atmospheric loss. The instrument is designed to measure three different types of quantities using three sensors. First is the Extreme UltraViolet (EUV) sensor monitoring the irradiance of the Sun. The details of the EUV sensor and higher order data products are described separately. The other two quantities use the same sensors to measure the in-situ plasma. The sensors are two cylindrical sensors mounted on two ~7-meter booms. Electronically the LPW sensors 1 and 2 are either operated as two separate Langmuir probe (LP) instruments or as one electric field instrument. The Boom Electronics Board (BEB) and the Digital Fields Board (DFB) controls the three sensors and process the three sensor information. The LPW is a part of the Particle and Fields (PF) suite and controlled by Particle and Fields Digital Processing Unit (PFDPU).  The BEB and DFB are part of the PFDPU located inside the spacecraft body."
+},{
+	"tags": [
+		"Electron Detector",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sep.maven",
+	"display_name": "MAVEN Solar Energetic Particle Instrument",
+	"display_description": "The Solar Energetic Particle Instrument (SEP) consists of 2 sensors, each consisting of a pair of double-ended solid-state telescopes, measuring electrons and ions over the energy ranges ~30-1000 keV and ~30-12,000 keV/nuc respectively. The SEP sensors are closely based on the Solid State Telescope (SST) sensors on the THEMIS probes and also share significant heritage with the SupraThermal Electron (STE) detectors on STEREO and the SST detectors on the Wind spacecraft.\nThe SEP sensors are mounted on two corners of the top deck of the spacecraft, positioned to ensure that the fields of view (FOVs) adequately cover the canonical Parker spiral direction (around which solar energetic particle distributions are typically centered), while 1) always avoiding glint from the spacecraft, other sensors and the Articulated Payload Platform (APP) and 2) avoiding direct sunlight during spacecraft attitudes typical of normal science operations."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:swia.maven",
+	"display_name": "MAVEN Solar Wind Ion Analyzer",
+	"display_description": "The Solar Wind Ion Analyzer (SWIA) is an electrostatic analyzer designed to measure solar wind and magnetospheric ions in the Martian system over an energy/charge range of ~5-25000 eV/q. The SWIA electronics are most directly based on those of THEMIS ESA, and the analyzer includes new deflection optics in order to provide a large field of view on the 3-axis stabilized MAVEN spacecraft. The SWIA sensor is mounted on the corner of the top deck of the spacecraft, positioned to ensure a clear field of view over both sides of the solar panel. For the nominal sun-pointed spacecraft orientation, the sensor is aligned such that the sun is centered in the sensor field of view, with an unobstructed field of view around the nominal solar wind flow direction."
+},{
+	"tags": [
+		"Electron Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:swea.maven",
+	"display_name": "MAVEN Solar Wind Electron Analyzer",
+	"display_description": "The Solar Wind Electron Analyzer (SWEA) is a symmetric, hemispheric electrostatic analyzer designed to measure the energy and angular distributions of solar wind electrons and ionospheric photoelectrons in the Mars environment."
+},{
+	"tags": [
+		"Accelerometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:acc.maven",
+	"display_name": "MAVEN Accelerometer",
+	"display_description": "The structure of the upper atmosphere of Mars has been probed in situ mainly using spacecraft accelerometers during the aerobraking phases of 3 Mars orbiters. In a similar manner, MAVEN Accelerometer Experiment (ACC) will also use atmospheric drag accelerations sensed by inertial measurement units onboard the spacecraft to recover atmospheric density along the orbiter path. These densities are used to estimate hydrostatic ‘vertical’ density and temperature profiles, along track and altitudinal density waves, and latitudinal and longitudinal density variations."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:mag.maven",
+	"display_name": "MAVEN Magnetometer",
+	"display_description": "The MAVEN magnetic field investigation (MAG) consists of two independent and identical fluxgate magnetometer systems that are interfaced to and controlled by the PFDPU. The particles and fields package is a stack of individual electronics boxes that service each of the instruments; two of the “slices” are occupied by identical magnetometer electronics boxes that service the two magnetometer sensors. Each electronics box is fully shielded and each draws power from the redundant power supplies within the PFP.\nThe magnetometer sensors are located at the very end of the solar array panels on modest extensions (.66 m in length) designated as MAG “boomlets”, placing them approximately 5.6 m from the center of the spacecraft body."
 }],"targetRelationships": [{
 	"parent_ref": "urn:nasa:pds:context:target:planet.mars",
 	"child_ref": "urn:nasa:pds:context:target:satellite.mars.phobos"
@@ -11587,36 +11654,36 @@
 	"instrument": "urn:nasa:pds:context:instrument:euv.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:acc.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:swia.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:mag.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:ngims.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:swea.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:lpw.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:static.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"instrument": "urn:nasa:pds:context:instrument:sep.maven",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 }],"tools": [{
 	"name": "Small Bodies Image Browser",
