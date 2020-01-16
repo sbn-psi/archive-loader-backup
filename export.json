@@ -7891,6 +7891,174 @@
 	"logical_identifier": "urn:nasa:pds:context:instrument:orse.pvo",
 	"display_name": "Pioneer Venus Orbiter Radio Science Experiment",
 	"display_description": "This experiment made use of the S-band and X-band radio signals for data measurements. The objectives were (1) to measure refractivity profiles, (2) to measure S- and X-band dispersion and absorption, (3) to measure electron density height profiles, and (4) to determine the dynamics of the lower atmosphere."
+},{
+	"tags": [
+		"Dust Detector",
+		"Spacecraft Monitor"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:giada.ro",
+	"display_name": "Rosetta Grain Impact Analyzer and Dust Accumulator",
+	"display_description": "The Grain Impact Analyser and Dust Accumulator (GIADA) on Rosetta is designed to perform in-situ studies on the dust and small grain environment of a comet. The primary scientific objectives are to study: 1) dust size distribution at the nucleus; 2) the dust to gas ratio; 3) the time evolution of the dust environment as a function of the heliocentric distance ; 4) the dust mass loss rate; and 5) the grain dynamic properties. It will also perform synergistic relations with other instruments onboard Rosetta. GIADA is contained in a box-shaped housing and consists of three modules: GIADA-3, an assembly of 5 micro-balance systems designed to measure dust mass flux; GIADA-2, the main electronics sub-system; and GIADA-1, which consists of a grain detection system and an impact sensor."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:osiwac.ro",
+	"display_name": "Rosetta OSIRIS - Wide Angle Camera",
+	"display_description": "The Optical, Spectroscopic, and Infrared Remote Imaging System (OSIRIS) is the primary imaging system on the Rosetta spacecraft. The primary scientific objectives of OSIRIS are to determine the volume, bulk density, rotational state, topography, surface features, color, and mineralogy of the nucleus; analyze short term variability, mass loss rate, outbursts, crustal diffusion processes, non-gravitational forces, and active regions on the nucleus; characterize possible landing sites; search for gravitationally bound material, particularly large orbiting particles; and study the dust and gas environment, including all sources of dust emission and their variation with time, optical and physical properties of the dust, dust partical size distribution, particle fragmentation, acceleration, condensation and optical depth effects close to the dust source, the near-surface flow field of dust and its temporal evolution, night-side activity and thermal inertia effects on emission, and the distribution of daughter and parent molecules to evaluate the usefulness of daughter molecules as tracers for parent species."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:osinac.ro",
+	"display_name": "Rosetta OSIRIS - Narrow Angle Camera",
+	"display_description": "The Optical, Spectroscopic, and Infrared Remote Imaging System (OSIRIS) is the primary imaging system on the Rosetta spacecraft. The primary scientific objectives of OSIRIS are to determine the volume, bulk density, rotational state, topography, surface features, color, and mineralogy of the nucleus; analyze short term variability, mass loss rate, outbursts, crustal diffusion processes, non-gravitational forces, and active regions on the nucleus; characterize possible landing sites; search for gravitationally bound material, particularly large orbiting particles; and study the dust and gas environment, including all sources of dust emission and their variation with time, optical and physical properties of the dust, dust partical size distribution, particle fragmentation, acceleration, condensation and optical depth effects close to the dust source, the near-surface flow field of dust and its temporal evolution, night-side activity and thermal inertia effects on emission, and the distribution of daughter and parent molecules to evaluate the usefulness of daughter molecules as tracers for parent species."
+},{
+	"tags": [
+		"Spectrometer",
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:virtis.ro",
+	"display_name": "Rosetta Visible and Infrared Thermal Imaging Spectrometer",
+	"display_description": "The Visible Infrared Thermal Imaging Spectrometer (VIRTIS) instrument on the Rosetta spacecraft has as its primary scientific objectives to study the cometary nucleus and its environment, to determine the nature of the solids of the nucleus surface, to identify the gaseous species, to characterise the physical conditions of the coma, and to measure the temperature of the nucleus. Other objectives include helping with the selection of landing sites, providing support to other instruments and detection and characterization during asteroid flybys. VIRTIS consists of two channels: VIRTIS-M, which provides high spatial resolution visible and infrared imaging in the 0.25 to 5 micrometer range at moderate spectral resolution, and VIRTIS-H, providing high-resolution spectroscopy in the 2 to 5 micrometer range."
+},{
+	"tags": [
+		"Spectrometer",
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:alice.ro",
+	"display_name": "Rosetta Ultraviolet Imaging Spectrometer (ALICE)",
+	"display_description": "The ALICE instrument is a Roland Circle style imaging spectrograph designed to perform far-UV spectroscopy in the range of 0.07 to 0.205 micrometers (700-2050 angstroms). The scientific objectives of the instrument are: 1) determine volatalized rare gas content of the nucleus, which will provide information on the formation temperature and thermal history; 2) characterize the production rates and spatial distribution of H20, CO, and CO2; 3) make atomic budget measurements of C, H, O, N, S to profile the elemental composition of volatiles on nucleus; 4) study the onset of activity as the comet approaches the Sun; 5) spectrally map the nucleus; 6) measure the photometric properties and ice/ice/rock ratio of small grains; and 7) map the time variability of O+, N+, S+, C+ emissions in coma and ion tail."
+},{
+	"tags": [
+		"Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:miro.ro",
+	"display_name": "Rosetta Microwave Instrument for Rosetta Orbiter",
+	"display_description": "The Microwave Instrument for the Rosetta Orbiter (MIRO) is a microwave spectrometer designed with the following scientific objectives: 1) measure absolute abundance's of major volatile species; 2) characterize the fundamental isotope ratios, 3) quantify the surface outgassing rate; 4) measure the nucleus subsurface temperature and kinetic velocity; 5) measure subsurface temperature of asteroid targets; and 6) search for low levels of gas in the asteroid environment. MIRO is a dual-frequency, heterodyne receiver which can operate simultaneously as both a continuum and very high spectral resolution line receiver. The center band frequencies are 236 GHz (1.3 mm) and 562 GHz (0.5 mm). MIRO is pretuned to observe 8 transitions of 4 molecules including water, carbon monoxide, ammonia and methanol."
+},{
+	"tags": [
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cosima.ro",
+	"display_name": "Rosetta Cometary Secondary Ion Mass Analyzer",
+	"display_description": "The Cometary Secondary Ion Mass Analyzer (COSIMA) on Rosetta is designed to trap dust particles and analyze them with a mass spectrometer. The primary scientific objectives are to: 1) determine the elemental and isotopic composition of key elements in solid cometary particles and the chemical states of the particles; 2) characterize the variation of the chemical and isotopic composition between individual particles; 3) investigate the variability of the composition of different comets by comparing to the results obtained from comet Halley; 4) look for the presence of an organic component that is not associated with a rocky phase; and 4) examine the molecular composition of the organic and inorganic phase of the solid cometary particles."
+},{
+	"tags": [
+		"Dust Detector",
+		"Imager",
+		"Microscope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:midas.ro",
+	"display_name": "Rosetta Micro-Imaging Dust Analysis System",
+	"display_description": "The Micro-Imaging Dust Analysis System (MIDAS) on Rosetta is designed to capture dust particles and image them in three dimensions at nanometer scales with an atomic force microscope. The primary scientific objectives include: 1) obtaining images of single particles at a spatial resolution of 4 nm; 2) making statistical evaluations on sizes, volumes and shapes; 3) characterizing the size distribution from ~4 nm to a few micrometers; 4) analyzing the shape, volume, and topographic structure of individual particles; 5) profile the spatial and temporal variations of particle flux; 6) characterize the dust environment of the asteroids; and 7) perform imaging and statistical analysis of impact craters caused by interplanetary dust particles."
+},{
+	"tags": [
+		"Mass Spectrometer",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rosina.ro",
+	"display_name": "Rosetta Orbiter Spectrometer for Ion and Neutral Analysis",
+	"display_description": "The Rosetta Orbiter Spectrometer for Ion and Neutral Analysis (ROSINA) instrument consists of three sensors, a double focusing magnetic mass spectrometer, a reflectron time-of-flight mass spectrometer, and a neutral and ion dynamics monitor. The primary scientific objectives for the experiment are to: 1) determine the elemental, isotopic molecular composition of cometary atmosphere and ionosphere; 2) measure bulk velocities of neutral and ionized components; 3) study homogeneous and inhomogeneous reactions of neutrals and ions in dusty cometary atmosphere and ionosphere; and 4) investigate possible asteroid outgassing."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rsi.ro",
+	"display_name": "Rosetta Radio Science Investigation",
+	"display_description": "The Rosetta Orbiter radio science investigations will use the existing radio transmitters and receivers on the orbiter. There are three primary investigations in addition to the routine tracking which takes place for navigation and data return and will be used in conjunction with other experiments. The gravity mapping campaign will use Doppler and range tracking to estimate the mass and gravity field of the comet nucleus. The occultation experiments will study the effects of the innermost coma on radio signals which pass through the coma to Earth before and after occultations of the comet nucleus and will also help determine the morphology of the nucleus. Finally, bistatic radar observations will be used to study the surface of the comet by pointing the high-gain antenna at the nucleus and bouncing the signals off the surface towards Earth, where the forward-reflected signal will reveal properties of the surface such as the roughness and dielectric constant. The primary scientific objectives of the investigations are 1) to determine the mass, bulk density, gravity field, moment of inertia, spin state, orbit, lightshift, and thermal properties of the nucleus; 2) determine the size and shape of the nucleus; 3) determine the dielectric constant and roughness of the surface of the nucleus; 4) Profile the distribution of mm-dm size particles and the plasma content of the coma; 5) aid in determination of the dust and gas flux; and 6) determine asteroid mass and bulk density during flybys."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rpclap.ro",
+	"display_name": "Rosetta Plasma Consortium - Langmuir Probe",
+	"display_description": "The Langmuir Probe (LAP) is designed for detailed study of the plasma around the comet to address structure and dynamics of comet outgassing, relation of coma structures to comet surface properties, plasma structures and boundary layerswaves and fields in the coma, and possibly tail processes. The LAP is part of the Rosetta Plasma Consortium (RPC) which consists of four additional instruments: the Ion and Electron Sensor (IES), the Fluxgate Magnetometer (MAG), the Ion Composition Analyser (ICA), and the Mutual Impedance Probe (MIP). The scientific objectives of the RPC instruments are to study inner coma structure, dynamics, and aeronomy, characterize the development of cometary activity and the formation and evolution of the plasma tail, and investigate solar-wind and asteroid interaction."
+},{
+	"tags": [
+		"Ion Detector",
+		"Electron Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rpcies.ro",
+	"display_name": "Rosetta Plasma Consortium - Ion and Electron Sensor",
+	"display_description": "The Ion and Electron Sensor (IES) is an electrostatic analyzer designed to measure ions and electrons in the solar wind and cometary plasma. The IES is part of the Rosetta Plasma Consortium (RPC) which consists of four additional instruments: the Langmuir Probe Instrument (LAP), the Fluxgate Magnetometer (MAG), the Ion Composition Analyser (ICA), and the Mutual Impedance Probe (MIP). The scientific objectives of the RPC instruments are to study inner coma structure, dynamics, and aeronomy, characterize the development of cometary activity and the formation and evolution of plasma tail, and investigate solar-wind and asteroid interaction."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rpcmag.ro",
+	"display_name": "Rosetta Plasma Consortium - Fluxgate Magnetometer",
+	"display_description": "The Fluxgate Magnetometer (MAG) is designed to measure permanent and/or induced magnetic properties of the comet nucleus and the magnetic field in the comet-solar wind interaction zone. The MAG is part of the Rosetta Plasma Consortium (RPC) which consists of four additional instruments: the Langmuir Probe Instrument (LAP), the Ion and Electron Sensor (IES), the Ion Composition Analyser (ICA), and the Mutual Impedance Probe (MIP). The scientific objectives of the RPC instruments are to study inner coma structure, dynamics, and aeronomy, characterize the development of cometary activity and the formation and evolution of plasma tail, and investigate solar-wind and asteroid interaction."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rpcica.ro",
+	"display_name": "Rosetta Plasma Consortium - Ion Composition Analyzer",
+	"display_description": "The Ion Composition Analyser (ICA) is designed to determine the energy and direction of solar wind and cometary ions, and separate ion species by measuring the charge to mass ratio. The ICA is part of the Rosetta Plasma Consortium (RPC) which consists of four additional instruments: the Langmuir Probe Instrument (LAP), the Ion and Electron Sensor (IES), the Fluxgate Magnetometer (MAG), and the Mutual Impedance Probe (MIP). The scientific objectives of the RPC instruments are to study inner coma structure, dynamics, and aeronomy, characterize the development of cometary activity and the formation and evolution of plasma tail, and investigate solar-wind and asteroid interaction."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:navcam.ro",
+	"display_name": "Rosetta Navigation Camera",
+	"display_description": "The Navigation Camera (NavCam) is a part of the Attitude and Orbital Control System for the Rosetta Orbiter. It comprises two identical CCD cameras to provide for complete redundancy and single event upset. The purpose of the NavCam system is to provide imaging, autonomous acquisition and tracking of star-fields and extended sources, and autonomous navigation for Rosetta."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:navcam.sdu",
+	"display_name": "Stardust Navigation Camera",
+	"display_description": "The Stardust Imaging and Navigation Camera (NavCam) is designed to accurately determine the position of Comet P/Wild 2 during the approach and encounter for spacecraft navigation and then to obtain high resolution images of the nucleus. It is also designed to perform navigation and imaging during the asteroid Annefrank encounter."
+},{
+	"tags": [
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cida.sdu",
+	"display_name": "Stardust Cometary and Interstellar Dust Analyzer",
+	"display_description": "The Cometary and Interstellar Dust Analyzer (CIDA) is a space qualified time-of flight mass spectrometer designed to study the elemental and chemical composition of the particles in the coma of comet P/Wild 2. CIDA works on the principle that dust grains hitting a target will produce ionized particles which can be influenced by magnetic fields and whose mass can be analyzed based on the time it takes them to pass through an electrostatic reflector. It can measure a mass range from 1 to a few thousand atomic mass units and can handle impact velocities of 25-55 km/s, typical for interstellar material, to 6 km/s for cometary dust."
+},{
+	"tags": [
+		"Dust Detector",
+		"Accelerometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:dfmi.sdu",
+	"display_name": "Stardust Dust Flux Monitor Instrument",
+	"display_description": "The Dust Flux Monitor Instrument (DFMI) is designed to detect impacts and measure particle flux, intensity profile, and mass distribution. The instrument consists of a dust sensor unit and two acoustic sensors, all mounted on the main Whipple shield on the front of the spacecraft. The primary scientific objective of the investigation is to carry out quantitative measurements of particle impact rate and particle mass distribution throughout the flyby of Comet Wild 2. The secondary objective is to measure background interplanetary dust over the 7 year course of the mission."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:dynsci.sdu",
+	"display_name": "Stardust Dynamic Science Experiment",
+	"display_description": "The Dynamic Science investigation has two parts. The radio science portion will make use of the X-band telecommunications system to constrain the limits of the mass of the nucleus of Wild 2 by using measured Doppler frequency shifts in the coherent two-way X-band signal to estimate the motion of the spacecraft and the effect of the gravity field of the nucleus on the spacecraft. The other portion of the investigation involves use of the inertial measurement unit in the attitude control subsystem to estimate the magnitude of the large particle impacts and integrated dust flux."
+},{
+	"tags": [
+		"Sample Collector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:src.sdu",
+	"display_name": "Stardust Sample Return Capsule",
+	"display_description": "The Stardust Sample Collection Apparatus consisted of a disc-shaped paddle which could be deployed from the sample return capsule during collection periods and extended out from the spacecraft body on an armature. Sample collection was achieved with the use of aerogel, a low-density (0.02 gm/cc) inert microporous silica-based substance which will allow capture of high-relative-speed particles with minimal physical and chemical alteration. The aerogel is held by modular aluminum cells arranged in a grid pattern and deployed on the paddle. The useful collecting area of each side of the paddle is 1000 square centimeters."
 }],"targetRelationships": [{
 	"parent_ref": "urn:nasa:pds:context:target:planet.mars",
 	"child_ref": "urn:nasa:pds:context:target:satellite.mars.phobos"
@@ -8701,6 +8869,9 @@
 	"type": "instruments"
 },{
 	"name": "UV Detector",
+	"type": "instruments"
+},{
+	"name": "Sample Collector",
 	"type": "instruments"
 }],"objectRelationships": [{
 	"instrument": "urn:nasa:pds:context:instrument:instrument.ldex__ladee",
@@ -11811,64 +11982,64 @@
 	"instrument": "urn:nasa:pds:context:instrument:ts.phb2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpclap.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:cosima.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:navcam.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:midas.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rsi.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpcies.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:virtis.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpcica.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpcmag.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:osinac.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:miro.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rosina.ro",
-	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:osiwac.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:alice.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:giada.ro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sakig",
@@ -11887,24 +12058,24 @@
 	"target": "urn:nasa:pds:context:target:calibrator.calibration",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"instrument": "urn:nasa:pds:context:instrument:cida.sdu",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"instrument": "urn:nasa:pds:context:instrument:dynsci.sdu",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
+	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:src.sdu",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"relationshipId": "2de37d29-9c67-4997-a147-dae44dcd56ed"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"instrument": "urn:nasa:pds:context:instrument:dfmi.sdu",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"instrument": "urn:nasa:pds:context:instrument:navcam.sdu",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.suisei",
