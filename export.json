@@ -5048,7 +5048,7 @@
 		"Radio Detector"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:pra.vg2",
-	"display_name": "Planetary Radio Astronomy Receiver",
+	"display_name": "Voyager 2 Planetary Radio Astronomy Receiver",
 	"display_description": "This experiment consisted of a sweep-frequency radio receiver operating in both polarization states, between 20 kHz and 40.5 MHz. The signal was received by a pair of orthogonal 10-m monopole antennas. The physics of magnetospheric plasma resonances and of nonthermal radio emissions from these planetary regions was studied by investigation of the radio emission signals from Jupiter and Saturn over this range of frequencies, and similar studies will be done at Uranus and Neptune.",
 	"is_prime": true,
 	"tools": []
@@ -8059,6 +8059,455 @@
 	"logical_identifier": "urn:nasa:pds:context:instrument:src.sdu",
 	"display_name": "Stardust Sample Return Capsule",
 	"display_description": "The Stardust Sample Collection Apparatus consisted of a disc-shaped paddle which could be deployed from the sample return capsule during collection periods and extended out from the spacecraft body on an armature. Sample collection was achieved with the use of aerogel, a low-density (0.02 gm/cc) inert microporous silica-based substance which will allow capture of high-relative-speed particles with minimal physical and chemical alteration. The aerogel is held by modular aluminum cells arranged in a grid pattern and deployed on the paddle. The useful collecting area of each side of the paddle is 1000 square centimeters."
+},{
+	"tags": [
+		"Ion Detector",
+		"Radiation Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:grb.uly",
+	"display_name": "Ulysses Solar X-Ray/Cosmic Gamma-Ray Burst Instrument",
+	"display_description": "The objectives of this investigation are to study the acceleration and storage of energetic electrons accelerated during solar flares by measuring solar X-radiation; to identify gamma-ray burst sources with known celestial objects or phenomena; and to study plasma and energetic charged particle processes in the Jovian magnetosphere."
+},{
+	"tags": [
+		"Ion Detector",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cospin-het.uly",
+	"display_name": "Ulysses COSPIN - High Energy Telescope",
+	"display_description": "The objectives of this investigation are to study the energy, charge, and mass spectra of energetic charged particles in interplanetary space in the energy range from approximately 0.5 MeV/nucleon (for protons) to approximately 100 MeV/nucleon; and to study spatial gradients and the propagation of charged particles throughout the heliosphere by measuring absolute flux and vector anisotropy. The instrument consists of six charged-particle telescopes (CPT) and associated electronics. Through measurements of the intensity and chemical and isotopic composition of nucleonic cosmic rays with energies of order 10 through a few hundred MeV/nucleon, the telescope provides data relevant to a number of important questions in heliospheric and galactic cosmic ray physics, including acceleration of particles in solar flares, the nature of solar modulation, the structure of the heliospheric modulation region, the characteristics of the interstellar medium, conditions in the acceleration region itself, and results of nucleosynthesis in supernovae.  In addition, the telescope provides measurements of electrons with energies of a few MeV for investigation of the propagation of solar and Jovian electrons throughout the heliosphere.\nThe high energy telescope (HET) is a large geometric factor cosmic ray telescope that uses particle trajectory determination together with the dE/dX vs.  residual E technique to measure the energy and identify the mass and charge of cosmic rays.  The HET with its analogue and digital electronics forms the largest part of SIM2, with the HFT, mounted on top. Detectors D[1]-D[6] provide signals that allow determination of the trajectory of the incident particle, and detectors K[1]-K[6] provide accurate measurement of the energy loss rates and total energy of particles which stop in the K detectors.  For particles which stop in the detector stack, the telescope provides charge and mass resolution sufficient for studies of the chemical and isotopic composition of cosmic rays from hydrogen through nickel."
+},{
+	"tags": [
+		"Spectrometer",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cospin-let.uly",
+	"display_name": "Ulysses COSPIN - Low Energy Telescope",
+	"display_description": "The objectives of this investigation are to study the energy, charge, and mass spectra of energetic charged particles in interplanetary space in the energy range from approximately 0.5 MeV/nucleon (for protons) to approximately 100 MeV/nucleon; and to study spatial gradients and the propagation of charged particles throughout the heliosphere by measuring absolute flux and vector anisotropy. The instrument consists of six charged-particle telescopes (CPT) and associated electronics. The COSPIN Low Energy Telescope (LET) measures the flux, energy spectra and elemental composition of solar energetic particles and low energy cosmic ray nuclei from hydrogen up to iron.  The instrument covers an energy range from ~ 1 to ~ 75 MeV/n, using a double dE/dX vs.  E telescope.  Comprehensive on-board particle identifier electronics and an event priority system enable rare nuclei to be analyzed in preference to the more common species.  Isotope separation for light nuclei such as He is also achieved."
+},{
+	"tags": [
+		"Ion Detector",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cospin-at.uly",
+	"display_name": "Ulysses COSPIN - Anisotropy Telescope",
+	"display_description": "The objectives of this investigation are to study the energy, charge, and mass spectra of energetic charged particles in interplanetary space in the energy range from approximately 0.5 MeV/nucleon (for protons) to approximately 100 MeV/nucleon; and to study spatial gradients and the propagation of charged particles throughout the heliosphere by measuring absolute flux and vector anisotropy. The instrument consists of six charged-particle telescopes (CPT) and associated electronics. The Anisotropy Telescope (AT) sensor unit consists of two, identical charged-particle telescopes, each with a geometrical factor of 0.75 cm^2 sr, whose role is to measure the three-dimensional charged-particle distribution in the energy ranges 0.7 to 2.2 MeV for Z >= 1, 2.2 to 6.5 MeV for protons, and 3.1 to 23.0 MeV for Z >= 2.  The three dimensional distribution measurements are achieved by inclining the two telescopes at independent angles (AT1 at 145[deg.] and AT2 at 60[deg.]) to the spin axis of the spacecraft and sectoring (8 sectors) the data outputs of the telescopes during each spin."
+},{
+	"tags": [
+		"Electron Detector",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cospin-hft.uly",
+	"display_name": "Ulysses COSPIN - High Flux Telescope",
+	"display_description": "The objectives of this investigation are to study the energy, charge, and mass spectra of energetic charged particles in interplanetary space in the energy range from approximately 0.5 MeV/nucleon (for protons) to approximately 100 MeV/nucleon; and to study spatial gradients and the propagation of charged particles throughout the heliosphere by measuring absolute flux and vector anisotropy. The instrument consists of six charged-particle telescopes (CPT) and associated electronics. The HFT is designed: (a) to provide measurements of protons, helium, and heavier particles when the fluxes are too intense for the larger telescopes, and (b) to provide an instrument with exceptional azimuthal resolution so that highly collimated field-aligned particle distributions can be measured if they are encountered, especially over the solar poles and in Jupiter's magnetosphere."
+},{
+	"tags": [
+		"Electron Detector",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cospin-ket.uly",
+	"display_name": "Ulysses COSPIN - Kiel Electron Telescope",
+	"display_description": "The objectives of this investigation are to study the energy, charge, and mass spectra of energetic charged particles in interplanetary space in the energy range from approximately 0.5 MeV/nucleon (for protons) to approximately 100 MeV/nucleon; and to study spatial gradients and the propagation of charged particles throughout the heliosphere by measuring absolute flux and vector anisotropy. The instrument consists of six charged-particle telescopes (CPT) and associated electronics. The Kiel Electron Telescope (KET) is designed to measure electron fluxes between 2.5 and 6000 MeV, and to determine energy spectra in the range 7 - 170 MeV.  The telescope also provides measurements of the proton and alpha-particle fluxes in several energy windows between 3 and > 2100 MeV/nucleon.  In addition, two low-energy electron and proton channels provide anisotropy information in 8 sectors.\nThe determination of electron spectra and their variation with distance from the sun and solar latitude provides vital information on the solar modulation of interstellar electrons as well as on acceleration and propagation of interplanetary and solar electrons.  The measurement of protons and helium nuclei with the same telescope enhances confidence in the calibration and response of the telescope, and permits investigation of the dependence on particle species of the effects of solar distance and latitude."
+},{
+	"tags": [
+		"Dust Detector",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:udds.uly",
+	"display_name": "Ulysses Dust Detection System",
+	"display_description": "The objective of the Ulysses dust experiment is to investigate the physical and dynamical properties of small dust particles as a function of ecliptic latitude and heliocentric distance, and the study of their interrelation with interplanetary/interstellar phenomena.  The parameters to be determined include the mass, speed, flight direction and electric charge of individual particles.  Specific objectives are: (1) to determine the impact rate, size frequency, and the distribution of flight directions and electric charges of interplanetary dust particles; (2) to classify particle orbits into bound orbits around the Sun or hyperbolic orbits leaving or entering the solar system; (3) to study the distributions of orbital elements (semi-major axis, eccentricity, inclination ) of particles in bound orbits; (4) to determine as functions of heliocentric distance and ecliptic latitude the spatial density of the interplanetary large particle population which generally moves in bound orbits around the sun, and to determine the relative significance of comets and asteroids as sources for these zodiacal dust particles; (5) to measure the flux and velocity of particles coming in hyperbolic orbits from the general direction of the Sun; (6) to identify interstellar dust particles and perform direct measurements of the spatial density, heliocentric distribution, velocity and mass of interstellar grains traversing the solar system; (7) to observe enhancements of cometary dust particles during the transit of the spacecraft through the plane of a comet's orbit; (8) to investigate the spatial density of dust particles within the asteroid belt and determine the amount of dust produced by collisions in the asteroid belt; (9) to investigate the influence of the Jovian gravitational field on the interplanetary dust population; (10) to measure electric charges of dust particles and establish the relationship of these charges to the properties of the ambient plasma (plasma density, energy spectrum), the solar radiation spectrum and magnetic fields"
+},{
+	"tags": [
+		"Ion Detector",
+		"Electron Detector",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:hiscale.uly",
+	"display_name": "Ulysses Heliosphere Instrument for Spectra, Composition, and Anisotropy at Low Energies",
+	"display_description": "The objectives of this investigation are (1) to investigate the solar-flare process with measurements of non-relativistic and relativistic electrons, and non-relativistic ions, and their dependence on heliolatitude; (2) to investigate solar elemental abundances with measurements of chemical composition of nuclei of solar origin at all heliolatitudes; (3) to investigate the interplanetary propagation of solar energetic particles by measurement of anisotropy and composition parameters; (4) to investigate acceleration processes; and (5) to investigate temporal and spatial variations of particle intensity in and near the Jovian magnetosphere."
+},{
+	"tags": [
+		"Spectrometer",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:swics.uly",
+	"display_name": "Ulysses Solar Wind Ion Composition Spectrometer",
+	"display_description": "The Solar Wind Ion Composition Spectrometer (SWICS) on Ulysses is designed to determine uniquely the elemental and ionic-charge composition, and the temperatures and mean speeds of all major solar-wind ions. The measurements will have an impact on many areas of solar and heliospheric physics, in particular providing essential and unique information on: (i) conditions and processes in the region of the corona where the solar wind is accelerated, (ii) the location of the source regions of the solar wind in the corona; (iii) coronal heating processes; (iv) the extent and causes of variations in the composition of the solar atmosphere; (v)plasma processes in the solar wind; (vi) the acceleration of energetic particles in the solar wind; (vii) the thermalization and acceleration of interstellar ions in the solar wind, and their composition; and (viii) the composition, charge states and behavior of the plasma in various regions of the Jovian magnetosphere."
+},{
+	"tags": [
+		"Electromagnetic Sensor"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:swoops.uly",
+	"display_name": "Ulysses Solar Wind Observations over the Poles of the Sun",
+	"display_description": "The objectives of this investigation are (1) to investigate and characterize bulk-flow parameters and internal-state conditions of the solar wind as functions of solar latitude; (2) to investigate radial variations of solar wind properties between Earth and Jupiter; and (3) to investigate the solar wind interactions with the Jovian magnetosphere. The instrument consists of two sensor systems and associated electronics that interface with the spacecraft."
+},{
+	"tags": [
+		"Radio Detector",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:urap.uly",
+	"display_name": "Ulysses Unified Radio and Plasma Wave Experiment",
+	"display_description": "The objectives of this investigation are (1) to investigate source positions of travelling solar radio bursts in the range from dc to 1 MHz; (2) to investigate the large-scale magnetic field topology and the electron density along the exciter trajectory as a function of heliographic latitude and longitude at distances of 0.1 AU to approximately 5 AU; (3) to investigate Jovian radio source locations in the range from dc to 1 MHz; and (4) to investigate waves in the plasma between dc and 35 kHz, their instabilities, their energy transport mechanisms, and the thermal electron density."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:vhm-fgm.uly",
+	"display_name": "Ulysses Vector Helium/Fluxgate Magnetometers",
+	"display_description": "The objectives of this investigation are to determine the strength and geometry of the interplanetary magnetic field in the inner heliosphere (particularly at high solar latitudes) and to investigate the heliographic latitude dependence of the field fluctuation spectra with special emphasis on the frequency range below 0.01 Hz. Secondary objectives are to study the internal dynamics of the solar wind, the role of discontinuities and waves in the interplanetary field on propagation and acceleration of energetic particles, the interplanetary propagation and development of discontinuities and waves, and the structure and dynamics of the dusk region of the Jovian magnetosphere. The instrument consists of a triaxial fluxgate magnetometer, a vector helium magnetometer, and associated electronics."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sce.uly",
+	"display_name": "Ulysses Solar Corona Experiment",
+	"display_description": "The Solar Corona Experiment (SCE) investigations utilized radio science instrumentation with elements on the spacecraft and at the DSN. Much of this is shared equipment, being used for routine telecommunications as well as for radio science. The performance and calibration of both the spacecraft and tracking stations directly affect the radio science data accuracy, and they play a major role in determining the quality of the results. The spacecraft part of the radio science instrument is described immediately below. This is followed by a description of the DSN (ground) part of the instrument. Two different types of radio science investigations were conducted with Ulysses. Dual-frequency ranging and Doppler data were collected near solar conjunction to determine the density, velocity, and turbulence of coronal plasma at solar distances below 40 solar radii, i.e. within the zone of solar wind acceleration. Dual-frequency Doppler data were recorded during the Ulysses gravity assist at Jupiter in order to measure the electron content of the Io Plasma Torus."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:gwe.uly",
+	"display_name": "Ulysses Gravitational Wave Experiment",
+	"display_description": "The objective of this radio science investigation is to search for low-frequency (1.E-4 to 1.E-2 Hz) gravitational waves expected to be generated by the violent collapse of stars, galactic nuclei and other astrophysical objects, and for a gravitational wave background. Doppler data to be analyzed for characteristic signatures are recorded during phases of the ISPM opposition, using the spacecraft telecommunication system and the NASA DSN. Correlative measurements with Galileo are planned."
+},{
+	"tags": [
+		"Ion Detector",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:epac.uly",
+	"display_name": "Ulysses Energetic Particle Composition Instrument",
+	"display_description": "The objective of this investigation is to study the composition, energy spectra and spatial distribution of energetic particles, primarily in interplanetary space. The instrument consists of four identical telescopes inclined at angles of 22.5, 67.5, 112.5, and 157.5 degrees with respect to the spacecraft spin axis. Each telescope has a geometric factor of about 0.08 cm^2 sr and a field-of-view with a full angle of 35 degrees. The multiple sensors and spacecraft spin allow 80% directional coverage for three-dimensional resolution of anisotropies."
+},{
+	"tags": [
+		"Electron Detector",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:gas.uly",
+	"display_name": "Ulysses Gas Instrument",
+	"display_description": "The properties (density, bulk velocity relative to the solar system, and temperature) of the local interstellar gas, represented by neutral helium penetrating the heliosphere, will be measured in-situ for the first time by the ULYSSES GAS instrument.  By employing the solar gravitational field as a natural velocity analyser, the bulk velocity relative to the solar system and the temperature of the E as can be derived from the angular distributions of the particles measured in at least two widely separated points in the heliosphere.  The gas density can be determined if a composition corresponding to cosmic abundances is assumed.  The neutral particles are detected via the secondary electrons or ions which are emitted upon particle impact from a freshly deposited lithium-fluoride (LiF) layer.  The physical principles and assumptions on which the experiment is based, the main technical features of the instrument, and first measurements in space are briefly described."
+},{
+	"tags": [
+		"Imager",
+		"Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:vsk.phb2",
+	"display_name": "Phobos 2 VSK - Fregat",
+	"display_description": "The scientific objectives of this experiment were the following: 1) MARS surveying -  investigation of rock composition of the surface, cloudiness, dust amount in atmosphere; 2) NAVIGATION - updating of Phobos' and Deimos' orbits, their rotation periods, updating the data on Phobos shape, detailed imaging of the hovering region, spacecraft navigation;   3)  PHOBOS investigations  -  surface structure studies, geological studies, topographic, morphometric and stereo mapping.\n VSK-FREGAT combines a three channel television (TV) camera with two short-focal-length channels and one longer-focal-length channel. The camera has charge-coupled device (CCD) detectors with photosensitive and memory sections and uses an 'electronic shutter' technique. At the entrance of the cameras a mirror is placed.  When closed it protects the telescopes and permits photometric calibration from internal radiation sources. When opened, it permits nadir viewing of Phobos, while in two intermediate positions it allows panoramic viewing of Phobos, Mars and navigation targets."
+},{
+	"tags": [
+		"Radiometer",
+		"Spectrometer",
+		"Photometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:krfm.phb2",
+	"display_name": "Phobos 2 KRFM - Combined Radiometer Spectrophotometer for Mars",
+	"display_description": "The scientific objectives of this experiment were as follows: in the spectral range 6 - 50 mm - the study of thermal physical properties and surface structure of Phobos and Mars - a physical mapping of the surface geomorphological features  (rocks , fractured soil, dust) - search for sites of endogenous heat release and permafrost regions on the mars surface - diurnal and seasonal thermal dynamics of mars surface and diurnal dynamics of Phobos - bolometric albedo of Phobos and Mars in the spectral range 320 - 600 nm - the photometric measurements in the near ultraviolet and visible spectral ranges (albedo measurements) - mineralogical composition of the Phobos and Mars surfaces derived from their reflection spectra - study of the aerosol phenomena characteristics in the Martian atmosphere. The KRFM instrument includes optics of the radiometer and spectrophotometer detectors, electronics, a power supply unit, a system for instrument control and protection."
+},{
+	"tags": [
+		"Radiometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ts.phb2",
+	"display_name": "Phobos 2 Termoskan (Thermoscan)",
+	"display_description": "The scientific objectives of this experiment were the following: (1) investigation of the daily and seasonal dynamics of the temperature condition on the surface; (2) measurement of the thermal inertia of martian soil; (3) detection of the humidified regions of surface and subsurface ice formations; (4) searching of the sources of internal heat."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:imf.sakig",
+	"display_name": "Sakigake Interplanetary Magnetic Field Experiment",
+	"display_description": "This investigation involves the measurement of the vector magnetic field in the interplanetary medium and within several million kilometers of Comet Halley. The magnetometer is constructed with a three-axis ring core and provides a resolution of 1 nT or less. The Interplanetary Magnetic-Field Experiment is designed to study macroscopic and microscopic structures in the helio-magnetosphere and in the cometary magnetosphere, as well as large-amplitude low-frequency hydromagnetic waves in the solar wind.  The data gathered will be compared with the configuration, brightness and variations of Halley's corona, which will be imaged by the UV camera on Planet-A.  The IMF is to be measured by a triaxial, ring-core, fluxgate magnetometer sensor mounted on a 2 m-long boom.  This boom was extended soon after injection of the spacecraft into orbit."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sow.sakig",
+	"display_name": "Sakigake Solar Wind Instrument",
+	"display_description": "This investigation involves the measurement of the solar wind ion temperature and bulk velocity within a distance of several million kilometers of Comet Halley and in interplanetary space. A retarding potential analyzer is used to obtain the measurements. The Solar-Wind Instrument on MS-T5 employs a  Faraday cup to measure the bulk velocity, density and temperature of solar-wind ions.  This conventional cup, mounted flush with the outer skin of the spacecraft, consists of four grids and\\ an ion collector.  The front grid G(1), is connected to the satellite skin.  A square-wave voltage is applied to the modulator grid G(2), alternating at 400 Hz between 0 and V volt."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:esp.suisei",
+	"display_name": "Suisei Solar Wind Experiment",
+	"display_description": "Solar wind plasma measurements are made with 270-deg electrostatic analyzers (ESP) in this investigation. Both ions and electrons in the energy range between 0.03 and 16 keV are measured with the ESP employing micro-channel plates. Three-dimensional distribution of the solar wind plasma within plus or minus 30 deg of the ecliptic plane will be measured. The objective of this experiment is to measure the three-dimensional velocity distributions of the solar-wind ions and electrons in the energy range from 30 eV up to 16 keV within +/- 30deg of the ecliptic plane.  During the cometary encounter, the interaction of the solar wind with the cometary ionosphere will be investigated, paying particular attention to the mass loading of the solar wind by cometary ions, to the existence, location and strength of the upstream shock transition and of (possibly) backscattered particles from the shock and other,unexpected, plasma populations.  Data will be collected on such solar-wind phenomena as the halo and core distributions of electrons, variations in the flow velocity, and the He++/He+ ratio in relation to solar rotation and longitude."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:roe.v15",
+	"display_name": "Venera 15 Radio Occultation Experiment",
+	"display_description": "Coherently related radio signals were transmitted by the spacecraft at wavelengths of 8 cm and 32 cm. These passed through the ionosphere of Venus before being received at the Evpatoria station of the Soviet Deep Space Communication Center. The standard equipment provided signal amplification, heterodyning, and filtering. The received transmissions were fed into a dispersion interferometer, which used a closed-loop system to perform narrow-band filtering in order to isolate the desired signals. The amplitude and phase of both signals were recorded. Ionospheric electron densities were obtained from these data products using standard techniques for radio occultation experiments"
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:roe.v16",
+	"display_name": "Venera 16 Radio Occultation Experiment",
+	"display_description": "Coherently related radio signals were transmitted by the spacecraft at wavelengths of 8 cm and 32 cm. These passed through the ionosphere of Venus before being received at the Evpatoria station of the Soviet Deep Space Communication Center. The standard equipment provided signal amplification, heterodyning, and filtering. The received transmissions were fed into a dispersion interferometer, which used a closed-loop system to perform narrow-band filtering in order to isolate the desired signals. The amplitude and phase of both signals were recorded. Ionospheric electron densities were obtained from these data products using standard techniques for radio occultation experiments."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:tvs.vega1",
+	"display_name": "Vega 1 Television System",
+	"display_description": "The television system (TVS) consisted of a wide-angle camera (WAC), a narrow-angle camera (NAC), and an electronics block. The WAC was to be used for large-scale coma imaging and as a guide for the NAC. The basic task of the NAC was imaging the nucleus and the surrounding area of Comet Halley; that of the WAC was directing the pointing platform and its instruments to the object of examination."
+},{
+	"tags": [
+		"Spectrometer",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:iks.vega1",
+	"display_name": "Vega 1 Infrared Spetrometer",
+	"display_description": "The objectives for this instrument (IKS) were to determine (1) the size, radiation capacity, and temperature of the nucleus, (2) the nature, density, distribution, and temperature of the dust, and (3) the nature, relative content, and temperature of the parent molecules of Comet Halley."
+},{
+	"tags": [
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:puma.vega1",
+	"display_name": "Vega 1 Dust Impact Mass Analyzer",
+	"display_description": "This investigation (PUMA) was designed to estimate the mass and chemical composition of particles in the dust coma. The instrument was mounted parallel to the relative velocity vector and analyzed the chemical and isotopic composition of individual dust particles. Impact of a dust particle on the instrument's silver target area caused a plasma to be formed consisting of dust and target material, from which ions were extracted by a 1.5-kV electric field. The ions traveled through a time-of-flight tube (actually two tubes with an electrostatic reflector between, with total length of 1 m) where they were separated according to their mass before being recorded by an electron multiplier. The ion mass range was 1 to 100 u, with resolution M/(delta M) of 200. The instrument observed the spectra of the most common dust particles, which were expected to be in the size range 100 to 10,000 nm."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sp1.vega1",
+	"display_name": "Vega 1 Dust Particle Counter",
+	"display_description": "This instrument (SP-1) consisted of three piezo-element detectors mounted on a special metallic plate to measure the amplitude of the wave generated by dust particles heavier than 1E-10 g impacting on the plate. The amplitude was proportional to the mass of the dust particle. From the arrival time of the pulse at the three detectors, the coordinates of the impact point could be determined. The dead time of the instrument depended on the acoustic decay of the signal in the piezo-elements and could turn out to be significant. The counter was oriented in the direction of the relative velocity vector."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:tnm.vega1",
+	"display_name": "Vega 1 Energetic Particle Analyzer (TUNDE-M)",
+	"display_description": "The objective of this investigation (TUNDE) was to study the solar wind interaction with the atmosphere and ionosphere of the Comet Halley. The instrument consisted of two semiconductor detectors plus an anti-coincidence scintillator to filter out particles from lateral directions. The device measured accelerated cometary ions in the energy range 20 keV to 20 MeV, and electrons from 175 keV to several MeV. The field of view was 30 deg, and the detector was oriented in the ecliptic plane."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:mischa.vega1",
+	"display_name": "Vega 1 Fluxgate Magnetometer",
+	"display_description": "This instrument, MISCHA (Magnetic Fields in Interplanetary Space during Comet Halley's approach), was designed to measure the constant component of the magnetic field and its low-frequency fluctuations in the cometary and solar wind interaction zone and in interplanetary space. The instrument consisted of two fluxgate sensor units mounted 1.5 m apart on a 2-m boom. One unit was oriented along the spacecraft axis, which was perpendicular to the solar panels and pointing toward the sun."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:pm1.vega1",
+	"display_name": "Vega 1 Plasma Energy Analyzer",
+	"display_description": "This experiment (APV-N) was designed to study (1) the mechanism of anomalously high ionization of cometary gas, (2) the shock-front structure, and (3) the phenomena in the region of the contact surface (ionopause). The analyzer had a frequency range of 0.1 to 1000 Hz, and was designed to monitor waves excited in the cometary environment, in particular the lower hybrid waves (10 Hz) and ion cyclotron waves (1 Hz)."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ducma.vega1",
+	"display_name": "Vega 1 Dust Particle Counter and Mass Analyzer",
+	"display_description": "This instrument, DUCMA (Dust Counter and Mass Analyzer), was designed to measure the fluxes of impacting dust particles with masses above the four threshold values of 1.5E-13, 9E-13, 9E-12, and 9E-11 g. The dust detector consisted of 75 sq cm of a 28-micrometer polarized polymer film, with conducting surfaces. This film, of polyvinylidene fluoride, had a permanent electric dipole moment per unit volume (\"electret\") with the polarization direction normal to the film surface. Destruction of the polarization along the path of the impacting particle produced a fast current pulse which was detected by a charge-sensitive amplifier. The magnitude of the signal was a known function of the mass and the velocity of the impacting particle. Because all of the dust particles impact with the flyby speed of 78 km/s, the electronically set thresholds corresponded to known mass values. There was a second similar detector, called the veto detector, which was protected from direct dust impacts and responded only to acoustic noises generated by activities of the spacecraft. This veto detector had two output channels, set at a low and a high threshold value. The ten counting rates of the instrument also included four single counting rate channels from the four thresholds of the dust detector, and the same four channels in anti-coincidence with either the low or the high level of the veto detector. The instrument was self-calibrating either periodically or upon command, and operated normally even when a portion of the detector was destroyed by large dust particles. It was calibrated at the Heidelberg dust accelerator up to velocities of 12 km/s. The counting rates for dust particles required no correction up to 1E4 particles/s, and only a small correction for 5E4 particles/s. The instrument was to be powered throughout the mission, so that after Venus encounter it was to search for interplanetary dust particles during the cruise mode."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sp2.vega1",
+	"display_name": "Vega 1 Dust Particle Detector",
+	"display_description": "This instrument (SP-2) detected impacting dust particles in the mass range E-12 to E-18 g by observing the plasma clouds produced by the impacts."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:tvs.vega2",
+	"display_name": "Vega 2 Television System",
+	"display_description": "The television system (TVS) consisted of a wide-angle camera (WAC), a narrow-angle camera (NAC), and an electronics block. The WAC was to be used for large-scale coma imaging and as a guide for the NAC. The basic task of the NAC was imaging the nucleus and the surrounding area of Comet Halley; that of the WAC was directing the pointing platform and its instruments to the object of examination. Both cameras used CCDs with 512 x 576 pixels each as detecting devices in the focal plane. The combined data rate for the two cameras was 48 kbps, which was not sufficient to transmit the full contents of the CCDs. Only a \"window\" one-tenth of the area of the CCD, around the center of brightness, was transmitted."
+},{
+	"tags": [
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:puma.vega2",
+	"display_name": "Vega 2 Dust Impact Mass Analyzer",
+	"display_description": "This investigation (PUMA) was designed to estimate the mass and chemical composition of particles in the dust coma. A similar instrument will be flown on the Giotto spacecraft. The instrument was mounted parallel to the relative velocity vector and analyzed the chemical and isotopic composition of individual dust particles. Impact of a dust particle on the instrument's silver target area caused a plasma to be formed consisting of dust and target material, from which ions were extracted by a 1.5-kV electric field."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sp1.vega2",
+	"display_name": "Vega 2 Dust Impact Plasma Detector",
+	"display_description": "This instrument (SP-1) consisted of three piezo-element detectors mounted on a special metallic plate to measure the amplitude of the wave generated by dust particles heavier than 1E-10 g impacting on the plate. The amplitude was proportional to the mass of the dust particle. From the arrival time of the pulse at the three detectors, the coordinates of the impact point could be determined. The dead time of the instrument depended on the acoustic decay of the signal in the piezo-elements and could turn out to be significant. The counter was oriented in the direction of the relative velocity vector."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:mischa.vega2",
+	"display_name": "Vega 2 Fluxgate Magnetometer",
+	"display_description": "This instrument, MISCHA (Magnetic Fields in Interplanetary Space during Comet Halley's approach), was designed to measure the constant component of the magnetic field and its low-frequency fluctuations in the cometary and solar wind interaction zone and in interplanetary space. The instrument consisted of two fluxgate sensor units mounted 1.5 m apart on a 2-m boom. One unit was oriented along the spacecraft axis, which was perpendicular to the solar panels and pointing toward the sun."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:pm1.vega2",
+	"display_name": "Vega 2 Plasma Energy Analyzer",
+	"display_description": "This experiment (APV-N) was designed to study (1) the mechanism of anomalously high ionization of cometary gas, (2) the shock-front structure, and (3) the phenomena in the region of the contact surface (ionopause). The analyzer had a frequency range of 0.1 to 1000 Hz, and was designed to monitor waves excited in the cometary environment, in particular the lower hybrid waves (10 Hz) and ion cyclotron waves (1 Hz). A twin-probe technique was used to measure the potential difference between two probes placed on the 5-m boom isolated from the spacecraft. The plasma flow fluctuations were measured with a Faraday cup at the boom's tip."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ducma.vega2",
+	"display_name": "Vega 2 Dust Particle Counter and Mass Analyzer",
+	"display_description": "This instrument, DUCMA (Dust Counter and Mass Analyzer), was designed to measure the fluxes of impacting dust particles with masses above the four threshold values of 1.5E-13, 9E-13, 9E-12, and 9E-11 g. The dust detector consisted of 75 sq cm of a 28-micrometer polarized polymer film, with conducting surfaces. This film, of polyvinylidene fluoride, had a permanent electric dipole moment per unit volume (\"electret\") with the polarization direction normal to the film surface. Destruction of the polarization along the path of the impacting particle produced a fast current pulse which was detected by a charge-sensitive amplifier. The magnitude of the signal was a known function of the mass and the velocity of the impacting particle. There was a second similar detector, called the veto detector, which was protected from direct dust impacts and responded only to acoustic noises generated by activities of the spacecraft."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sp2.vega2",
+	"display_name": "Vega 2 Dust Particle Detector",
+	"display_description": "This instrument (SP-2) detected impacting dust particles in the mass range E-12 to E-18 g by observing the plasma clouds produced by the impacts."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:rss.vex",
+	"display_name": "Venus Express Venus Radio Science",
+	"display_description": "The Venus Radio Science experiment (VeRa) uses the Venus Express communications system to perform radio sounding experiments of: the neutral Venus atmosphere (occultation experiment), the ionosphere of Venus (occultation experiment), and the solar corona during the inferior and superior conjunctions of Venus. It will also use a bistatic radar experiment to study the surface of Venus. The scientific objectives are to derive vertical density, pressure and temperature profiles as a function of height, with a height resolution better than 100 meters of the neutral Venus atmosphere; derive vertical ionospheric electron density profiles and to derive a description of the global behavior of the ionosphere through its diurnal and seasonal variations and its dependence on solar wind conditions; study the solar corona; and determine the dielectric and scattering properties of the surface of Venus in specific target areas."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:vex.mag",
+	"display_name": "Venus Express Magnetometer",
+	"display_description": "The Magnetometer instrument (MAG), is designed to make measurements of magnetic field strength and direction. The scientific objectives of this experiment are to identify boundaries between the various plasma regions, study the interaction of the solar wind with the atmosphere of Venus and provide support data for measurements made by other instruments."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:vex.rss",
+	"display_name": "Venus Express Radio Science Subsystem",
+	"display_description": "The Venus Radio Science experiment (VeRa) uses the Venus Express communications system to perform radio sounding experiments of: the neutral Venus atmosphere (occultation experiment), the ionosphere of Venus (occultation experiment), and the solar corona during the inferior and superior conjunctions of Venus. It will also use a bistatic radar experiment to study the surface of Venus. The scientific objectives are to derive vertical density, pressure and temperature profiles as a function of height, with a height resolution better than 100 meters of the neutral Venus atmosphere; derive vertical ionospheric electron density profiles and to derive a description of the global behavior of the ionosphere through its diurnal and seasonal variations and its dependence on solar wind conditions; study the solar corona; and determine the dielectric and scattering properties of the surface of Venus in specific target areas."
+},{
+	"tags": [
+		"Imager",
+		"Ion Detector",
+		"Spectrometer",
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:vex.aspera4-els",
+	"display_name": "Venus Express Analyzer of Space Plasmas and Energetic Atoms",
+	"display_description": "The Analyzer of Space Plasmas and Energetic Atoms (ASPERA-4) is designed to study energetic neutral atoms (ENAs), ions and electrons from Venus orbit. The scientific objectives of the experiment are to: Investigate the interaction between the solar wind and the atmosphere of Venus; characterize quantitatively the impact of plasma processes on the atmosphere; determine the global distribution of plasma and neutral gas; identify the mass composition and quantitatively characterize the flux of the out flowing atmospheric materials; investigate the plasma domains of the near Venus environment; and provide undisturbed solar wind parameters. The ASPERA-4 consists of four instruments, the Neutral Particle Imager (NPI), the Neutral Particle Detector (NPD) the Electron Spectrometer (ELS) and the Ion Mass Analyzer (IMA) and has two components."
+},{
+	"tags": [
+		"Imager",
+		"Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:m3.ch1-orb",
+	"display_name": "Chandrayaan 1 Moon Mineralogy Mapper",
+	"display_description": "The Moon Mineralogy Mapper (M3 or \"M-cubed\") is an imaging spectrometer designed to map the mineral content of the Moon's surface. The primary scientific objectives are to characterize and map the lunar surface composition in the context of its geologic evolution and to assess the Moon's mineral resources at high resolution with the goals of studying the origin and evolution of the lunar crust and mantle, identifying and assessing deposits containing volatile species, and identifying and evaluating concentrations of unusual or unexpected minerals."
+},{
+	"tags": [
+		"Radar Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:mrffr.ch1-orb",
+	"display_name": "Chandrayaan 1 Mini-RF Forerunner",
+	"display_description": "The Miniature Synthetic Aperture Radar (Mini-SAR) is a small imaging radar designed primarily to map the scattering properties of the lunar poles in order to ascertain if water ice is present and if so, to determine its location and distribution. Concentrated ice exhibits an increase in radar reflectivity and enhancement of circular polarization ratio along the backscatter direction which can be measured by Mini-SAR, allowing construction of a map of the location of ice deposits. Mini-SAR will also be used to produce radar maps of the lunar surface near the poles."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cdd.p8",
+	"display_name": "Pioneer 8 Cosmic Dust Detector",
+	"display_description": "The Pioneer 8 Cosmic Dust Detector (CDD) was designed to (1) measure the cosmic-dust flux density in the solar system, (2) determine the distribution of cosmic dust concentrations in the earth's orbit, (3) determine the gradient, flux density, and speed of particles in meteor streams, and (4) perform an in-flight control experiment on the reliability of the microphone as a cosmic-dust sensor."
+},{
+	"tags": [
+		"Spectrometer",
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:lwp.iue",
+	"display_name": "IUE Long-Wavelength Prime",
+	"display_description": "This experiment included the ultraviolet spectrograph package carried by the IUE, consisting of two physically distinct echelle-spectrograph/camera units capable of astronomical observations. The IUE scientific instrument contains two spectrographs which function independently. Each spectrograph has a prime and a redundant camera. The Long-Wavelength Prime (LWP) and Short-Wavelength Prime (SWP) cameras are the standard detectors. During an exposure the image is integrated in the SEC Vidicon section of the camera."
+},{
+	"tags": [
+		"Spectrometer",
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:swp.iue",
+	"display_name": "IUE Short-Wavelength Prime",
+	"display_description": "This experiment included the ultraviolet spectrograph package carried by the IUE, consisting of two physically distinct echelle-spectrograph/camera units capable of astronomical observations. The IUE scientific instrument contains two spectrographs which function independently. Each spectrograph has a prime and a redundant camera. The Long-Wavelength Prime (LWP) and Short-Wavelength Prime (SWP) cameras are the standard detectors."
+},{
+	"tags": [
+		"Spectrometer",
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:lwr.iue",
+	"display_name": "LONG-WAVELENGTH REDUNDANT",
+	"display_description": "This experiment included the ultraviolet spectrograph package carried by the IUE, consisting of two physically distinct echelle-spectrograph/camera units capable of astronomical observations. The IUE scientific instrument contains two spectrographs which function independently. Each spectrograph has a prime and a redundant camera. The Long-Wavelength Redundant (LWR) was used before Oct, 1983."
+},{
+	"tags": [
+		"Spectrometer",
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:wfpc2.hst",
+	"display_name": "HST Wide Field Planetary Camera 2",
+	"display_description": "The scientific objectives of the WFPC2 are to provide photometrically and geometrically accurate, multi-band images of astronomical objects over a relatively wide field-of-view (FOV), with high angular resolution across a broad range of wavelengths. The original Wide Field and Planetary Camera (WF/PC-1) was a two-dimensional spectrophotometer with rudimentary polarimetric and transmission-grating capabilities. Wide Field and Planetary Camera (WFPC2) was built as a backup clone of the WF/PC-1. The original Wide Field/Planetary Camera (WF/PC1) was replaced by WFPC2 on the STS-61 shuttle mission in December 1993."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:hstacs.hst",
+	"display_name": "HST Advance Camera for Surveys",
+	"display_description": "The Advanced Camera for Surveys (ACS), a third-generation instrument, was installed in the Hubble Space Telescope on March 7, 2002.  Its primary purpose is to increase HST imaging discovery efficiency, with a combination of detector area and quantum efficiency that surpasses previous instruments.  In addition, coronagraphic, polarimetric, and grism capabilities make this a versatile and powerful instrument. The three prime capabilities of ACS are: (1) Deep, wide-field imaging from visible to near-IR wavelengths; (2) High spatial resolution imaging from near-UV to near-IR wavelengths; and (3) Solar blind UV imaging. ACS has three independent cameras that provide wide-field, high resolution, and ultraviolet imaging capabilities respectively, using a broad assortment of filters designed to address a large range of scientific goals."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cdd.p9",
+	"display_name": "Pioneer 9 Cosmic Dust Detector",
+	"display_description": "The Pioneer 9 Cosmic Dust Detector (CDD) was designed to (1) measure the cosmic-dust flux density in the solar system, (2) determine the distribution of cosmic dust concentrations in the earth's orbit, (3) determine the gradient, flux density, and speed of particles in meteor streams, and (4) perform an in-flight control experiment on the reliability of the microphone as a cosmic-dust sensor."
 }],"targetRelationships": [{
 	"parent_ref": "urn:nasa:pds:context:target:planet.mars",
 	"child_ref": "urn:nasa:pds:context:target:satellite.mars.phobos"
@@ -10334,8 +10783,8 @@
 	"target": "urn:nasa:pds:context:target:satellite.neptune.nereid",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vg2",
 	"instrument": "urn:nasa:pds:context:instrument:pra.vg2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vg2",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:rss.vg2",
@@ -11406,12 +11855,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:sep.a17l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
 	"instrument": "urn:nasa:pds:context:instrument:m3.ch1-orb",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
 	"instrument": "urn:nasa:pds:context:instrument:mrffr.ch1-orb",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:uvvis.clem1",
@@ -11626,12 +12075,12 @@
 	"target": "urn:nasa:pds:context:target:satellite.saturn.janus",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
 	"instrument": "urn:nasa:pds:context:instrument:hstacs.hst",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
 	"instrument": "urn:nasa:pds:context:instrument:wfpc2.hst",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"target": "urn:nasa:pds:context:target:comet.21p_giacobini-zinner",
@@ -11666,16 +12115,16 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ice",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.iue",
 	"instrument": "urn:nasa:pds:context:instrument:swp.iue",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.iue",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.iue",
 	"instrument": "urn:nasa:pds:context:instrument:lwp.iue",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.iue",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.iue",
 	"instrument": "urn:nasa:pds:context:instrument:lwr.iue",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.iue",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.jno",
@@ -11802,8 +12251,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:spirit3.msx",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p8",
 	"instrument": "urn:nasa:pds:context:instrument:cdd.p8",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p8",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
@@ -11826,72 +12275,72 @@
 	"target": "urn:nasa:pds:context:target:sun.sun",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:udds.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:vhm-fgm.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:swics.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:cospin-at.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:grb.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:sce.uly",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:cospin-ket.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:gwe.uly",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:swoops.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:cospin-let.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:urap.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:gas.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:epac.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:hiscale.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
 	"instrument": "urn:nasa:pds:context:instrument:cospin-het.uly",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
-	"instrument": "urn:nasa:pds:context:instrument:cospin-hft.uly",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p9",
+	"instrument": "urn:nasa:pds:context:instrument:cospin-hft.uly",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.uly",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:cdd.p9",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p9",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p10",
@@ -11970,16 +12419,16 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.pvo",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
 	"instrument": "urn:nasa:pds:context:instrument:vsk.phb2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
 	"instrument": "urn:nasa:pds:context:instrument:krfm.phb2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
 	"instrument": "urn:nasa:pds:context:instrument:ts.phb2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:rpclap.ro",
@@ -12042,12 +12491,12 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sakig",
 	"instrument": "urn:nasa:pds:context:instrument:sow.sakig",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sakig",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sakig",
 	"instrument": "urn:nasa:pds:context:instrument:imf.sakig",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sakig",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
@@ -12078,96 +12527,96 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.sdu",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.suisei",
 	"instrument": "urn:nasa:pds:context:instrument:esp.suisei",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.suisei",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.v15",
 	"instrument": "urn:nasa:pds:context:instrument:roe.v15",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.v15",
+	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.v16",
 	"instrument": "urn:nasa:pds:context:instrument:roe.v16",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.v16",
+	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:sp2.vega1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:ducma.vega1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:pm1.vega1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:tnm.vega1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:tvs.vega1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:sp1.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:puma.vega1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"instrument": "urn:nasa:pds:context:instrument:mischa.vega1",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:iks.vega1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"instrument": "urn:nasa:pds:context:instrument:tvs.vega2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"instrument": "urn:nasa:pds:context:instrument:mischa.vega2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"instrument": "urn:nasa:pds:context:instrument:sp1.vega2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"instrument": "urn:nasa:pds:context:instrument:puma.vega2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"instrument": "urn:nasa:pds:context:instrument:sp2.vega2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"instrument": "urn:nasa:pds:context:instrument:pm1.vega2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"instrument": "urn:nasa:pds:context:instrument:ducma.vega2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vega2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vex",
 	"target": "urn:nasa:pds:context:target:plasma_stream.solar_wind",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vex",
 	"instrument": "urn:nasa:pds:context:instrument:vex.mag",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vex",
 	"instrument": "urn:nasa:pds:context:instrument:vex.rss",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vex",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vex",
 	"instrument": "urn:nasa:pds:context:instrument:vex.aspera4-els",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.maven",
