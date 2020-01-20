@@ -8481,7 +8481,7 @@
 	],
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:lwr.iue",
-	"display_name": "LONG-WAVELENGTH REDUNDANT",
+	"display_name": "IUE Long-Wavelength Redundant",
 	"display_description": "This experiment included the ultraviolet spectrograph package carried by the IUE, consisting of two physically distinct echelle-spectrograph/camera units capable of astronomical observations. The IUE scientific instrument contains two spectrographs which function independently. Each spectrograph has a prime and a redundant camera. The Long-Wavelength Redundant (LWR) was used before Oct, 1983."
 },{
 	"tags": [
@@ -8508,6 +8508,282 @@
 	"logical_identifier": "urn:nasa:pds:context:instrument:cdd.p9",
 	"display_name": "Pioneer 9 Cosmic Dust Detector",
 	"display_description": "The Pioneer 9 Cosmic Dust Detector (CDD) was designed to (1) measure the cosmic-dust flux density in the solar system, (2) determine the distribution of cosmic dust concentrations in the earth's orbit, (3) determine the gradient, flux density, and speed of particles in meteor streams, and (4) perform an in-flight control experiment on the reliability of the microphone as a cosmic-dust sensor."
+},{
+	"tags": [
+		"Gas Sampler",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ccig.a12a",
+	"display_name": "Apollo 12 ALSEP Cold Cathode Ion Gage Experiment",
+	"display_description": "Apollo 12 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:side.a12a",
+	"display_name": "Apollo 12 ALSEP Suprathermal Ion Detector Experiment",
+	"display_description": "Apollo 12 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction."
+},{
+	"tags": [
+		"Spectrometer",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sws.a12a",
+	"display_name": "Apollo 12 ALSEP Solar Wind Spectrometer",
+	"display_description": "The solar wind spectrometer, designed to measure protons and electrons at the lunar surface, was part of the Apollo 12 ALSEP package left on the Moon. It consisted of seven modulated Faraday cups opened toward different, but slightly overlapping, portions of the lunar sky. The instrument was used to observe the directional intensities of the electron (6-1330 eV) and positive ion (18-9780 eV) components of the solar wind and magnetotail plasma that strike the surface of the Moon. The scientific objectives of the Solar Wind Spectrometer Experiment were to study the existence of the solar wind plasma on the Moon, the properties of the lunar surface and interior, general solar wind properties, and the magnetospheric tail of the Earth."
+},{
+	"tags": [
+		"Gas Sampler",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ccig.a14a",
+	"display_name": "Apollo 14 ALSEP Cold Cathode Ion Gage Experiment",
+	"display_description": "The Cold Cathode Gage Experiment (CCGE, also referred to as the Cold Cathode Ion Gage, or CCIG) was deployed as part of the Apollo Lunar Surface Experiments package (ALSEP) on Apollos 12, 14, and 15. It was designed to measure the density of neutral particles to determine the amount of gas present at the lunar surface. This data helps constrain the source and loss mechanisms of the tenuous lunar atmosphere. A cold cathode ionization gage was used for this purpose. The gage can determine the amount of gas present, expressed as concentrations of particles per cubic cm or pressure in torrs, but not its composition. The CCGE gage head was roughly 18 x 10 x 12 cm and used 6.5 W. The instrument consisted of the cold cathode ionization gage and associated electronics."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cplee.a14a",
+	"display_name": "Apollo 14 ALSEP Charged Particle Lunar Environment Experiment",
+	"display_description": "The Apollo 14 Charged Particle Lunar Environment Experiment (CPLEE) measured the energy spectra of low-energy charged particles striking the lunar surface by observing the fluxes of electrons and ions with energies from 40 eV to 20 keV in two directions: local vertical and 60 degrees from vertical toward lunar west. The primary purpose of the experiment was to examine plasma particles originating from the Sun and the low-energy particle flux in the magnetic tail of the Earth."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:side.a14a",
+	"display_name": "Apollo 14 ALSEP Suprathermal Ion Detector Experiment",
+	"display_description": "Apollo 14 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction."
+},{
+	"tags": [
+		"Gas Sampler",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ccig.a15a",
+	"display_name": "Apollo 15 ALSEP Cold Cathode Ion Gage Experiment",
+	"display_description": "Apollo 15 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere."
+},{
+	"tags": [
+		"Temperature Sensor"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:hfe.a15a",
+	"display_name": "Apollo 15 ALSEP Heat Flow Experiment",
+	"display_description": "The Heat Flow Experiment (HFE), which was part of the Apollo Lunar Surface Experiment Package (ALSEP), was designed to determine the rate of heat loss from the lunar interior by temperature and thermal property measurements at the surface and in the subsurface. The experiment apparatus consisted of two probes connected by 8 meter long cables to an electronics box which was in turn connected by a flat ribbon cable to the ALSEP station. The astronauts would drill two holes with the Apollo lunar surface drill (ALSD). The ALSD was equipped with borestem caps and retainers, borestems, bore bits, a bore bit/drill adapter, a treadle, and a bore stem/core stem wrench. The borestem assemblies used in drilling consisted of lengths of hollow fiberglass tubes, 2.5 cm in diameter, which would be connected together as the drilling progressed, and remained in the holes to provide a casing to prevent collapse of the hole walls during insertion of the probes. Nominally the holes were to be drilled to a depth of 3 meters but in practice no holes reached this depth. The probe would be lowered down into the borestem until it came to rest on top of the drill bit at the bottom of the hole. The borestem tube would project out of the surface a distance dependent on the depth of the hole."
+},{
+	"tags": [
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:side.a15a",
+	"display_name": "Apollo 15 ALSEP Suprathermal Ion Detector Experiment",
+	"display_description": "Apollo 15 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction."
+},{
+	"tags": [
+		"Spectrometer",
+		"Ion Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sws.a15a",
+	"display_name": "Apollo 15 ALSEP Solar Wind Spectrometer",
+	"display_description": "The solar wind spectrometer, designed to measure protons and electrons at the lunar surface, was part of the Apollo 15 ALSEP package left on the Moon. It consisted of seven modulated Faraday cups opened toward different, but slightly overlapping, portions of the lunar sky. The instrument was used to observe the directional intensities of the electron (6-1480 eV) and positive ion (30-10400 eV) components of the solar wind and magnetotail plasma that strike the surface of the Moon. The scientific objectives of the Apollo 15 Solar Wind Spectrometer Experiment were to measure electron charge fluxes at the lunar surface, study the interaction of the solar wind with the local magnetic field, determine if lunar limb shocks can be detected at dawn or dusk, measure solar wind conditions, make simultaneous comparisons with Apollo 12 data, and study time-dependent phenomena."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:metriccam.a15c",
+	"display_name": "Apollo 15 CSM Metric Mapping Camera",
+	"display_description": "The Apollo 15 Metric (Mapping) Camera obtained high-quality metric photographs, on black and white film, with high geometric precision of the lunar surface from lunar orbit combined with time-correlated stellar photography for selenodetic/cartographic control. A laser altimeter was operated with it. The Metric Camera also provided supporting photographic data for the Scientific Instrument Module (SIM) Panoramic Camera and other Command Service Module (CSM) photographic experiments. The Apollo 15 metric camera took 3375 frames, some of which were taken over unlighted terrain in support of the laser altimeter."
+},{
+	"tags": [
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:oms.a15c",
+	"display_name": "Apollo 15 CSM Orbital Mass Spectrometer Experiment",
+	"display_description": "Apollo 15 Orbital Mass Spectrometer (OMS) Experiment, carried on board the Command and Servicing Module, measured the composition of the lunar atmosphere."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:pancam.a15c",
+	"display_name": "Apollo 15 CSM Panoramic Camera",
+	"display_description": "The Apollo 15 Scientific Instrument Module (SIM) Itek Panoramic Camera was designed to obtain high-resolution panoramic photographs, on black and white film, with stereoscopic and monoscopic coverage of the lunar surface. The panoramic camera, which was housed in the Command Service Module (CSM) and scanned the lunar surface from lunar orbit, also provided supporting photographic data for the other CSM cameras and experiments. The camera provided photographs of 1-m to 2-m resolution from an orbital altitude of 111 km. Over 1500 useful photographs were obtained."
+},{
+	"tags": [
+		"Penetrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:lsrp.a15l",
+	"display_name": "Apollo 15 LM Lunar Self-Recording Penetrometer",
+	"display_description": "The Self-Recording Penetrometer facilitated the soil mechanics experiment, which was designed to obtain data on the characteristics and mechanical behavior of the lunar soil at the surface and subsurface and the variation of these properties in a lateral direction. Additional objectives were to aid in the interpretation of data obtained from other surface activities and experiments and to develop lunar surface models to help in the solution of engineering properties associated with future lunar exploration."
+},{
+	"tags": [
+		"Magnetometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:lsm.a16a",
+	"display_name": "Apollo 16 ALSEP Lunar Surface Magnetometer Experiment",
+	"display_description": "The Apollo 16 Lunar Surface Magnetometer (LSM) Experiment consisted of a triaxial fluxgate magnetometer and was part of a three-station network (Apollo 12,15,16) intended to yield information on the internal electromagnetic characteristics of the moon."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:metriccam.a16c",
+	"display_name": "Apollo 16 CSM Metric (Mapping) Camera",
+	"display_description": "The Apollo 16 Metric (Mapping) Camera obtained high-quality metric photographs, on black and white film, with high geometric precision of the lunar surface from lunar orbit combined with time-correlated stellar photography for selenodetic/cartographic control. A laser altimeter was operated with it. The Metric Camera also provided supporting photographic data for the Scientific Instrument Module (SIM) Panoramic Camera and other Command Service Module (CSM) photographic experiments. he Apollo 16 Metric Camera took 2514 frames of lunar surface imagery. Another 927 frames were exposed over unlighted areas in support of the laser altimeter experiment."
+},{
+	"tags": [
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:oms.a16c",
+	"display_name": "Apollo 16 CSM Orbital Mass Spectrometer Experiment",
+	"display_description": "Apollo 16 Orbital Mass Spectrometer (OMS) Experiment, carried on board the Command and Servicing Module, measured the composition of the lunar atmosphere."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:pancam.a16c",
+	"display_name": "Apollo 16 CSM Panoramic Camera",
+	"display_description": "The Apollo 16 Scientific Instrument Module (SIM) Itek Panoramic Camera designed to obtain high-resolution panoramic photographs, on black and white film, with stereoscopic and monoscopic coverage of the lunar surface. The panoramic camera, which was housed in the Command Service Module (CSM) and scanned the lunar surface from lunar orbit, also provided supporting photographic data for the other CSM cameras and experiments. The camera provided photographs of 1-m to 2-m resolution from an orbital altitude of 111 km. Over 1400 useful photographs were obtained."
+},{
+	"tags": [
+		"Penetrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:lsrp.a16l",
+	"display_name": "Apollo 16 LM Lunar Self-Recording Penetromter",
+	"display_description": "The Self-Recording Penetrometer facilitated the soil mechanics experiment, which was designed to obtain data on the characteristics and mechanical behavior of the lunar soil at the surface and subsurface and the variation of its properties in lateral and vertical directions, on slopes, and between different regions of the Moon.  The equipment used included an adjustable sampling scoop, a self-recording penetrometer, core tubes, and the Apollo lunar surface drill and bore stems.  Further soil testing could be done at LRL in Houston on returned soil samples, including the core tube and other geologic samples, especially the fine-grained soil sample.  Photography requirements of this experiment were met with a battery-operated 16-mm data acquisition camera (DAC) with a 10-mm focal length lens, a Hasselblad electric data camera (HEDC) with a 60-mm focal length lens, and real-time TV transmissions.  The astronauts performed the required trenching activity, penetrometer load plate and cone tests, and soil behavior/characteristic observations such as the LRV wheel/lunar soil interaction and LM footpad/soil interaction.  After tests were completed, an astronaut removed the head from the penetrometer and stowed it for return to Earth.  This head contained the recording drum that indicated the penetrometer test results."
+},{
+	"tags": [
+		"Temperature Sensor"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:hfe.a17a",
+	"display_name": "Apollo 17 ALSEP Heat Flow Experiment",
+	"display_description": "The Heat Flow Experiment (HFE), which was part of the Apollo Lunar Surface Experiment Package (ALSEP), was designed to determine the rate of heat loss from the lunar interior by temperature and thermal property measurements at the surface and in the subsurface. The experiment was carried on the Apollo 15, 16, and 17 missions and was essentially identical on all three missions. The experiment apparatus consisted of two probes connected by 8 meter long cables to an electronics box which was in turn connected by a flat ribbon cable to the ALSEP station. The astronauts would drill two holes with the Apollo lunar surface drill (ALSD). The ALSD was equipped with borestem caps and retainers, borestems, bore bits, a bore bit/drill adapter, a treadle, and a bore stem/core stem wrench. The borestem assemblies used in drilling consisted of lengths of hollow fiberglass tubes, 2.5 cm in diameter, which would be connected together as the drilling progressed, and remained in the holes to provide a casing to prevent collapse of the hole walls during insertion of the probes. Nominally the holes were to be drilled to a depth of 3 meters but in practice no holes reached this depth. The probe would be lowered down into the borestem until it came to rest on top of the drill bit at the bottom of the hole. The borestem tube would project out of the surface a distance dependent on the depth of the hole."
+},{
+	"tags": [
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:leam.a17a",
+	"display_name": "Apollo 17 ALSEP Lunar Ejecta and Meteorites Experiment",
+	"display_description": "The Apollo 17 Lunar Ejecta And Meteorites (LEAM) experiment measured the frequency with which the moon was impacted by primary cosmic dust particles and the effect of the lunar ejecta emanating from the sites of meteorite impacts on the lunar surface."
+},{
+	"tags": [
+		"Gravimeter"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:lsg.a17a",
+	"display_name": "Apollo 17 ALSEP Lunar Surface Gravimeter Experiment",
+	"display_description": "The Apollo 17 Lunar Surface Gravimeter (LSG) Experiment was intended to make highly accurate measurements of the lunar surface gravitational acceleration and its temporal variations at a selected point on the surface, about 8 meters from the ALSEP central station. One of its specific objectives was monitoring of free oscillations of the moon that may be induced by gravitational radiation from cosmic sources."
+},{
+	"tags": [
+		"Spectrometer",
+		"UV Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:fuvs.a17c",
+	"display_name": "Apollo 17 CSM Far-Ultraviolet Spectrometer",
+	"display_description": "Apollo 17 Far-Ultraviolet Spectrometer (FUVS), carried on board the Command and Servicing Module, measured the radiation intensity as a function of wavelength from 1180 to 1680 Angstrom. The prime objective of the scanning spectrometer was to measure the composition of the lunar atmosphere from orbit.  Other observations included the lunar surface, zodiacal light, solar atmosphere emissions, earth emissions, and galactic and stellar emissions."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:metriccam.a17c",
+	"display_name": "Apollo 17 CSM Metric (Mapping) Camera",
+	"display_description": "The Apollo 17 Metric (Mapping) Camera obtained high-quality metric photographs, on black and white film, with high geometric precision of the lunar surface from lunar orbit combined with time-correlated stellar photography for selenodetic/cartographic control. A laser altimeter was operated with it. The Metric Camera also provided supporting photographic data for the Scientific Instrument Module (SIM) Panoramic Camera and other Command Service Module (CSM) photographic experiments. Approximately 2350 of the 3298 Apollo 17 Metric Camera frames contain imagery of the lunar surface."
+},{
+	"tags": [
+		"Imager"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:pancam.a17c",
+	"display_name": "Apollo 17 CSM Panoramic Camera",
+	"display_description": "The Apollo 17 Scientific Instrument Module (SIM) Itek Panoramic Camera was designed to obtain high-resolution panoramic photographs, on black and white film, with stereoscopic and monoscopic coverage of the lunar surface. The panoramic camera, which was housed in the Command Service Module (CSM) and scanned the lunar surface from lunar orbit, also provided supporting photographic data for the other CSM cameras and experiments. The camera provided photographs of 1-m to 2-m resolution from an orbital altitude of 111 km. About 1500 useful photographs were obtained."
+},{
+	"tags": [
+		"Radio Transceiver"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:sep.a17l",
+	"display_name": "Apollo 17 LM Surface Electrical Properties Experiment",
+	"display_description": "The Apollo 17 Surface Electrical Properties (SEP) Experiment used a transmitting antenna deployed near the Lunar Module and a receiving antenna on the Lunar Rover to obtain data about the electromagnetic energy transmission, absorption, and reflection characteristics of the lunar surface and subsurface (regolith)."
+},{
+	"tags": [
+		"Gravimeter"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:tg.a17l",
+	"display_name": "Apollo 17 LM Traverse Gravimeter",
+	"display_description": "The Apollo 17 Traverse Gravimeter was a self-contained, self-leveling lunar gravimeter powered by an internal battery and capable of resolving gravitational acceleration differences with an effective accuracy of 0.5 to 1 milligal on the Moon.  The primary objective of the Traverse Gravimeter (TG) Experiment (Apollo Experiment S-199) was to make a high-accuracy relative survey of the lunar gravitational field in the Apollo 17 landing area and to use these measurements to obtain information about the geological substructure.  A secondary goal was to make an Earth-Moon gravity tie. Specific objectives were to measure the value of gravity, relative to the value at a lunar base station, at selected known locations along the lunar traverse and to measure the value of gravity at a known point on the lunar surface (base station), relative to the gravity at a known point on Earth."
+},{
+	"tags": [
+		"Imager",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cfi.con",
+	"display_name": "CONTOUR Forward Imager",
+	"display_description": "The CONTOUR Forward Imager (CFI) is designed primarily for navigation and long range imaging of the comet. Its primary objectives are to locate the target comet against the tar background before the encounter, take color images of the nucleus and coma, and to image the inner coma in wavelengths sensitive to major species of ionized gases. The CFI is optimized for low-light and short wavelength (including ultraviolet) imaging."
+},{
+	"tags": [
+		"Mass Spectrometer",
+		"Dust Detector"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:cida.con",
+	"display_name": "CONTOUR Dust Analyzer",
+	"display_description": "The CONTOUR Dust Analyzer (CIDA) will be an improved version of the instruments flown on Vega and Giotto during the Halley encounter. CIDA will be mounted on the front of the spacecraft to look in the direction of flight during the encounters. The CIDA instrument is a mass spectrometer, which separates ions' masses by comparing differences in their flight times. The operating principle of the instrument is the following: when a dust particle hits the target of the instrument, ions are extracted from it by an electrostatic grid. The extracted ions move through the instrument and are measured by a detector. The flight times of the ions are then used to calculate their masses."
+},{
+	"tags": [
+		"Imager",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:crispimag.con",
+	"display_name": "CONTOUR Remote Imaging Spectrograph - Imager",
+	"display_description": "The CONTOUR Remote Imager/Spectrograph (CRISP) instrument is effectively two instruments working independently in a single package. CRISP actively tracks the comet's nucleus near CONTOUR's closest approach, taking high resolution images, color images through 10 filters, and an infrared spectral map. It is designed to return high-resolution images, color images, and infrared spectral maps of the comets."
+},{
+	"tags": [
+		"Spectrometer",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:crispspec.con",
+	"display_name": "CONTOUR Remote Imaging Spectrograph - Spectrometer",
+	"display_description": "The CONTOUR Remote Imager/Spectrograph (CRISP) instrument is effectively two instruments working independently in a single package. CRISP actively tracks the comet's nucleus near CONTOUR's closest approach, taking high resolution images, color images through 10 filters, and an infrared spectral map. It is designed to return high-resolution images, color images, and infrared spectral maps of the comets."
+},{
+	"tags": [
+		"Mass Spectrometer"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:ngims.con",
+	"display_name": "CONTOUR Neutral Gas and Ion Mass Spectrometer",
+	"display_description": "The Neutral Gas and Ion Mass Spectrometer (NGIMS) will measure the abundance and isotope ratios for many neutral and ion species in the coma of each comet during the flyby. The objectives of this experiment are to gain an understanding of the abundances of simple species such as H2O, CH4, CO2, NH3, and H2S and considerably more complex molecules released by the comet."
+},{
+	"tags": [
+		"Spectrometer",
+		"Radiometer",
+		"Telescope"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:instrument:spirit3.msx",
+	"display_name": "Midcourse Space Experiment Spatial Infrared Imaging Telescope",
+	"display_description": "The Spatial Infrared Imaging Telescope (SPIRIT) III instrument is the primary instrument on MSX covering the wavelength range from 2.5 to 28 micro-meter. It consists of an off-axis telescope with a 35-cm- diameter aperature, a six-channel Fourier-transform spectrometer, a five- band scanning radiometer, and a cryogenic Dewar/heat exchanger. Its objective is to demonstrate midcourse surveillance functions, to collect target and background phenomenology data, and to demonstrate advanced cryogenic sensor technologies in space. It will measure the spectral, spatial, and intensity parameters of stars, aurora, the Earth's airglow, and other upper atmospheric phenomena."
 }],"targetRelationships": [{
 	"parent_ref": "urn:nasa:pds:context:target:planet.mars",
 	"child_ref": "urn:nasa:pds:context:target:satellite.mars.phobos"
@@ -9321,6 +9597,12 @@
 	"type": "instruments"
 },{
 	"name": "Sample Collector",
+	"type": "instruments"
+},{
+	"name": "Penetrometer",
+	"type": "instruments"
+},{
+	"name": "Gravimeter",
 	"type": "instruments"
 }],"objectRelationships": [{
 	"instrument": "urn:nasa:pds:context:instrument:instrument.ldex__ladee",
@@ -11715,16 +11997,16 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"instrument": "urn:nasa:pds:context:instrument:sws.a12a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"instrument": "urn:nasa:pds:context:instrument:side.a12a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"instrument": "urn:nasa:pds:context:instrument:ccig.a12a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:nep.gp",
@@ -11759,100 +12041,100 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.gp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"instrument": "urn:nasa:pds:context:instrument:ccig.a14a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"instrument": "urn:nasa:pds:context:instrument:side.a14a",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:cplee.a14a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"instrument": "urn:nasa:pds:context:instrument:sws.a15a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"instrument": "urn:nasa:pds:context:instrument:side.a15a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"instrument": "urn:nasa:pds:context:instrument:ccig.a15a",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:hfe.a15a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15c",
 	"instrument": "urn:nasa:pds:context:instrument:pancam.a15c",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15c",
 	"instrument": "urn:nasa:pds:context:instrument:metriccam.a15c",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15c",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:oms.a15c",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15l",
 	"instrument": "urn:nasa:pds:context:instrument:lsrp.a15l",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16a",
 	"instrument": "urn:nasa:pds:context:instrument:lsm.a16a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16c",
 	"instrument": "urn:nasa:pds:context:instrument:oms.a16c",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16c",
 	"instrument": "urn:nasa:pds:context:instrument:pancam.a16c",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16c",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:metriccam.a16c",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16l",
 	"instrument": "urn:nasa:pds:context:instrument:lsrp.a16l",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
 	"instrument": "urn:nasa:pds:context:instrument:leam.a17a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
 	"instrument": "urn:nasa:pds:context:instrument:lsg.a17a",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:hfe.a17a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17c",
 	"instrument": "urn:nasa:pds:context:instrument:pancam.a17c",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17c",
 	"instrument": "urn:nasa:pds:context:instrument:metriccam.a17c",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17c",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:fuvs.a17c",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
 	"instrument": "urn:nasa:pds:context:instrument:tg.a17l",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
 	"instrument": "urn:nasa:pds:context:instrument:sep.a17l",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:m3.ch1-orb",
@@ -11895,24 +12177,24 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
 	"instrument": "urn:nasa:pds:context:instrument:ngims.con",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
 	"instrument": "urn:nasa:pds:context:instrument:cida.con",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
 	"instrument": "urn:nasa:pds:context:instrument:crispimag.con",
-	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
-	"instrument": "urn:nasa:pds:context:instrument:crispspec.con",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument": "urn:nasa:pds:context:instrument:crispspec.con",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:cfi.con",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.con",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dif",
@@ -12247,8 +12529,8 @@
 	"target": "urn:nasa:pds:context:target:dust.dust",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msx",
 	"instrument": "urn:nasa:pds:context:instrument:spirit3.msx",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msx",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:cdd.p8",
