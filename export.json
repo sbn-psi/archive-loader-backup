@@ -4385,7 +4385,8 @@
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"display_name": "Galileo Orbiter",
-	"display_description": "The Galileo Orbiter was launched in 1989. It studied 951 Gaspra, 243 Ida, Dactyl, Comet Shoemaker-Levy 9, Jupiter and its moons."
+	"display_description": "The Galileo Orbiter was launched in 1989. It studied 951 Gaspra, 243 Ida, Dactyl, Comet Shoemaker-Levy 9, Jupiter and its moons.",
+	"mission_override": "urn:nasa:pds:context:investigation:mission.galileo"
 },{
 	"tags": [
 		"Lander"
@@ -11957,56 +11958,56 @@
 	"target": "urn:nasa:pds:context:target:calibrator.calibration",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"target": "urn:nasa:pds:context:target:plasma_stream.solar_wind",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
+	"target": "urn:nasa:pds:context:target:plasma_stream.solar_wind",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:ssd.go",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
+	"instrument": "urn:nasa:pds:context:instrument:ssd.go",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:ssi.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:pls.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:pws.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:rss.go",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
+	"instrument": "urn:nasa:pds:context:instrument:rss.go",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:mag.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:epd.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:gdds.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:nims.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:uvs.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:ppr.go",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:hic.go",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
+	"instrument": "urn:nasa:pds:context:instrument:hic.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:sws.a12a",
