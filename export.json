@@ -4315,7 +4315,8 @@
 },{
 	"tags": [
 		"Orbiter",
-		"Lander"
+		"Lander",
+		"Sample Return"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"display_name": "Hayabusa",
@@ -9998,8 +9999,8 @@
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
@@ -10286,12 +10287,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:ola.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"target": "urn:nasa:pds:context:target:planet.earth",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:planet.earth",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"target": "urn:nasa:pds:context:target:planet.saturn",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:planet.saturn",
 	"relationshipId": "b8db3bb7-791a-43ba-a3ea-80084422fe0f"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
@@ -10314,8 +10315,8 @@
 	"target": "urn:nasa:pds:context:target:star.alf_ori",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
@@ -10350,16 +10351,16 @@
 	"target": "urn:nasa:pds:context:target:star.alf_aur",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"instrument": "urn:nasa:pds:context:instrument:amica.hay",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"instrument": "urn:nasa:pds:context:instrument:nirs.hay",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:lidar.hay",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"instrument": "urn:nasa:pds:context:instrument:lidar.hay",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"target": "urn:nasa:pds:context:target:asteroid.4_vesta",
