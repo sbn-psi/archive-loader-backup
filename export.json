@@ -68,10 +68,8 @@
 	"citation": "Rizk, B., C. Drouet d’Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) calibration file collection, urn:nasa:pds:orex.ocams:calibration, NASA Planetary Data System, 2019.",
 	"mission_bundle": "urn:nasa:pds:orex.mission"
 },{
-	"tags": [
-		"asteroid",
-		"image"
-	],
+	"tags": [],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
@@ -82,7 +80,6 @@
 		"filename": "20170922T231714S379_pol_iofL2pan_V017.fits",
 		"url": "https://sbnarchive.psi.edu/pds4/orex/orex.ocams/data_calibrated/ega/20170922T231714S379_pol_iofL2pan_V017.fits"
 	},
-	"related_tools": [],
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OCAMS calibration file collection",
@@ -103,6 +100,7 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ocams:data_calibrated::3.0",
 	"display_name": "OSIRIS-REx OCAMS calibrated science image data products",
 	"display_description": "\n            This collection contains the calibrated (processing level 2 radiometrically calibrated and reflectance) science image data products produced by the OCAMS instrument onboard the OSIRIS-REx spacecraft.\n            ",
@@ -2043,10 +2041,19 @@
 	"is_major": true,
 	"display_description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury. Mars carries a name of the Roman god of war, and is often referred to as the \"Red Planet\" because the iron oxide prevalent on its surface gives it a reddish appearance that is distinctive among the astronomical bodies visible to the naked eye. Mars is a terrestrial planet with a thin atmosphere, having surface features reminiscent both of the impact craters of the Moon and the valleys, deserts, and polar ice caps of Earth.",
 	"tools": [
-		2,
-		3,
-		6,
-		4
+		{
+			"toolId": 2
+		},
+		{
+			"toolId": 3,
+			"directUrl": "https://pds-imaging.jpl.nasa.gov/search/?fq=TARGET%3Amars&q=*%3A*"
+		},
+		{
+			"toolId": 4
+		},
+		{
+			"toolId": 6
+		}
 	]
 },{
 	"tags": [
@@ -9975,36 +9982,36 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mex",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mpfr",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ody",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ody",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vl1",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phx",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phx",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
@@ -10015,60 +10022,60 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mo",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mr6",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mpfl",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mgs",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mgs",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mer2",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mer2",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vl2",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dif",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dif",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mr9",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mer1",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mer1",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mr7",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vl1",
