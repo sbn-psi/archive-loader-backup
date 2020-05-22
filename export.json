@@ -6000,7 +6000,8 @@
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.lro",
 	"display_name": "Lunar Reconnaissance Orbiter (LRO)",
-	"display_description": "The Lunar Reconnaissance Orbiter (LRO) was launch along with its companion spacecraft, the Lunar CRater Observation and Sensing Satellite (LCROSS), into a direct insertion trajectory to the Moon. It orbits the Moon in a polar orbit."
+	"display_description": "The Lunar Reconnaissance Orbiter (LRO) was launch along with its companion spacecraft, the Lunar CRater Observation and Sensing Satellite (LCROSS), into a direct insertion trajectory to the Moon. It orbits the Moon in a polar orbit.",
+	"html1": "<div><p>View HiRISE at the University of Arizona: </p><p><a href=\"https://hirise.lpl.arizona.edu/\" target=\"\"><img src=\"https://static.uahirise.org/images/hirise-logo-2018-alpha.svg\" width=\"300\" alt=\"The University of Arizona: Lunar and Planetary Laboratory: HiRISE\"/>​</a></p></div>"
 },{
 	"tags": [
 		"Flyby"
@@ -7544,7 +7545,8 @@
 	"display_name": "MRO HiRISE",
 	"display_description": "The High Resolution Imaging Science Experiment (HiRISE) is one of the remote sensing instruments on the Mars Reconnaissance Orbiter (MRO) spacecraft that acquires orbital observations of the Martian surface during a two earth-year primary mapping phase.  MRO, successfully launched in August 2005, arrived at Mars in March 2006.  Following orbit insertion the spacecraft went into an aerobraking period to achieve a 250 x 315 kilometer near-polar orbit suitable for the Primary Science Phase (PSP) mapping that started in November 2006.  Since the start of PSP HiRISE has been continuously operating acquiring 5-20 observations per day. The HiRISE camera is a pushbroom imaging system featuring a 0.5 m aperture telescope with a 12 m focal effective length and 14 CCD detectors capable of generating images of up to 20,000 cross-scan observation pixels (exclusive of overlap pixels) and 65,000 unbinned scan lines. The HiRISE instrument capabilities include the acquisition of: (1) observations of the Mars surface from orbit with a ground sampling dimension between 25 and 32 cm/pixel, depending on the orbital altitude, along with an intrinsic point spread function of 1.4 pixels (full width at half maximum assuming no spacecraft jitter) and high signal-to-noise ratio (SNR), (2) high-resolution topographic data from stereo observations with a vertical precision of ~0.2 m over areas of ~5x5 pixels (~1.5 m), and (3) observations in 3 colors with high radiometric fidelity. A key instrument design feature includes Charge Couple Device (CCD) detectors with up to 128 lines of Time Delay and Integration (TDI) to create high (>100:1) SNR in the Red filter bandpass anywhere on Mars. At the nominal 300 km MRO orbital altitude the instrument can acquire image swaths of approximately 6 kilometers cross-orbit and 20 kilometers along-orbit.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"html1": "<div><p>View HiRISE at the University of Arizona: </p><p><a href=\"https://hirise.lpl.arizona.edu/\" target=\"\"><img src=\"https://static.uahirise.org/images/hirise-logo-2018-alpha.svg\" width=\"300\" alt=\"The University of Arizona: Lunar and Planetary Laboratory: HiRISE\"/>​</a></p></div>"
 },{
 	"tags": [
 		"Radar Transceiver"
@@ -12021,8 +12023,8 @@
 	"instrument": "urn:nasa:pds:context:facility:observatory.dsn",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"instrument": "urn:nasa:pds:context:instrument:hirise.mro",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mro",
