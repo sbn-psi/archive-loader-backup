@@ -9994,7 +9994,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ccig.a12a",
 	"display_name": "Apollo 12 ALSEP Cold Cathode Ion Gage Experiment",
-	"display_description": "Apollo 12 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere."
+	"display_description": "Apollo 12 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere.",
+	"pds3_instrument_id": "CCIG",
+	"pds3_instrument_host_id": "A12A"
 },{
 	"tags": [
 		"Ion Detector"
@@ -10002,7 +10004,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:side.a12a",
 	"display_name": "Apollo 12 ALSEP Suprathermal Ion Detector Experiment",
-	"display_description": "Apollo 12 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction."
+	"display_description": "Apollo 12 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction.",
+	"pds3_instrument_id": "SIDE",
+	"pds3_instrument_host_id": "A12A"
 },{
 	"tags": [
 		"Spectrometer",
@@ -10011,7 +10015,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:sws.a12a",
 	"display_name": "Apollo 12 ALSEP Solar Wind Spectrometer",
-	"display_description": "The solar wind spectrometer, designed to measure protons and electrons at the lunar surface, was part of the Apollo 12 ALSEP package left on the Moon. It consisted of seven modulated Faraday cups opened toward different, but slightly overlapping, portions of the lunar sky. The instrument was used to observe the directional intensities of the electron (6-1330 eV) and positive ion (18-9780 eV) components of the solar wind and magnetotail plasma that strike the surface of the Moon. The scientific objectives of the Solar Wind Spectrometer Experiment were to study the existence of the solar wind plasma on the Moon, the properties of the lunar surface and interior, general solar wind properties, and the magnetospheric tail of the Earth."
+	"display_description": "The solar wind spectrometer, designed to measure protons and electrons at the lunar surface, was part of the Apollo 12 ALSEP package left on the Moon. It consisted of seven modulated Faraday cups opened toward different, but slightly overlapping, portions of the lunar sky. The instrument was used to observe the directional intensities of the electron (6-1330 eV) and positive ion (18-9780 eV) components of the solar wind and magnetotail plasma that strike the surface of the Moon. The scientific objectives of the Solar Wind Spectrometer Experiment were to study the existence of the solar wind plasma on the Moon, the properties of the lunar surface and interior, general solar wind properties, and the magnetospheric tail of the Earth.",
+	"pds3_instrument_id": "SWS",
+	"pds3_instrument_host_id": "A12A"
 },{
 	"tags": [
 		"Gas Sampler",
@@ -10020,7 +10026,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ccig.a14a",
 	"display_name": "Apollo 14 ALSEP Cold Cathode Ion Gage Experiment",
-	"display_description": "The Cold Cathode Gage Experiment (CCGE, also referred to as the Cold Cathode Ion Gage, or CCIG) was deployed as part of the Apollo Lunar Surface Experiments package (ALSEP) on Apollos 12, 14, and 15. It was designed to measure the density of neutral particles to determine the amount of gas present at the lunar surface. This data helps constrain the source and loss mechanisms of the tenuous lunar atmosphere. A cold cathode ionization gage was used for this purpose. The gage can determine the amount of gas present, expressed as concentrations of particles per cubic cm or pressure in torrs, but not its composition. The CCGE gage head was roughly 18 x 10 x 12 cm and used 6.5 W. The instrument consisted of the cold cathode ionization gage and associated electronics."
+	"display_description": "The Cold Cathode Gage Experiment (CCGE, also referred to as the Cold Cathode Ion Gage, or CCIG) was deployed as part of the Apollo Lunar Surface Experiments package (ALSEP) on Apollos 12, 14, and 15. It was designed to measure the density of neutral particles to determine the amount of gas present at the lunar surface. This data helps constrain the source and loss mechanisms of the tenuous lunar atmosphere. A cold cathode ionization gage was used for this purpose. The gage can determine the amount of gas present, expressed as concentrations of particles per cubic cm or pressure in torrs, but not its composition. The CCGE gage head was roughly 18 x 10 x 12 cm and used 6.5 W. The instrument consisted of the cold cathode ionization gage and associated electronics.",
+	"pds3_instrument_id": "CCIG",
+	"pds3_instrument_host_id": "A14A"
 },{
 	"tags": [
 		"Ion Detector"
@@ -10028,7 +10036,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:cplee.a14a",
 	"display_name": "Apollo 14 ALSEP Charged Particle Lunar Environment Experiment",
-	"display_description": "The Apollo 14 Charged Particle Lunar Environment Experiment (CPLEE) measured the energy spectra of low-energy charged particles striking the lunar surface by observing the fluxes of electrons and ions with energies from 40 eV to 20 keV in two directions: local vertical and 60 degrees from vertical toward lunar west. The primary purpose of the experiment was to examine plasma particles originating from the Sun and the low-energy particle flux in the magnetic tail of the Earth."
+	"display_description": "The Apollo 14 Charged Particle Lunar Environment Experiment (CPLEE) measured the energy spectra of low-energy charged particles striking the lunar surface by observing the fluxes of electrons and ions with energies from 40 eV to 20 keV in two directions: local vertical and 60 degrees from vertical toward lunar west. The primary purpose of the experiment was to examine plasma particles originating from the Sun and the low-energy particle flux in the magnetic tail of the Earth.",
+	"pds3_instrument_id": "CPLEE",
+	"pds3_instrument_host_id": "A14A"
 },{
 	"tags": [
 		"Ion Detector"
@@ -10036,7 +10046,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:side.a14a",
 	"display_name": "Apollo 14 ALSEP Suprathermal Ion Detector Experiment",
-	"display_description": "Apollo 14 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction."
+	"display_description": "Apollo 14 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction.",
+	"pds3_instrument_id": "SIDE",
+	"pds3_instrument_host_id": "A14A"
 },{
 	"tags": [
 		"Gas Sampler",
@@ -10045,7 +10057,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ccig.a15a",
 	"display_name": "Apollo 15 ALSEP Cold Cathode Ion Gage Experiment",
-	"display_description": "Apollo 15 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere."
+	"display_description": "Apollo 15 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere.",
+	"pds3_instrument_id": "CCIG",
+	"pds3_instrument_host_id": "A15A"
 },{
 	"tags": [
 		"Temperature Sensor"
@@ -10053,7 +10067,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hfe.a15a",
 	"display_name": "Apollo 15 ALSEP Heat Flow Experiment",
-	"display_description": "The Heat Flow Experiment (HFE), which was part of the Apollo Lunar Surface Experiment Package (ALSEP), was designed to determine the rate of heat loss from the lunar interior by temperature and thermal property measurements at the surface and in the subsurface. The experiment apparatus consisted of two probes connected by 8 meter long cables to an electronics box which was in turn connected by a flat ribbon cable to the ALSEP station. The astronauts would drill two holes with the Apollo lunar surface drill (ALSD). The ALSD was equipped with borestem caps and retainers, borestems, bore bits, a bore bit/drill adapter, a treadle, and a bore stem/core stem wrench. The borestem assemblies used in drilling consisted of lengths of hollow fiberglass tubes, 2.5 cm in diameter, which would be connected together as the drilling progressed, and remained in the holes to provide a casing to prevent collapse of the hole walls during insertion of the probes. Nominally the holes were to be drilled to a depth of 3 meters but in practice no holes reached this depth. The probe would be lowered down into the borestem until it came to rest on top of the drill bit at the bottom of the hole. The borestem tube would project out of the surface a distance dependent on the depth of the hole."
+	"display_description": "The Heat Flow Experiment (HFE), which was part of the Apollo Lunar Surface Experiment Package (ALSEP), was designed to determine the rate of heat loss from the lunar interior by temperature and thermal property measurements at the surface and in the subsurface. The experiment apparatus consisted of two probes connected by 8 meter long cables to an electronics box which was in turn connected by a flat ribbon cable to the ALSEP station. The astronauts would drill two holes with the Apollo lunar surface drill (ALSD). The ALSD was equipped with borestem caps and retainers, borestems, bore bits, a bore bit/drill adapter, a treadle, and a bore stem/core stem wrench. The borestem assemblies used in drilling consisted of lengths of hollow fiberglass tubes, 2.5 cm in diameter, which would be connected together as the drilling progressed, and remained in the holes to provide a casing to prevent collapse of the hole walls during insertion of the probes. Nominally the holes were to be drilled to a depth of 3 meters but in practice no holes reached this depth. The probe would be lowered down into the borestem until it came to rest on top of the drill bit at the bottom of the hole. The borestem tube would project out of the surface a distance dependent on the depth of the hole.",
+	"pds3_instrument_id": "HFE",
+	"pds3_instrument_host_id": "A15A"
 },{
 	"tags": [
 		"Ion Detector"
@@ -13504,16 +13520,16 @@
 	"instrument": "urn:nasa:pds:context:instrument:hic.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"instrument": "urn:nasa:pds:context:instrument:sws.a12a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"instrument": "urn:nasa:pds:context:instrument:side.a12a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"instrument": "urn:nasa:pds:context:instrument:ccig.a12a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a12a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.gp",
@@ -13548,16 +13564,16 @@
 	"instrument": "urn:nasa:pds:context:instrument:nfr.gp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"instrument": "urn:nasa:pds:context:instrument:ccig.a14a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"instrument": "urn:nasa:pds:context:instrument:side.a14a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"instrument": "urn:nasa:pds:context:instrument:cplee.a14a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
@@ -13568,12 +13584,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:side.a15a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"instrument": "urn:nasa:pds:context:instrument:ccig.a15a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"instrument": "urn:nasa:pds:context:instrument:hfe.a15a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15c",
