@@ -6542,7 +6542,9 @@
 	"display_name": "Cassini Ultraviolet Imaging Spectrograph",
 	"display_description": "The Ultraviolet Imaging Spectrograph Subsystem (UVIS) is a set of telescopes used to measure ultraviolet light from the Saturn system's atmospheres, rings, and surfaces. The UVIS will also observe the fluctuations of starlight and sunlight as the sun and stars move behind the rings and the atmospheres of Titan and Saturn, and it will determine the atmospheric concentrations of hydrogen and deuterium.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "UVIS",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Imager",
@@ -6553,8 +6555,12 @@
 	"display_description": "VIMS-V is a multispectral imager covering the spectral range from 0.30 to 1.05 micrometers. VIMS-V is equipped with a frame transfer CCD matrix detector on which spatial and spectral information is simultaneously stored. The CCD is passively cooled in the range -20/+40 degrees C. Radiation collected from VIMS-V telescope is focused onto the spectrometer slit. The slit image is spectrally dispersed by a diffraction grating and then imaged on the CCD: thus, on each CCD column a monochromatic image of the slit is recorded. On-chip summing of pixels allows implementation of a large number of operating modes for different observing conditions.",
 	"is_prime": true,
 	"tools": [
-		5
-	]
+		{
+			"toolId": 5
+		}
+	],
+	"pds3_instrument_id": "VIMS",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Ion Detector",
@@ -6565,7 +6571,9 @@
 	"display_name": "Cassini Plasma Spectrometer",
 	"display_description": "The CAPS instrument was comprised of three sensors: the Electron Spectrometer (ELS), the Ion Beam Spectrometer (IBS), and the Ion Mass Spectrometer (IMS). The ELS sensor measured the velocity distribution of electrons from 0.7 eV to 30 keV, a range that permitted coverage of thermal electrons found at Titan and near the ring plane as well as more energetic trapped electrons and auroral particles. The IBS sensor measured ion velocity distributions with very high angular and energy resolution from 1 eV to 50 keV. It was specially designed to measure sharply defined ion beams expected in the solar wind at 9.5 AU, highly directional rammed ion fluxes encountered in Titan's ionosphere, and anticipated field-aligned auroral fluxes. The IMS sensor was designed to measure the composition of hot, diffuse magnetospheric plasmas and low-concentration ion species with an atomic resolution M/delta M ~70 and, for certain molecules, (such as N2+ and CO+), effective resolution as high as ~2500. The three sensors were mounted on a motor-driven actuator that rotates the entire instrument over approximately one-half of the sky every 3 minutes.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "CAPS",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Dust Detector"
@@ -6574,7 +6582,9 @@
 	"display_name": "Cassini Cosmic Dust Analyzer",
 	"display_description": "The Cosmic Dust Analyser instrument (CDA) on the Cassini orbiter is the successor of the dust detectors flown on the Ulysses and the Galileo spacecraft. The instrument accomplishes the detection of dust impacts by two different means: (1) a high rate detector (HRD) using two separate polyvinylidene fluoride (PVDF) sensors, and (2) a Dust Analyser (DA) based upon impact ionization.  The DA measures the electric charges carried by the dust particle, the impact direction, the impact speed, mass, and the chemical composition, whereas the HRD is only capable to determine the mass for particles with a known speed.  The DA detector consists of three components: the charge detection unit, the impact ionization detector itself, and the time-of-flight (TOF) mass spectrometer.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "CDA",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Ion Detector",
@@ -6585,7 +6595,9 @@
 	"display_name": "Cassini Ion and Neutral Mass Spectrometer",
 	"display_description": "The Cassini Ion and Neutral Mass Spectrometer (INMS) investigation will determine the mass composition and number densities of neutral species and low-energy ions in key regions of the Saturn system.  The primary focus of the INMS investigation is on the composition and structure of titan's upper atmosphere and its interaction with Saturn's magnetospheric plasma. Of particular interest is the high-altitude region, between 900 and 1000 km, where the methane and nitrogen photochemistry is initiated that leads to the creation of complex hydrocarbons and nitriles that may eventually precipitate onto the moon's surface to form hydrocarbon-nitrile lakes or oceans.  The investigation is also focused on the neutral and plasma environments of Saturn's ring system and icy moons and on the identification of positive ions and neutral species in Saturn's inner magnetosphere.  Measurement of material sputtered from the satellites and the rings by magnetospheric charged particle and micrometeorite bombardment is expected to provide information about the formation of the giant neutral cloud of water molecules and water products that surrounds Saturn out to a distance of ~12 planetary radii and about the genesis and evolution of the rings.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "INMS",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Magnetometer"
@@ -6594,7 +6606,9 @@
 	"display_name": "Cassini Dual Technique Magnetometer",
 	"display_description": "The dual technique magnetometer system onboard the Cassini orbiter is described. This instrument consists of vector helium and fluxgate magnetometers with the capability to operate the helium device in a scalar mode. This special mode is used near the planet in order to determine with very high accuracy the interior field of the planet. The four-year orbiting Cassini mission will lead to a detailed understanding of the Saturn/Titan system. In addition to the prime scientific measurement of the planetary field, the instrument will also make measurements of the planetary magnetosphere, and the interactions of Saturn with the solar wind, of Titan with its environments, and of the icy satellites within the magnetosphere.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "MAG",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Magnetometer",
@@ -6605,7 +6619,9 @@
 	"display_name": "Cassini Magnetospheric Imaging Instrument",
 	"display_description": "The Cassini Magnetospheric Imaging Instrument (MIMI) consists of three separate sensors: the Charge Energy Mass Spectrometer (CHEMS) sensor, the Low Energy Magnetospheric Measurement (LEMMS) sensor, and the Ion Neutral Camera (INCA) . This combination of sensors provides the capability to perform both global imaging and in situ measurements to study the overall configuration and dynamics of Saturn's magnetosphere and its interactions with the solar wind, Saturn's atmosphere, Titan, the icy satellites and the ring particles.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "MIMI",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Radio Detector",
@@ -6615,7 +6631,9 @@
 	"display_name": "Cassini Radio and Plasma Wave Science",
 	"display_description": "The Cassini Radio and Plasma Wave Science instrument consists of three electric field sensors, three search coil magnetometers, and a Langmuir probe as well as an array of receivers covering the frequency range from 1 Hz to 16 MHz with varying degrees of spectral and temporal resolution.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "RPWS",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Radar Transceiver"
@@ -6624,7 +6642,9 @@
 	"display_name": "Cassini Radar",
 	"display_description": "The Cassini Radar (RADAR) uses the five-beam Ku-band antenna feed assembly associated with the spacecraft high gain antenna to direct radar transmissions toward targets, and to capture blackbody radiation and reflected radar signals from targets. RADAR scientific objectives are (1) to determine whether oceans exist on Titan, and, if so, to determine their distribution; (2) to investigate the geologic features and topography of the solid surface of Titan; (3) to acquire data on non-Titan targets (rings, icy satellites) as conditions permit.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "RADAR",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Radio Transceiver"
@@ -6633,7 +6653,9 @@
 	"display_name": "Cassini Radio Science Subsystem",
 	"display_description": "The Radio Science investigations on Cassini were unique in that they utilized instrumentation with elements both on the spacecraft and on the ground.  The spacecraft element was further distinguished in being distributed among several subsystems on the Cassini Orbiter.  Cassini Radio Science can be regarded as a solar-system-sized instrument observing at microwave frequencies, with one end of the radio path on the spacecraft and the other end at the NASA Deep Space Network (DSN) stations on the ground.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "RSS",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Dust Detector"
@@ -6642,7 +6664,9 @@
 	"display_name": "Cassini High Rate Detector",
 	"display_description": "The High Rate Detector (HRD) is part of the Cosmic Dust Analyzer (CDA) on the Cassini mission payload.  The overall objective of the HRD is to carry out quantitative measurements of particle flux and mass distribution throughout the Saturn ring system. The particle impact rate and particle mass distribution will be determined with respect to Saturnian distances, distance from the rings, and to magnetospheric coordinates.  The particle mass range covered by the HRD (assuming a particle impact velocity of 15 km/s) ranges from 8x10^-13 to 8x10^-8 g for differential and cumulative flux measurements, and > 8x10^-8 g for cumulative flux measurements.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "HRD",
+	"pds3_instrument_host_id": "CO"
 },{
 	"tags": [
 		"Accelerometer",
@@ -8119,10 +8143,18 @@
 	"display_description": "The Framing Camera (FC) is a multispectral CCD imager in a refracting telescope that also serves as optical navigation camera for the NASA Dawn mission to the asteroids 4 Vesta and 1 Ceres.  The camera consists of two identical units, FC1 and FC2, which are mounted side-by-side on the +Z deck of the spacecraft.  FC1 and FC2 each have a 1024x1024 pixel CCD, and filters include one broadband and seven narrow-band filters from 438-965 nm.",
 	"is_prime": true,
 	"tools": [
-		1,
-		2,
-		3
-	]
+		{
+			"toolId": 1
+		},
+		{
+			"toolId": 2
+		},
+		{
+			"toolId": 3
+		}
+	],
+	"pds3_instrument_id": "FC2",
+	"pds3_instrument_host_id": "DAWN"
 },{
 	"tags": [
 		"Spectrometer"
@@ -8132,8 +8164,12 @@
 	"display_description": "VIR is a moderate-resolution imaging spectrometer with a 0.25-1 micron visible channel and a 0.95-5 micron infrared channel. The design uses a dual arm optical and focal design with mapping ability to 5 µm.",
 	"is_prime": true,
 	"tools": [
-		1
-	]
+		{
+			"toolId": 1
+		}
+	],
+	"pds3_instrument_id": "VIR",
+	"pds3_instrument_host_id": "DAWN"
 },{
 	"tags": [
 		"Spectrometer"
@@ -8142,7 +8178,9 @@
 	"display_name": "DAWN Gamma Ray and Neutron Detector (GRaND)",
 	"display_description": "GRaND is a nuclear spectrometer which measures the spectrum of planetary gamma rays and neutrons which originate from galactic cosmic ray interactions and the decay of radio elements within the regolith of the target body. This instrument uses a total of 21 sensors with a very wide field of view to measure the elemental composition of both Vesta and Ceres.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "GRAND",
+	"pds3_instrument_host_id": "DAWN"
 },{
 	"tags": [
 		"Radio Transceiver"
@@ -8151,7 +8189,9 @@
 	"display_name": "DAWN Gravity Science Instrument",
 	"display_description": "The gravity science experiment on Dawn (also known as the Radio Science experiment) used the communications system in concert with the optical imaging system to accurately track the spacecraft's motions as it orbits the asteroids and use these motions to map the gravity field. The objectives of the Dawn gravity science experiment were to determine the masses, global gravity fields to the 12th harmonic degree and order, the principal axes, the rotational axis, and the moments of inertia of Ceres and Vesta.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "RSS",
+	"pds3_instrument_host_id": "DAWN"
 },{
 	"tags": [
 		"Imager"
@@ -8324,7 +8364,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:uvvis.clem1",
 	"display_name": "Clementine 1 Ultraviolet/Visible Camera",
-	"display_description": "The Ultraviolet/Visible Camera (UVVIS) has a catadioptic telescope using fused silica lenses focused onto a metachrome-coated charge couple device (CCD) imager.  Active wavelength response is limited on the short wavelength end by the transmission of fused silica and the optical blur of the lens.  Wavelength response on the long end is limited by the response of the CCD.  Six spectral bands can be selected from a filter wheel which is controlled through the same serial-addressable synchronous interface (SASI)."
+	"display_description": "The Ultraviolet/Visible Camera (UVVIS) has a catadioptic telescope using fused silica lenses focused onto a metachrome-coated charge couple device (CCD) imager.  Active wavelength response is limited on the short wavelength end by the transmission of fused silica and the optical blur of the lens.  Wavelength response on the long end is limited by the response of the CCD.  Six spectral bands can be selected from a filter wheel which is controlled through the same serial-addressable synchronous interface (SASI).",
+	"pds3_instrument_id": "UVVIS",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Radio Transceiver"
@@ -8341,7 +8383,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:nir.clem1",
 	"display_name": "Clementine 1 Near Infrared Camera",
-	"display_description": "The Clementine Near-Infrared camera (NIR) was designed to study the surfaces of the Moon and the near-Earth asteroid 1620 Geographos at six different wavelengths in the near-infrared spectrum. This experiment yielded information on the petrology of the surface material on the Moon. The rendezvous with Geographos was cancelled due to equipment malfunction."
+	"display_description": "The Clementine Near-Infrared camera (NIR) was designed to study the surfaces of the Moon and the near-Earth asteroid 1620 Geographos at six different wavelengths in the near-infrared spectrum. This experiment yielded information on the petrology of the surface material on the Moon. The rendezvous with Geographos was cancelled due to equipment malfunction.",
+	"pds3_instrument_id": "NIR",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Altimeter",
@@ -8350,7 +8394,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:lidar.clem1",
 	"display_name": "Clementine 1 Laser Image Detection and Ranging System",
-	"display_description": "The Clementine Laser Image Detection And Ranging (LIDAR) experiment was designed to measure the distance from the spacecraft to a point on the surface of the Moon. This will allow an altimetric map to be made, which can be used to constrain the morphology of large basins and other lunar features, study stress and strain and flexural properties of the lithosphere, and can be combined with gravity to study the density distribution in the crust. The experiment was also designed to measure distances to the surface of Geographos, but this phase of the mission was cancelled due to a malfunction."
+	"display_description": "The Clementine Laser Image Detection And Ranging (LIDAR) experiment was designed to measure the distance from the spacecraft to a point on the surface of the Moon. This will allow an altimetric map to be made, which can be used to constrain the morphology of large basins and other lunar features, study stress and strain and flexural properties of the lithosphere, and can be combined with gravity to study the density distribution in the crust. The experiment was also designed to measure distances to the surface of Geographos, but this phase of the mission was cancelled due to a malfunction.",
+	"pds3_instrument_id": "LIDAR",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Spectrometer",
@@ -8359,7 +8405,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:lwir.clem1",
 	"display_name": "Clementine 1 Long Wavelength Infrared Camera",
-	"display_description": "The Clementine Long-Wavelength Infrared (LWIR) Camera was designed to image darkside features on both the Moon and the near-Earth asteroid 1620 Geographos in the thermal infrared spectrum, and to allow measurement of thermal properties of material on both bodies, from which an assessment of regolith characteristics can be made. The Geographos phase of the mission was cancelled due to equipment malfunction."
+	"display_description": "The Clementine Long-Wavelength Infrared (LWIR) Camera was designed to image darkside features on both the Moon and the near-Earth asteroid 1620 Geographos in the thermal infrared spectrum, and to allow measurement of thermal properties of material on both bodies, from which an assessment of regolith characteristics can be made. The Geographos phase of the mission was cancelled due to equipment malfunction.",
+	"pds3_instrument_id": "LWIR",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Imager"
@@ -8367,7 +8415,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hires.clem1",
 	"display_name": "Clementine 1 High-Resolution Imager",
-	"display_description": "The Clementine High-Resolution Camera consisted of a telescope with an image intensifier and a frame-transfer CCD imager. The imaging system was designed to study selected portions of the surfaces of the Moon and the near-Earth asteroid 1620 Geographos, although the asteroid rendezvous was cancelled due to a malfunction. This experiment allowed the detailed study of surface processes on the Moon and, combined with spectral data, allowed high-resolution compositional and geologic studies."
+	"display_description": "The Clementine High-Resolution Camera consisted of a telescope with an image intensifier and a frame-transfer CCD imager. The imaging system was designed to study selected portions of the surfaces of the Moon and the near-Earth asteroid 1620 Geographos, although the asteroid rendezvous was cancelled due to a malfunction. This experiment allowed the detailed study of surface processes on the Moon and, combined with spectral data, allowed high-resolution compositional and geologic studies.",
+	"pds3_instrument_id": "HIRES",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Imager"
@@ -8375,7 +8425,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:a-star.clem1",
 	"display_name": "Clementine 1 Star Tracker Camera A",
-	"display_description": "The Clementine spacecraft was equipped with two star tracker cameras. Each camera consisted of a knife-edge baffle vane and a lens mounted to the CCD camera housing. Both cameras were located at one end of the spacecraft, near the main thruster. The main purpose of the star tracker cameras were to image the background stars in order to provide attitude determination for the spacecraft. This was done by comparing stellar images to an onboard star catalog to establish absolute angular references for navigation. However, images of the Earth and moon for scientific purposes could also be obtained."
+	"display_description": "The Clementine spacecraft was equipped with two star tracker cameras. Each camera consisted of a knife-edge baffle vane and a lens mounted to the CCD camera housing. Both cameras were located at one end of the spacecraft, near the main thruster. The main purpose of the star tracker cameras were to image the background stars in order to provide attitude determination for the spacecraft. This was done by comparing stellar images to an onboard star catalog to establish absolute angular references for navigation. However, images of the Earth and moon for scientific purposes could also be obtained.",
+	"pds3_instrument_id": "A-STAR",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Imager"
@@ -8383,7 +8435,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:b-star.clem1",
 	"display_name": "Clementine 1 Star Tracker Camera B",
-	"display_description": "The Clementine spacecraft was equipped with two star tracker cameras. Each camera consisted of a knife-edge baffle vane and a lens mounted to the CCD camera housing. Both cameras were located at one end of the spacecraft, near the main thruster. The main purpose of the star tracker cameras were to image the background stars in order to provide attitude determination for the spacecraft. This was done by comparing stellar images to an onboard star catalog to establish absolute angular references for navigation. However, images of the Earth and moon for scientific purposes could also be obtained."
+	"display_description": "The Clementine spacecraft was equipped with two star tracker cameras. Each camera consisted of a knife-edge baffle vane and a lens mounted to the CCD camera housing. Both cameras were located at one end of the spacecraft, near the main thruster. The main purpose of the star tracker cameras were to image the background stars in order to provide attitude determination for the spacecraft. This was done by comparing stellar images to an onboard star catalog to establish absolute angular references for navigation. However, images of the Earth and moon for scientific purposes could also be obtained.",
+	"pds3_instrument_id": "B-STAR",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Radio Detector"
@@ -8391,7 +8445,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:rss.clem1",
 	"display_name": "Clementine 1 Bistatic Radar Experiment",
-	"display_description": "The Clementine Bistatic Radar Experiment made use of the radio transmitting equipment aboard Clementine to search the Moon's polar regions for evidence of ice in permanently shadowed craters. The basic method of bistatic radar involves a spacecraft transmitting a radio signal at a point on the target body. Reflections of these signals from the target are received on Earth. Properties of the received reflections can be interpreted to give information on the target surface."
+	"display_description": "The Clementine Bistatic Radar Experiment made use of the radio transmitting equipment aboard Clementine to search the Moon's polar regions for evidence of ice in permanently shadowed craters. The basic method of bistatic radar involves a spacecraft transmitting a radio signal at a point on the target body. Reflections of these signals from the target are received on Earth. Properties of the received reflections can be interpreted to give information on the target surface.",
+	"pds3_instrument_id": "RSS",
+	"pds3_instrument_host_id": "CLEM1"
 },{
 	"tags": [
 		"Spectrometer"
@@ -8548,7 +8604,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hrii.dif",
 	"display_name": "Deep Impact High Resolution Instrument - IR Spectrometer",
-	"display_description": "The High Resolution Instrument (HRI) is a combination multi-spectral charged-couple device (CCD) camera and infrared (IR) spectrometer. The instrument consists of a 30 cm aperture f/35 telescope and a Spectral Imaging Module (SIM). The telescope is a 35.5 cm diameter graphite composite tube housing light baffles and zerodur glass primary and secondary mirrors. It is a Cassegrain design with a focal length of 10.5 meters. The telescope focuses light into a dichroic beam splitter in the SIM. The beam splitter reflects visible light (0.3 to 1.0 microns) to the camera and transmits near-infrared light (1 to 5 microns) to the IR spectrometer.\nThe IR spectrometer is designed to measure spectral reflectivity and thermal emission of the nucleus and dust and the emission bands of water, carbon monoxide, and carbon dioxide, the most abundant volatiles."
+	"display_description": "The High Resolution Instrument (HRI) is a combination multi-spectral charged-couple device (CCD) camera and infrared (IR) spectrometer. The instrument consists of a 30 cm aperture f/35 telescope and a Spectral Imaging Module (SIM). The telescope is a 35.5 cm diameter graphite composite tube housing light baffles and zerodur glass primary and secondary mirrors. It is a Cassegrain design with a focal length of 10.5 meters. The telescope focuses light into a dichroic beam splitter in the SIM. The beam splitter reflects visible light (0.3 to 1.0 microns) to the camera and transmits near-infrared light (1 to 5 microns) to the IR spectrometer.\nThe IR spectrometer is designed to measure spectral reflectivity and thermal emission of the nucleus and dust and the emission bands of water, carbon monoxide, and carbon dioxide, the most abundant volatiles.",
+	"pds3_instrument_id": "HRII",
+	"pds3_instrument_host_id": "DIF"
 },{
 	"tags": [
 		"Imager"
@@ -8556,7 +8614,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hriv.dif",
 	"display_name": "Deep Impact High Resolution Instrument - Visible CCD",
-	"display_description": "The High Resolution Instrument (HRI) is a combination multi-spectral charged-couple device (CCD) camera and infrared (IR) spectrometer. The instrument consists of a 30 cm aperture f/35 telescope and a Spectral Imaging Module (SIM). The telescope is a 35.5 cm diameter graphite composite tube housing light baffles and zerodur glass primary and secondary mirrors. It is a Cassegrain design with a focal length of 10.5 meters. The telescope focuses light into a dichroic beam splitter in the SIM. The beam splitter reflects visible light (0.3 to 1.0 microns) to the camera and transmits near-infrared light (1 to 5 microns) to the IR spectrometer.\nThe camera has a 1008 x 1008 active pixel split frame transfer CCD with a field of view of 2 milliradians (0.118 degrees or 2 microradians/pixel). It has a filter wheel for multi-spectral capabilities. The wheel contains two clear apertures and seven filters."
+	"display_description": "The High Resolution Instrument (HRI) is a combination multi-spectral charged-couple device (CCD) camera and infrared (IR) spectrometer. The instrument consists of a 30 cm aperture f/35 telescope and a Spectral Imaging Module (SIM). The telescope is a 35.5 cm diameter graphite composite tube housing light baffles and zerodur glass primary and secondary mirrors. It is a Cassegrain design with a focal length of 10.5 meters. The telescope focuses light into a dichroic beam splitter in the SIM. The beam splitter reflects visible light (0.3 to 1.0 microns) to the camera and transmits near-infrared light (1 to 5 microns) to the IR spectrometer.\nThe camera has a 1008 x 1008 active pixel split frame transfer CCD with a field of view of 2 milliradians (0.118 degrees or 2 microradians/pixel). It has a filter wheel for multi-spectral capabilities. The wheel contains two clear apertures and seven filters.",
+	"pds3_instrument_id": "HRIV",
+	"pds3_instrument_host_id": "DIF"
 },{
 	"tags": [
 		"Imager"
@@ -8564,7 +8624,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:mri.dif",
 	"display_name": "Deep Impact Medium Resolution Instrument - Visible CCD",
-	"display_description": "The Medium Resolution Instrument (MRI) is designed to provide visible images with a wider field of view than the High Resolution Instrument (HRI) to provide science context to the observations, navigation, and to act as a backup to HRI. The MRI consists of a telescope, filter wheel, and Charged-Couple Device (CCD) camera. The telescope is of Cassegrain design, f/17.5 with a 12 cm diameter aperture and a 2.1 m focal length. It houses light baffles and zerodur glass primary and secondary mirrors. The filter wheel has two clear apertures and eight filters. The filters include some of the same filters used on the HRI and also have filters designed to isolate CN and C2. The camera uses a 1024 x 1024 split frame transfer CCD. The field of view is 10 milliradians (0.587 degrees, or 10 microradians/pixel) allowing a surface resolution of 7 meters at 700 km. The full field of view is expected to be 1.2 times larger than the comet nucleus at closest approach, so the entire nucleus will be visible by the instrument throughout the encounter. Full frame readout time is 1.8 seconds, faster readout of centered sub-frames is also possible."
+	"display_description": "The Medium Resolution Instrument (MRI) is designed to provide visible images with a wider field of view than the High Resolution Instrument (HRI) to provide science context to the observations, navigation, and to act as a backup to HRI. The MRI consists of a telescope, filter wheel, and Charged-Couple Device (CCD) camera. The telescope is of Cassegrain design, f/17.5 with a 12 cm diameter aperture and a 2.1 m focal length. It houses light baffles and zerodur glass primary and secondary mirrors. The filter wheel has two clear apertures and eight filters. The filters include some of the same filters used on the HRI and also have filters designed to isolate CN and C2. The camera uses a 1024 x 1024 split frame transfer CCD. The field of view is 10 milliradians (0.587 degrees, or 10 microradians/pixel) allowing a surface resolution of 7 meters at 700 km. The full field of view is expected to be 1.2 times larger than the comet nucleus at closest approach, so the entire nucleus will be visible by the instrument throughout the encounter. Full frame readout time is 1.8 seconds, faster readout of centered sub-frames is also possible.",
+	"pds3_instrument_id": "MRI",
+	"pds3_instrument_host_id": "DIF"
 },{
 	"tags": [
 		"Radio Detector"
@@ -8572,7 +8634,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:rss.dif",
 	"display_name": "Deep Impact Radio Science Subsystem",
-	"display_description": "The Deep Impact Flyby Spacecraft Radio Subsystem was used primarily for communications, commanding, tracking, and data transfer, but the telemetry also has the potential to be used to determine very small accelerations due to the mass of the comet body or dust and gas drag during the flyby. The radio system operates in X-band (8.000 MHz) via a 1 meter diameter Cassegrain dish antenna mounted on a 2-axis gimbal or through a fixed low-gain antenna and two 20 W TWTA power amplifiers. Ground reception is at Deep Space Network 34 m and 70 m receiving stations."
+	"display_description": "The Deep Impact Flyby Spacecraft Radio Subsystem was used primarily for communications, commanding, tracking, and data transfer, but the telemetry also has the potential to be used to determine very small accelerations due to the mass of the comet body or dust and gas drag during the flyby. The radio system operates in X-band (8.000 MHz) via a 1 meter diameter Cassegrain dish antenna mounted on a 2-axis gimbal or through a fixed low-gain antenna and two 20 W TWTA power amplifiers. Ground reception is at Deep Space Network 34 m and 70 m receiving stations.",
+	"pds3_instrument_id": "RSS",
+	"pds3_instrument_host_id": "DIF"
 },{
 	"tags": [
 		"Imager"
@@ -8580,7 +8644,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:its.dii",
 	"display_name": "Deep Impact Impactor Targeting Sensor - Visible CCD",
-	"display_description": "Impactor Targeting Sensor (ITS) is designed to navigate the Deep Impact Impactor (DII) to the comet. The ITS is the primary targeting camera on DII, mounted inside the impactor with its boresight aligned with the velocity vector. It looks through a rectangular hole cut out of the copper cratering mass in the front of the DII. The ITS is a duplicate of the Medium Resolution Imager on the Deep Impact flyby bus but does not have a filter wheel. The ITS consists of a telescope and Charged-Couple Device (CCD) camera."
+	"display_description": "Impactor Targeting Sensor (ITS) is designed to navigate the Deep Impact Impactor (DII) to the comet. The ITS is the primary targeting camera on DII, mounted inside the impactor with its boresight aligned with the velocity vector. It looks through a rectangular hole cut out of the copper cratering mass in the front of the DII. The ITS is a duplicate of the Medium Resolution Imager on the Deep Impact flyby bus but does not have a filter wheel. The ITS consists of a telescope and Charged-Couple Device (CCD) camera.",
+	"pds3_instrument_id": "ITS",
+	"pds3_instrument_host_id": "DII"
 },{
 	"tags": [
 		"Imager",
@@ -8589,7 +8655,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:micas.ds1",
 	"display_name": "Deep Space 1 Miniature Integrated Camera-Spectrometer",
-	"display_description": "This experiment consists of two visible imaging channels, an ultraviolet imaging spectrometer, and an infrared imaging spectrometer, designed to return imaging data both for scientific purposes and also for use by the autonomous navigation test. The experiment itself will also serve as a test of the lightweight imaging technology. MICAS is mounted in a box-shaped compartment on one of the eight sides of DS1, away from the two solar panels. It is protected on top by a sun shade."
+	"display_description": "This experiment consists of two visible imaging channels, an ultraviolet imaging spectrometer, and an infrared imaging spectrometer, designed to return imaging data both for scientific purposes and also for use by the autonomous navigation test. The experiment itself will also serve as a test of the lightweight imaging technology. MICAS is mounted in a box-shaped compartment on one of the eight sides of DS1, away from the two solar panels. It is protected on top by a sun shade.",
+	"pds3_instrument_id": "MICAS",
+	"pds3_instrument_host_id": "DS1"
 },{
 	"tags": [
 		"Ion Detector",
@@ -8598,7 +8666,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:pepe.ds1",
 	"display_name": "Deep Space 1 Plasma Experiment for Planetary Exploration",
-	"display_description": "The Plasma Experiment for Planetary Exploration (PEPE) is a multiple instrument package designed to measure the three dimensional mass-resolved plasma distribution. PEPE will be used to collect scientific data during cruise and asteroid encounter, measure the effects induced by the ion propulsion system on the space environment, including interactions with the solar wind, and on spacecraft surfaces and instruments, and to validate new plasma sensor technologies for use on future space flights. PEPE is mounted on the edge of the octagonal top of DS1."
+	"display_description": "The Plasma Experiment for Planetary Exploration (PEPE) is a multiple instrument package designed to measure the three dimensional mass-resolved plasma distribution. PEPE will be used to collect scientific data during cruise and asteroid encounter, measure the effects induced by the ion propulsion system on the space environment, including interactions with the solar wind, and on spacecraft surfaces and instruments, and to validate new plasma sensor technologies for use on future space flights. PEPE is mounted on the edge of the octagonal top of DS1.",
+	"pds3_instrument_id": "PEPE",
+	"pds3_instrument_host_id": "DS1"
 },{
 	"tags": [
 		"Spacecraft Monitor",
@@ -8608,7 +8678,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ids.ds1",
 	"display_name": "Deep Space 1 Ion Propulsion System Diagnostic Subsystem",
-	"display_description": "The Deep Space 1 spacecraft propulsion was provided by an ion thruster, the NASA Solar Electric Propulsion (SEP) Technology Applications Readiness (NSTAR) Ion Propulsion System (IPS), which was one of the technology evaluation components of the mission. Monitoring and characterization of the induced environment around the spacecraft created by the IPDS and its interaction with the space environment was the primary oblective of the IPS Diagnostics Subsystem (IDS). Since the measured effects of the IPS on the spacecraft environment proved to be benign, the IDS was reprogrammed during flight to collect solar induced wave data and signals caused by dust impact events during the encounter. The IPS was mounted next to the ion engine and consisted of a suite of 12 sensors, including a plasma wave antenna and two search coil magnetometers."
+	"display_description": "The Deep Space 1 spacecraft propulsion was provided by an ion thruster, the NASA Solar Electric Propulsion (SEP) Technology Applications Readiness (NSTAR) Ion Propulsion System (IPS), which was one of the technology evaluation components of the mission. Monitoring and characterization of the induced environment around the spacecraft created by the IPDS and its interaction with the space environment was the primary oblective of the IPS Diagnostics Subsystem (IDS). Since the measured effects of the IPS on the spacecraft environment proved to be benign, the IDS was reprogrammed during flight to collect solar induced wave data and signals caused by dust impact events during the encounter. The IPS was mounted next to the ion engine and consisted of a suite of 12 sensors, including a plasma wave antenna and two search coil magnetometers.",
+	"pds3_instrument_id": "IDS",
+	"pds3_instrument_host_id": "DS1"
 },{
 	"tags": [
 		"Imager"
@@ -8616,7 +8688,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ssi.go",
 	"display_name": "Galileo Orbiter Solid State Imaging System",
-	"display_description": "The Solid-State Imaging (SSI) experiment was intended to study Jupiter and its satellites using a multi-spectral, high-resolution, charge-coupled device (CCD) camera. The primary science objectives addressed by the experiment were to: (1) investigate the structure of the Jovian atmosphere and clouds; (2) examine the dynamics of the Jovian atmosphere through synoptic imaging of cloud structures; (3) measure the sizes and shapes of the Galilean satellites and determine their librations; (4) determine the geologic processes which formed the surfaces of the Galilean satellites by mapping them at a spatial resolution of less than 1 km and over a range of viewing and lighting angles; (5) identify and map the distribution of ices and minerals on the various satellite surfaces; (6) search for auroral or other atmospheric emission phenomena on the night side of Jupiter, its satellites, and/or the region around Jupiter; and, (7) seek opportunities for imaging the irregular Jovian satellites."
+	"display_description": "The Solid-State Imaging (SSI) experiment was intended to study Jupiter and its satellites using a multi-spectral, high-resolution, charge-coupled device (CCD) camera. The primary science objectives addressed by the experiment were to: (1) investigate the structure of the Jovian atmosphere and clouds; (2) examine the dynamics of the Jovian atmosphere through synoptic imaging of cloud structures; (3) measure the sizes and shapes of the Galilean satellites and determine their librations; (4) determine the geologic processes which formed the surfaces of the Galilean satellites by mapping them at a spatial resolution of less than 1 km and over a range of viewing and lighting angles; (5) identify and map the distribution of ices and minerals on the various satellite surfaces; (6) search for auroral or other atmospheric emission phenomena on the night side of Jupiter, its satellites, and/or the region around Jupiter; and, (7) seek opportunities for imaging the irregular Jovian satellites.",
+	"pds3_instrument_id": "SSI",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Spectrometer",
@@ -8625,7 +8699,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:nims.go",
 	"display_name": "Galileo Orbiter Near Infrared Mapping Spectrometer",
-	"display_description": "The objectives of the Galileo Near Infrared Mapping Spectrometer (NIMS) experiment were to: (1) map the distribution of surface minerals on the Galilean satellites at spatial resolutions of 5-30 km; (2) identify the phases and mixtures present thereon; (3) correlate observed mineralogical distributions with the geomorphology observed with the solid-state imaging (SSI) system; and, (4) determine cloud morphology of the Jovian atmosphere and its structure over a wide range of phase angles. In addition to these primary goals, similar observations were made during Galileo's encounters with Venus, Earth, the Moon, Gaspra, and Ida."
+	"display_description": "The objectives of the Galileo Near Infrared Mapping Spectrometer (NIMS) experiment were to: (1) map the distribution of surface minerals on the Galilean satellites at spatial resolutions of 5-30 km; (2) identify the phases and mixtures present thereon; (3) correlate observed mineralogical distributions with the geomorphology observed with the solid-state imaging (SSI) system; and, (4) determine cloud morphology of the Jovian atmosphere and its structure over a wide range of phase angles. In addition to these primary goals, similar observations were made during Galileo's encounters with Venus, Earth, the Moon, Gaspra, and Ida.",
+	"pds3_instrument_id": "NIMS",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Spectrometer",
@@ -8634,7 +8710,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:uvs.go",
 	"display_name": "Galileo Orbiter Ultraviolet Spectrometer",
-	"display_description": "The Galileo ultraviolet spectrometer investigation consists of two instruments: the Ultraviolet Spectrometer (UVS) and the Extreme Ultraviolet Spectrometer (EUVS). The primary objectives of the experiment are to: (1) study the composition and structure of the upper Jovian atmosphere; (2) determine the loss rates of volatile gases from the Galilean satellites; and, (3) examine the physical processes occurring in the Io plasma torus."
+	"display_description": "The Galileo ultraviolet spectrometer investigation consists of two instruments: the Ultraviolet Spectrometer (UVS) and the Extreme Ultraviolet Spectrometer (EUVS). The primary objectives of the experiment are to: (1) study the composition and structure of the upper Jovian atmosphere; (2) determine the loss rates of volatile gases from the Galilean satellites; and, (3) examine the physical processes occurring in the Io plasma torus.",
+	"pds3_instrument_id": "UVS",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Photometer",
@@ -8645,7 +8723,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ppr.go",
 	"display_name": "Galileo Orbiter Photopolarimeter Radiometer",
-	"display_description": "The Photopolarimeter-Radiometer (PPR) experiment was designed to measure the linear polarization and intensity of reflected sunlight and the intensity of thermally emitted infrared radiation from Jupiter and the Galilean satellites. The primary science objectives of the PPR were to: (1) determine the vertical and horizontal distribution of cloud and haze particles in the Jovian atmosphere, including their size, shape, and refractive index; (2) determine the energy budget of Jupiter and the variation in amount and spatial distribution of reflected solar radiation and emitted thermal radiation for Jupiter and its satellites, including the thermal structure of the Jovian atmosphere and the vertical distribution of absorbed solar radiation therein; and, (3) measure and map the photometric, polarimetric, and radiometric properties of the Galilean satellites and other targets of opportunity."
+	"display_description": "The Photopolarimeter-Radiometer (PPR) experiment was designed to measure the linear polarization and intensity of reflected sunlight and the intensity of thermally emitted infrared radiation from Jupiter and the Galilean satellites. The primary science objectives of the PPR were to: (1) determine the vertical and horizontal distribution of cloud and haze particles in the Jovian atmosphere, including their size, shape, and refractive index; (2) determine the energy budget of Jupiter and the variation in amount and spatial distribution of reflected solar radiation and emitted thermal radiation for Jupiter and its satellites, including the thermal structure of the Jovian atmosphere and the vertical distribution of absorbed solar radiation therein; and, (3) measure and map the photometric, polarimetric, and radiometric properties of the Galilean satellites and other targets of opportunity.",
+	"pds3_instrument_id": "PPR",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Magnetometer"
@@ -8653,7 +8733,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:mag.go",
 	"display_name": "Galileo Orbiter Triaxial Fluxgate Magnetometer",
-	"display_description": "The magnetometer (MAG) on Galileo was used to: (1) map the configuration of the Jovian magnetosphere and analyze its dynamics; (2) examine magnetospheric-ionospheric coupling; (3) measure fluctuations in the ambient magnetic field; (4) determine whether the Galilean satellites have intrinsic magnetic fields; and, (5) investigate the nature of the magnetosphere's interaction with the satellites. In addition to these primary goals, the magnetometer was also used to make extensive studies of the interplanetary medium, the solar wind interaction with the asteroids Gaspra and Ida, and the Earth's magnetosphere."
+	"display_description": "The magnetometer (MAG) on Galileo was used to: (1) map the configuration of the Jovian magnetosphere and analyze its dynamics; (2) examine magnetospheric-ionospheric coupling; (3) measure fluctuations in the ambient magnetic field; (4) determine whether the Galilean satellites have intrinsic magnetic fields; and, (5) investigate the nature of the magnetosphere's interaction with the satellites. In addition to these primary goals, the magnetometer was also used to make extensive studies of the interplanetary medium, the solar wind interaction with the asteroids Gaspra and Ida, and the Earth's magnetosphere.",
+	"pds3_instrument_id": "MAG",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Radiation Detector",
@@ -8662,7 +8744,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:epd.go",
 	"display_name": "Galileo Orbiter Energetic Particles Detector",
-	"display_description": "The Energetic Particles Detector (EPD) was designed to: (1) measure the energy and angular distribution, composition, and stability of trapped radiation at Jupiter; (2) study the interaction of these particles with the Galilean satellites and the solar wind; (3) derive thermal plasma flow velocities and temperatures; and, (4) examine adiabatic and non-thermal processes in the trapped radiation.\nTo achieve these goals, the experiment used two instruments: the Low-Energy Magnetospheric Measurements System (LEMMS) and the Composition Measurements System (CMS)."
+	"display_description": "The Energetic Particles Detector (EPD) was designed to: (1) measure the energy and angular distribution, composition, and stability of trapped radiation at Jupiter; (2) study the interaction of these particles with the Galilean satellites and the solar wind; (3) derive thermal plasma flow velocities and temperatures; and, (4) examine adiabatic and non-thermal processes in the trapped radiation.\nTo achieve these goals, the experiment used two instruments: the Low-Energy Magnetospheric Measurements System (LEMMS) and the Composition Measurements System (CMS).",
+	"pds3_instrument_id": "EPD",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Mass Spectrometer",
@@ -8672,7 +8756,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:pls.go",
 	"display_name": "Galileo Orbiter Plasma Science Experiment",
-	"display_description": "The plasma instrument (PLS) on Galileo had as its objectives to: (1) establish the sources of magnetospheric plasma; (2) investigate the interaction of ambient plasma with the Jovian satellites; (3) examine the role of plasma as a source of energetic charged particles in the radiation zones; (4) determine the nature of the equatorial current sheet; and, (5) evaluate the roles of magnetic merging, co-rotational forces, and field-aligned currents in the dynamics of the Jovian magnetosphere."
+	"display_description": "The plasma instrument (PLS) on Galileo had as its objectives to: (1) establish the sources of magnetospheric plasma; (2) investigate the interaction of ambient plasma with the Jovian satellites; (3) examine the role of plasma as a source of energetic charged particles in the radiation zones; (4) determine the nature of the equatorial current sheet; and, (5) evaluate the roles of magnetic merging, co-rotational forces, and field-aligned currents in the dynamics of the Jovian magnetosphere.",
+	"pds3_instrument_id": "PLS",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Ion Detector",
@@ -8681,7 +8767,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:pws.go",
 	"display_name": "Galileo Orbiter Plasma Wave Receiver",
-	"display_description": "The Plasma Wave Spectrometer (PWS) investigation had as its objectives to: (1) study plasma waves and radio emissions in the Jovian magnetosphere; (2) investigate the role played by these phenomena in controlling the scattering and/or loss of trapped radiation; and, (3) derive fundamental plasma parameters (e.g., electron density) from the observations."
+	"display_description": "The Plasma Wave Spectrometer (PWS) investigation had as its objectives to: (1) study plasma waves and radio emissions in the Jovian magnetosphere; (2) investigate the role played by these phenomena in controlling the scattering and/or loss of trapped radiation; and, (3) derive fundamental plasma parameters (e.g., electron density) from the observations.",
+	"pds3_instrument_id": "PWS",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Dust Detector"
@@ -8689,7 +8777,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:gdds.go",
 	"display_name": "Galileo Orbiter Dust Detection System",
-	"display_description": "The Galileo Dust Detector System (DDS) was used to determine individual particle impacts and measure their mass, impact velocity (speed and direction), and charge state. The primary objectives of the experiment were to: (1) investigate the interaction of the Galilean satellites with their dust environment, specifically to study the relationship between dust impact on the satellites and their surface properties and perform direct measurements of eject particles therefrom; (2) examine the interaction of dust particles with the ambient plasma and magnetic field so as to determine the relationship between concentrations of dust and the attenuation of trapped radiation and the effects of the Jovian magnetic field on charged dust particle trajectories; and, (3) to measure the influence of Jupiter's gravitational field on the interplanetary dust population and search for rings around Jupiter."
+	"display_description": "The Galileo Dust Detector System (DDS) was used to determine individual particle impacts and measure their mass, impact velocity (speed and direction), and charge state. The primary objectives of the experiment were to: (1) investigate the interaction of the Galilean satellites with their dust environment, specifically to study the relationship between dust impact on the satellites and their surface properties and perform direct measurements of eject particles therefrom; (2) examine the interaction of dust particles with the ambient plasma and magnetic field so as to determine the relationship between concentrations of dust and the attenuation of trapped radiation and the effects of the Jovian magnetic field on charged dust particle trajectories; and, (3) to measure the influence of Jupiter's gravitational field on the interplanetary dust population and search for rings around Jupiter.",
+	"pds3_instrument_id": "GDDS",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Radio Transceiver"
@@ -8697,7 +8787,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:rss.go",
 	"display_name": "Galileo Orbiter Radio Science Subsystem",
-	"display_description": "Galileo Radio Science investigations utilized instrumentation with elements on the spacecraft and at the Deep Space Network (DSN). Much of this was shared equipment, being used for routine telecommunications as well as for Radio Science.  The performance and calibration of both the spacecraft and tracking stations directly affected the radio science data accuracy, and they played a major role in determining the quality of the results.  The spacecraft part of the radio science instrument is described immediately below; that is followed by a description of the DSN (ground) part of the instrument.\nTwo different types of radio science measurements were conducted with the Galileo Orbiter: radio tracking in which the magnitude and direction of gravitational forces could be derived from 'closed-loop' Doppler (and, sometimes, ranging) measurements, and radio propagation experiments in which modulation on the signal received at Earth stations could be attributed to properties of the intervening medium. The radio science measurements were analyzed by two investigation teams; the Celestial Mechanics Team was primarily interested in characterizing variations in gravitational forces, and the Radio Propagation Team was primarily interested in the atmospheres of the Sun, Jupiter, and Jupiter's satellites."
+	"display_description": "Galileo Radio Science investigations utilized instrumentation with elements on the spacecraft and at the Deep Space Network (DSN). Much of this was shared equipment, being used for routine telecommunications as well as for Radio Science.  The performance and calibration of both the spacecraft and tracking stations directly affected the radio science data accuracy, and they played a major role in determining the quality of the results.  The spacecraft part of the radio science instrument is described immediately below; that is followed by a description of the DSN (ground) part of the instrument.\nTwo different types of radio science measurements were conducted with the Galileo Orbiter: radio tracking in which the magnitude and direction of gravitational forces could be derived from 'closed-loop' Doppler (and, sometimes, ranging) measurements, and radio propagation experiments in which modulation on the signal received at Earth stations could be attributed to properties of the intervening medium. The radio science measurements were analyzed by two investigation teams; the Celestial Mechanics Team was primarily interested in characterizing variations in gravitational forces, and the Radio Propagation Team was primarily interested in the atmospheres of the Sun, Jupiter, and Jupiter's satellites.",
+	"pds3_instrument_id": "RSS",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Spacecraft Monitor",
@@ -8707,7 +8799,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ssd.go",
 	"display_name": "Galileo Orbiter Star Scanner",
-	"display_description": "The Galileo spacecraft carries aboard it a photomultiplier tube based star scanner for the purpose of providing the spacecraft with an inertial attitude reference. This device has been subjected to the radiation environment within Jupiter's magnetosphere since 1995 and is providing measurements of the omnidirectional flux of 1.5 to 30 MeV electrons within about 12 Jupiter radii. The range of maximum sensitivity is roughly 4 to 15 MeV. The star scanner is measuring electrons in energy ranges similar to some channels of Galileo's Energetic Particles Detector (EPD) but the star scanner operates continuously thus providing a unique data set when EPD is not operating.  The star scanner is generally not sensitive to pitch angle distribution. There is no data prior to the spacecraft reaching Jupiter.\nThe star scanner provides a single channel of data for measuring electrons termed 'background radiation count' (or sometimes 'raw background') along with other data on the health of the instrument, brightness of stars in the field of view and time. Before Galileo's launch, an attempt was made to shield the star scanner's Photomultiplier Tube (PMT) from the particle environment at Jupiter. The attempt was not entirely successful resulting in this star scanner data set.  The conclusion that the star scanner is sensing predominantly high energy electrons is based up multiple arguments."
+	"display_description": "The Galileo spacecraft carries aboard it a photomultiplier tube based star scanner for the purpose of providing the spacecraft with an inertial attitude reference. This device has been subjected to the radiation environment within Jupiter's magnetosphere since 1995 and is providing measurements of the omnidirectional flux of 1.5 to 30 MeV electrons within about 12 Jupiter radii. The range of maximum sensitivity is roughly 4 to 15 MeV. The star scanner is measuring electrons in energy ranges similar to some channels of Galileo's Energetic Particles Detector (EPD) but the star scanner operates continuously thus providing a unique data set when EPD is not operating.  The star scanner is generally not sensitive to pitch angle distribution. There is no data prior to the spacecraft reaching Jupiter.\nThe star scanner provides a single channel of data for measuring electrons termed 'background radiation count' (or sometimes 'raw background') along with other data on the health of the instrument, brightness of stars in the field of view and time. Before Galileo's launch, an attempt was made to shield the star scanner's Photomultiplier Tube (PMT) from the particle environment at Jupiter. The attempt was not entirely successful resulting in this star scanner data set.  The conclusion that the star scanner is sensing predominantly high energy electrons is based up multiple arguments.",
+	"pds3_instrument_id": "SSD",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Ion Detector"
@@ -8715,7 +8809,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hic.go",
 	"display_name": "Galileo Orbiter Heavy Ion Counter",
-	"display_description": "The Heavy Ion Counter (HIC) experiment on Galileo was included on the payload originally as an engineering experiment. Its purpose was to monitor the flux of energetic heavy ions in order to: (1) provide basic information on a form of radiation to which electronic circuitry is highly susceptible; and, (2) provide the basis for the design of better radiation-hardened electronics for future missions and applications. It was quickly realized, however, that the scientific utility of such data would complement not only the observations made by other Galileo instruments, but would improve on and extend observations made during earlier missions (i.e., Voyager 1/2, Pioneer 10/11)."
+	"display_description": "The Heavy Ion Counter (HIC) experiment on Galileo was included on the payload originally as an engineering experiment. Its purpose was to monitor the flux of energetic heavy ions in order to: (1) provide basic information on a form of radiation to which electronic circuitry is highly susceptible; and, (2) provide the basis for the design of better radiation-hardened electronics for future missions and applications. It was quickly realized, however, that the scientific utility of such data would complement not only the observations made by other Galileo instruments, but would improve on and extend observations made during earlier missions (i.e., Voyager 1/2, Pioneer 10/11).",
+	"pds3_instrument_id": "HIC",
+	"pds3_instrument_host_id": "GO"
 },{
 	"tags": [
 		"Magnetometer"
@@ -8723,7 +8819,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:mag.gio",
 	"display_name": "Giotto Fluxgate Magnetometer",
-	"display_description": "The purpose of this investigation is to study the interplanetary and induced cometary magnetic fields before and during the encounter with Comet Halley. The instrument consists of a main triaxial fluxgate magnetometer system mounted on top of a tripod on the spacecraft. In a 12-bit analog-to-digital conversion the dynamical ranges are plus and minus 16, 64, 256, 1024, 4096, 16384, and 65536 nT with automatic range switching. An inner biaxial magnetometer system is used for correcting the spacecraft magnetic field. During the encounter the sampling rate will be approximately 28 vectors per second, while the spacecraft spin rate is 15 rpm."
+	"display_description": "The purpose of this investigation is to study the interplanetary and induced cometary magnetic fields before and during the encounter with Comet Halley. The instrument consists of a main triaxial fluxgate magnetometer system mounted on top of a tripod on the spacecraft. In a 12-bit analog-to-digital conversion the dynamical ranges are plus and minus 16, 64, 256, 1024, 4096, 16384, and 65536 nT with automatic range switching. An inner biaxial magnetometer system is used for correcting the spacecraft magnetic field. During the encounter the sampling rate will be approximately 28 vectors per second, while the spacecraft spin rate is 15 rpm.",
+	"pds3_instrument_id": "MAG",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Imager",
@@ -8733,7 +8831,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hmc.gio",
 	"display_name": "Giotto Halley Multicolour Camera",
-	"display_description": "The technical goals of the experiment were first to obtain high-quality images of the cometary nucleus in four colors with two polarizations and secondarily to obtain images of the cometary coma in a variety of narrow bandpasses.  The primary scientific goal to be addressed with these images was to determine the basic properties of the nucleus including the size and shape, the morphology and topography of the surface, the photometric properties of the surface, the rotational state, the degree of heterogeneity in the outgassing, and the energy balance at the surface.  The secondary scientific goal was to study the properties of the inner coma including the production and evolution of gas and dust, the scales of the relevant physical processes, the size distribution of the dust, the chemistry of the inner coma, and the temporal variability in the inner coma."
+	"display_description": "The technical goals of the experiment were first to obtain high-quality images of the cometary nucleus in four colors with two polarizations and secondarily to obtain images of the cometary coma in a variety of narrow bandpasses.  The primary scientific goal to be addressed with these images was to determine the basic properties of the nucleus including the size and shape, the morphology and topography of the surface, the photometric properties of the surface, the rotational state, the degree of heterogeneity in the outgassing, and the energy balance at the surface.  The secondary scientific goal was to study the properties of the inner coma including the production and evolution of gas and dust, the scales of the relevant physical processes, the size distribution of the dust, the chemistry of the inner coma, and the temporal variability in the inner coma.",
+	"pds3_instrument_id": "HMC",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Dust Detector"
@@ -8741,7 +8841,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:did.gio",
 	"display_name": "Giotto Dust Impact Detector",
-	"display_description": "The investigation uses a system comprised of an array of dust impact sensors to answer some of the fundamental questions in cometary science, namely, the measure of the particulate mass efflux from a comet, its mass distribution, and the particulate grain density. Using the entire surface of the meteoroid shield of the spacecraft system, the array of sensors is able to detect masses over the range 1.E-17 to 1.E-3 g, and perhaps even larger. The instrumentation is comprised of (1) an impact plasma micro-perforation and sensing array which determines the mass, penetration properties, density and ionization of the impacting particles in the range 1.E-17 to 1.E-10 g; (2) a penetration-initiated capacitor discharge array for determining the impacting flux above a precisely defined threshold of 1.E-9 g; and (3) a meteoroid shield array incorporating three transducers on the front shield and one on the rear shield. The techniques have been selected with a special regard for Halley's comet environment and the anticipated high flux rates based on experience from previous missions. The comparison of different detection techniques and correlation of independent sensor outputs has guided the design. Reliability of event detection in the unexplored environment of the comet is high and the limiting accuracy of the measurements is believed to be better than 20% over a dynamic range of 1.E+14. A microprocessor is used to monitor each sensor status and to process each event as well as the cumulative data, which represents the total event amplitude distribution from each sensor."
+	"display_description": "The investigation uses a system comprised of an array of dust impact sensors to answer some of the fundamental questions in cometary science, namely, the measure of the particulate mass efflux from a comet, its mass distribution, and the particulate grain density. Using the entire surface of the meteoroid shield of the spacecraft system, the array of sensors is able to detect masses over the range 1.E-17 to 1.E-3 g, and perhaps even larger. The instrumentation is comprised of (1) an impact plasma micro-perforation and sensing array which determines the mass, penetration properties, density and ionization of the impacting particles in the range 1.E-17 to 1.E-10 g; (2) a penetration-initiated capacitor discharge array for determining the impacting flux above a precisely defined threshold of 1.E-9 g; and (3) a meteoroid shield array incorporating three transducers on the front shield and one on the rear shield. The techniques have been selected with a special regard for Halley's comet environment and the anticipated high flux rates based on experience from previous missions. The comparison of different detection techniques and correlation of independent sensor outputs has guided the design. Reliability of event detection in the unexplored environment of the comet is high and the limiting accuracy of the measurements is believed to be better than 20% over a dynamic range of 1.E+14. A microprocessor is used to monitor each sensor status and to process each event as well as the cumulative data, which represents the total event amplitude distribution from each sensor.",
+	"pds3_instrument_id": "DID",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Ion Detector"
@@ -8749,7 +8851,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:jpa.gio",
 	"display_name": "Giotto Johnstone Plasma Analyzer",
-	"display_description": "The objective of this investigation is to measure the plasma flow around Comet Halley in order to study (1) the mass loading of the solar wind by ions of cometary origin, (2) the existence, location, and strength of the upstream shock transition in the solar wind flow, (3) the position of and forces controlling the pressure balance surface between the cometary and the solar plasma, (4) the processes that form tail rays and other discrete visible features in the coma, and (5) the detection of wave motion induced by the cometary interaction that leads to the thermalization of solar wind and implanted ions. The instrument employs two sensors. One is a 270-deg spherical electrostatic energy analyzer (EEA) with a microchannel plate detector that measures the three-dimensional energy/charge distribution of positive ions from 10 eV to 20 keV over the polar angle range 20 - 180 deg with respect to the spin axis of the spacecraft. The second sensor consists of a quadrispherical EEA with six time-of-flight analyzers set at different polar angles in the range 20 - 160 deg."
+	"display_description": "The objective of this investigation is to measure the plasma flow around Comet Halley in order to study (1) the mass loading of the solar wind by ions of cometary origin, (2) the existence, location, and strength of the upstream shock transition in the solar wind flow, (3) the position of and forces controlling the pressure balance surface between the cometary and the solar plasma, (4) the processes that form tail rays and other discrete visible features in the coma, and (5) the detection of wave motion induced by the cometary interaction that leads to the thermalization of solar wind and implanted ions. The instrument employs two sensors. One is a 270-deg spherical electrostatic energy analyzer (EEA) with a microchannel plate detector that measures the three-dimensional energy/charge distribution of positive ions from 10 eV to 20 keV over the polar angle range 20 - 180 deg with respect to the spin axis of the spacecraft. The second sensor consists of a quadrispherical EEA with six time-of-flight analyzers set at different polar angles in the range 20 - 160 deg.",
+	"pds3_instrument_id": "JPA",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Dust Detector"
@@ -8757,7 +8861,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:pia.gio",
 	"display_name": "Giotto Particulate Impact Analyzer",
-	"display_description": "The objective of this investigation is to determine the chemical and physical properties of the dust particles released by Comet Halley. The instrument is a redesign of the one flown on Helios-A and -B by Fechtig and colleagues. The chemical composition and the mass of individual particles are measured. The impact count as a function of the position relative to the comet's nucleus provides the mass distribution and the rate of production of dust. The measurements should provide (1) the elemental abundance of individual particles, (2) compositional distribution around the comet, and (3) determination of specific isotopic ratios, such as 6Li/7Li, 10B/11B, or 12C/13C. The instrument consists of (1) an adjustable entrance port, (2) a target of atomic mass >105, (3) a set of acceleration grids, (4) a two-section time-of-flight drift tube, (5) an ion reflector chamber, and an electron multiplier tube. The particles are measured by the charge of the impact plasma, the impact light flash, and mass dispersion through the time-of-flight tube."
+	"display_description": "The objective of this investigation is to determine the chemical and physical properties of the dust particles released by Comet Halley. The instrument is a redesign of the one flown on Helios-A and -B by Fechtig and colleagues. The chemical composition and the mass of individual particles are measured. The impact count as a function of the position relative to the comet's nucleus provides the mass distribution and the rate of production of dust. The measurements should provide (1) the elemental abundance of individual particles, (2) compositional distribution around the comet, and (3) determination of specific isotopic ratios, such as 6Li/7Li, 10B/11B, or 12C/13C. The instrument consists of (1) an adjustable entrance port, (2) a target of atomic mass >105, (3) a set of acceleration grids, (4) a two-section time-of-flight drift tube, (5) an ion reflector chamber, and an electron multiplier tube. The particles are measured by the charge of the impact plasma, the impact light flash, and mass dispersion through the time-of-flight tube.",
+	"pds3_instrument_id": "PIA",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Photometer",
@@ -8766,7 +8872,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ope.gio",
 	"display_name": "Giotto Optical Probe Experiment",
-	"display_description": "The optical probe technique is employed in this investigation to determine, unequivocally, changes in the densities of emissive gases (OH, C2, CN, CO+, and CS) and scattering dust, as well as to measure the optical properties of dust, in the coma of Halley's comet. The instrument contains no moving parts and performs photopolarimetric measurements parallel to the direction of motion through the coma. The choice of wavelengths is the following: 368, 444, 575, and 718 nm for dust, and 307, 387, 462, and 514 nm for gases. The rapid motion of the spacecraft allows line-of-sight measurements to be differenced so that the resulting brightnesses and polarizations refer to the small volume of space of about 140 km length centered at the moving probe."
+	"display_description": "The optical probe technique is employed in this investigation to determine, unequivocally, changes in the densities of emissive gases (OH, C2, CN, CO+, and CS) and scattering dust, as well as to measure the optical properties of dust, in the coma of Halley's comet. The instrument contains no moving parts and performs photopolarimetric measurements parallel to the direction of motion through the coma. The choice of wavelengths is the following: 368, 444, 575, and 718 nm for dust, and 307, 387, 462, and 514 nm for gases. The rapid motion of the spacecraft allows line-of-sight measurements to be differenced so that the resulting brightnesses and polarizations refer to the small volume of space of about 140 km length centered at the moving probe.",
+	"pds3_instrument_id": "OPE",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Ion Detector",
@@ -8775,7 +8883,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:epa.gio",
 	"display_name": "Giotto Energetic Particle Experiment",
-	"display_description": "The purpose of this investigation is to study, at high spatial and temporal resolution, the energetic charged particles in the environment of Comet Halley. Observations of energetic particles and their angular distributions, taken in conjunction with onboard magnetic measurements, can determine whether the magnetic field lines in the cometary tail are open or closed. Encounter data can be used to provide the background corrections for those devices on other Giotto experiments which are sensitive to energetic particle radiation. The instrument employs both active and passive shielding of surface barrier detectors along with dE/dx vs E circuitry to measure: electrons above about 15 keV, protons above about 20 keV, and particles with Z greater than or equal to 2 above 2.1 MeV with eight separate energy channels. Two identical particle telescopes are used at each of the two viewing angles except that one at each angle has an additional foil over its aperture for the purpose of separating low-energy protons from low-energy electrons."
+	"display_description": "The purpose of this investigation is to study, at high spatial and temporal resolution, the energetic charged particles in the environment of Comet Halley. Observations of energetic particles and their angular distributions, taken in conjunction with onboard magnetic measurements, can determine whether the magnetic field lines in the cometary tail are open or closed. Encounter data can be used to provide the background corrections for those devices on other Giotto experiments which are sensitive to energetic particle radiation. The instrument employs both active and passive shielding of surface barrier detectors along with dE/dx vs E circuitry to measure: electrons above about 15 keV, protons above about 20 keV, and particles with Z greater than or equal to 2 above 2.1 MeV with eight separate energy channels. Two identical particle telescopes are used at each of the two viewing angles except that one at each angle has an additional foil over its aperture for the purpose of separating low-energy protons from low-energy electrons.",
+	"pds3_instrument_id": "EPA",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Mass Spectrometer",
@@ -8784,7 +8894,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ims.gio",
 	"display_name": "Giotto Ion Mass Spectrometer",
-	"display_description": "The objective of the investigation is to measure the ion composition, energy, and angular distribution in the coma of Comet Halley. The instrument consists of two sensors: the High-Energy Range Spectrometer (HERS) specialized for the outer coma and the High-Intensity Spectrometer (HIS) specialized for the inner coma. The HERS sensor has (1) an electrostatic mirror for deflecting ions from the spacecraft ram direction into the sensor, instead of having the solar wind ions enter; (2) cylindrical acceleration grids which change the energy of the ions so they can pass through the magnetic analyzer; (3) a sector magnet that acts as a momentum/charge filter; (4) an electrostatic deflection plate that sorts the ions by energy/charge; and (5) particle detectors consisting of a two-dimensional microchannel plate (MCP) and channel-electron-multipliers (CEM) for measuring mass/charge and elevation angle."
+	"display_description": "The objective of the investigation is to measure the ion composition, energy, and angular distribution in the coma of Comet Halley. The instrument consists of two sensors: the High-Energy Range Spectrometer (HERS) specialized for the outer coma and the High-Intensity Spectrometer (HIS) specialized for the inner coma. The HERS sensor has (1) an electrostatic mirror for deflecting ions from the spacecraft ram direction into the sensor, instead of having the solar wind ions enter; (2) cylindrical acceleration grids which change the energy of the ions so they can pass through the magnetic analyzer; (3) a sector magnet that acts as a momentum/charge filter; (4) an electrostatic deflection plate that sorts the ions by energy/charge; and (5) particle detectors consisting of a two-dimensional microchannel plate (MCP) and channel-electron-multipliers (CEM) for measuring mass/charge and elevation angle.",
+	"pds3_instrument_id": "IMS",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Radio Transceiver"
@@ -8792,7 +8904,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:gre.gio",
 	"display_name": "Giotto Radio Science Experiment",
-	"display_description": "The scientific objectives of this experiment were to determine both the columnar electron content of Comet Halley's ionosphere and the cometary mass fluence from atmospheric drag by using the radio signals from Giotto during the Halley encounter on 13--14 March 1986. The measurements of cometary electron content and mass fluence were inverted to derive the spatial distribution of the electron and mass (dust and gas) density within Halley's coma. This experiment was an occultation-type, remote-sensing experiment which relied on the propagation effects of electromagnetic waves. The experiment took measurements of the phase (Doppler) shifts of the downlink carrier signals both at S-band (2.3 GHz) and X-band (8.4 GHz) as a function of time during the Halley encounter."
+	"display_description": "The scientific objectives of this experiment were to determine both the columnar electron content of Comet Halley's ionosphere and the cometary mass fluence from atmospheric drag by using the radio signals from Giotto during the Halley encounter on 13--14 March 1986. The measurements of cometary electron content and mass fluence were inverted to derive the spatial distribution of the electron and mass (dust and gas) density within Halley's coma. This experiment was an occultation-type, remote-sensing experiment which relied on the propagation effects of electromagnetic waves. The experiment took measurements of the phase (Doppler) shifts of the downlink carrier signals both at S-band (2.3 GHz) and X-band (8.4 GHz) as a function of time during the Halley encounter.",
+	"pds3_instrument_id": "GRE",
+	"pds3_instrument_host_id": "GIO"
 },{
 	"tags": [
 		"Electron Detector",
@@ -9917,7 +10031,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:m3.ch1-orb",
 	"display_name": "Chandrayaan 1 Moon Mineralogy Mapper",
-	"display_description": "The Moon Mineralogy Mapper (M3 or \"M-cubed\") is an imaging spectrometer designed to map the mineral content of the Moon's surface. The primary scientific objectives are to characterize and map the lunar surface composition in the context of its geologic evolution and to assess the Moon's mineral resources at high resolution with the goals of studying the origin and evolution of the lunar crust and mantle, identifying and assessing deposits containing volatile species, and identifying and evaluating concentrations of unusual or unexpected minerals."
+	"display_description": "The Moon Mineralogy Mapper (M3 or \"M-cubed\") is an imaging spectrometer designed to map the mineral content of the Moon's surface. The primary scientific objectives are to characterize and map the lunar surface composition in the context of its geologic evolution and to assess the Moon's mineral resources at high resolution with the goals of studying the origin and evolution of the lunar crust and mantle, identifying and assessing deposits containing volatile species, and identifying and evaluating concentrations of unusual or unexpected minerals.",
+	"pds3_instrument_id": "M3",
+	"pds3_instrument_host_id": "CH1-ORB"
 },{
 	"tags": [
 		"Radar Transceiver"
@@ -9925,7 +10041,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:mrffr.ch1-orb",
 	"display_name": "Chandrayaan 1 Mini-RF Forerunner",
-	"display_description": "The Miniature Synthetic Aperture Radar (Mini-SAR) is a small imaging radar designed primarily to map the scattering properties of the lunar poles in order to ascertain if water ice is present and if so, to determine its location and distribution. Concentrated ice exhibits an increase in radar reflectivity and enhancement of circular polarization ratio along the backscatter direction which can be measured by Mini-SAR, allowing construction of a map of the location of ice deposits. Mini-SAR will also be used to produce radar maps of the lunar surface near the poles."
+	"display_description": "The Miniature Synthetic Aperture Radar (Mini-SAR) is a small imaging radar designed primarily to map the scattering properties of the lunar poles in order to ascertain if water ice is present and if so, to determine its location and distribution. Concentrated ice exhibits an increase in radar reflectivity and enhancement of circular polarization ratio along the backscatter direction which can be measured by Mini-SAR, allowing construction of a map of the location of ice deposits. Mini-SAR will also be used to produce radar maps of the lunar surface near the poles.",
+	"pds3_instrument_id": "MRFFR",
+	"pds3_instrument_host_id": "CH1-ORB"
 },{
 	"tags": [
 		"Dust Detector"
@@ -9994,9 +10112,7 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ccig.a12a",
 	"display_name": "Apollo 12 ALSEP Cold Cathode Ion Gage Experiment",
-	"display_description": "Apollo 12 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere.",
-	"pds3_instrument_id": "CCIG",
-	"pds3_instrument_host_id": "A12A"
+	"display_description": "Apollo 12 Cold Cathode Ion Gage (CCIG) experiment measured the density of neutral particles to determine the amount of gas present at the lunar surface and to help help constrain the source and loss mechanisms of the tenuous lunar atmosphere."
 },{
 	"tags": [
 		"Ion Detector"
@@ -10004,9 +10120,7 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:side.a12a",
 	"display_name": "Apollo 12 ALSEP Suprathermal Ion Detector Experiment",
-	"display_description": "Apollo 12 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction.",
-	"pds3_instrument_id": "SIDE",
-	"pds3_instrument_host_id": "A12A"
+	"display_description": "Apollo 12 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction."
 },{
 	"tags": [
 		"Spectrometer",
@@ -10036,9 +10150,7 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:cplee.a14a",
 	"display_name": "Apollo 14 ALSEP Charged Particle Lunar Environment Experiment",
-	"display_description": "The Apollo 14 Charged Particle Lunar Environment Experiment (CPLEE) measured the energy spectra of low-energy charged particles striking the lunar surface by observing the fluxes of electrons and ions with energies from 40 eV to 20 keV in two directions: local vertical and 60 degrees from vertical toward lunar west. The primary purpose of the experiment was to examine plasma particles originating from the Sun and the low-energy particle flux in the magnetic tail of the Earth.",
-	"pds3_instrument_id": "CPLEE",
-	"pds3_instrument_host_id": "A14A"
+	"display_description": "The Apollo 14 Charged Particle Lunar Environment Experiment (CPLEE) measured the energy spectra of low-energy charged particles striking the lunar surface by observing the fluxes of electrons and ions with energies from 40 eV to 20 keV in two directions: local vertical and 60 degrees from vertical toward lunar west. The primary purpose of the experiment was to examine plasma particles originating from the Sun and the low-energy particle flux in the magnetic tail of the Earth."
 },{
 	"tags": [
 		"Ion Detector"
@@ -10046,9 +10158,7 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:side.a14a",
 	"display_name": "Apollo 14 ALSEP Suprathermal Ion Detector Experiment",
-	"display_description": "Apollo 14 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction.",
-	"pds3_instrument_id": "SIDE",
-	"pds3_instrument_host_id": "A14A"
+	"display_description": "Apollo 14 Suprathermal Ion Detector Experiment (SIDE) measured the energies and masses of positive ions reaching the lunar surface, including magnetospheric ions and those generated from ultraviolet ionization of the lunar atmosphere and from the free-streaming solar wind/lunar surface interaction."
 },{
 	"tags": [
 		"Gas Sampler",
@@ -10086,7 +10196,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:sws.a15a",
 	"display_name": "Apollo 15 ALSEP Solar Wind Spectrometer",
-	"display_description": "The solar wind spectrometer, designed to measure protons and electrons at the lunar surface, was part of the Apollo 15 ALSEP package left on the Moon. It consisted of seven modulated Faraday cups opened toward different, but slightly overlapping, portions of the lunar sky. The instrument was used to observe the directional intensities of the electron (6-1480 eV) and positive ion (30-10400 eV) components of the solar wind and magnetotail plasma that strike the surface of the Moon. The scientific objectives of the Apollo 15 Solar Wind Spectrometer Experiment were to measure electron charge fluxes at the lunar surface, study the interaction of the solar wind with the local magnetic field, determine if lunar limb shocks can be detected at dawn or dusk, measure solar wind conditions, make simultaneous comparisons with Apollo 12 data, and study time-dependent phenomena."
+	"display_description": "The solar wind spectrometer, designed to measure protons and electrons at the lunar surface, was part of the Apollo 15 ALSEP package left on the Moon. It consisted of seven modulated Faraday cups opened toward different, but slightly overlapping, portions of the lunar sky. The instrument was used to observe the directional intensities of the electron (6-1480 eV) and positive ion (30-10400 eV) components of the solar wind and magnetotail plasma that strike the surface of the Moon. The scientific objectives of the Apollo 15 Solar Wind Spectrometer Experiment were to measure electron charge fluxes at the lunar surface, study the interaction of the solar wind with the local magnetic field, determine if lunar limb shocks can be detected at dawn or dusk, measure solar wind conditions, make simultaneous comparisons with Apollo 12 data, and study time-dependent phenomena.",
+	"pds3_instrument_id": "SWS",
+	"pds3_instrument_host_id": "A15A"
 },{
 	"tags": [
 		"Imager"
@@ -10118,7 +10230,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:lsrp.a15l",
 	"display_name": "Apollo 15 LM Lunar Self-Recording Penetrometer",
-	"display_description": "The Self-Recording Penetrometer facilitated the soil mechanics experiment, which was designed to obtain data on the characteristics and mechanical behavior of the lunar soil at the surface and subsurface and the variation of these properties in a lateral direction. Additional objectives were to aid in the interpretation of data obtained from other surface activities and experiments and to develop lunar surface models to help in the solution of engineering properties associated with future lunar exploration."
+	"display_description": "The Self-Recording Penetrometer facilitated the soil mechanics experiment, which was designed to obtain data on the characteristics and mechanical behavior of the lunar soil at the surface and subsurface and the variation of these properties in a lateral direction. Additional objectives were to aid in the interpretation of data obtained from other surface activities and experiments and to develop lunar surface models to help in the solution of engineering properties associated with future lunar exploration.",
+	"pds3_instrument_id": "LSRP",
+	"pds3_instrument_host_id": "A15L"
 },{
 	"tags": [
 		"Magnetometer"
@@ -10158,7 +10272,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:lsrp.a16l",
 	"display_name": "Apollo 16 LM Lunar Self-Recording Penetromter",
-	"display_description": "The Self-Recording Penetrometer facilitated the soil mechanics experiment, which was designed to obtain data on the characteristics and mechanical behavior of the lunar soil at the surface and subsurface and the variation of its properties in lateral and vertical directions, on slopes, and between different regions of the Moon.  The equipment used included an adjustable sampling scoop, a self-recording penetrometer, core tubes, and the Apollo lunar surface drill and bore stems.  Further soil testing could be done at LRL in Houston on returned soil samples, including the core tube and other geologic samples, especially the fine-grained soil sample.  Photography requirements of this experiment were met with a battery-operated 16-mm data acquisition camera (DAC) with a 10-mm focal length lens, a Hasselblad electric data camera (HEDC) with a 60-mm focal length lens, and real-time TV transmissions.  The astronauts performed the required trenching activity, penetrometer load plate and cone tests, and soil behavior/characteristic observations such as the LRV wheel/lunar soil interaction and LM footpad/soil interaction.  After tests were completed, an astronaut removed the head from the penetrometer and stowed it for return to Earth.  This head contained the recording drum that indicated the penetrometer test results."
+	"display_description": "The Self-Recording Penetrometer facilitated the soil mechanics experiment, which was designed to obtain data on the characteristics and mechanical behavior of the lunar soil at the surface and subsurface and the variation of its properties in lateral and vertical directions, on slopes, and between different regions of the Moon.  The equipment used included an adjustable sampling scoop, a self-recording penetrometer, core tubes, and the Apollo lunar surface drill and bore stems.  Further soil testing could be done at LRL in Houston on returned soil samples, including the core tube and other geologic samples, especially the fine-grained soil sample.  Photography requirements of this experiment were met with a battery-operated 16-mm data acquisition camera (DAC) with a 10-mm focal length lens, a Hasselblad electric data camera (HEDC) with a 60-mm focal length lens, and real-time TV transmissions.  The astronauts performed the required trenching activity, penetrometer load plate and cone tests, and soil behavior/characteristic observations such as the LRV wheel/lunar soil interaction and LM footpad/soil interaction.  After tests were completed, an astronaut removed the head from the penetrometer and stowed it for return to Earth.  This head contained the recording drum that indicated the penetrometer test results.",
+	"pds3_instrument_id": "LSRP",
+	"pds3_instrument_host_id": "A16L"
 },{
 	"tags": [
 		"Temperature Sensor"
@@ -10166,7 +10282,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hfe.a17a",
 	"display_name": "Apollo 17 ALSEP Heat Flow Experiment",
-	"display_description": "The Heat Flow Experiment (HFE), which was part of the Apollo Lunar Surface Experiment Package (ALSEP), was designed to determine the rate of heat loss from the lunar interior by temperature and thermal property measurements at the surface and in the subsurface. The experiment was carried on the Apollo 15, 16, and 17 missions and was essentially identical on all three missions. The experiment apparatus consisted of two probes connected by 8 meter long cables to an electronics box which was in turn connected by a flat ribbon cable to the ALSEP station. The astronauts would drill two holes with the Apollo lunar surface drill (ALSD). The ALSD was equipped with borestem caps and retainers, borestems, bore bits, a bore bit/drill adapter, a treadle, and a bore stem/core stem wrench. The borestem assemblies used in drilling consisted of lengths of hollow fiberglass tubes, 2.5 cm in diameter, which would be connected together as the drilling progressed, and remained in the holes to provide a casing to prevent collapse of the hole walls during insertion of the probes. Nominally the holes were to be drilled to a depth of 3 meters but in practice no holes reached this depth. The probe would be lowered down into the borestem until it came to rest on top of the drill bit at the bottom of the hole. The borestem tube would project out of the surface a distance dependent on the depth of the hole."
+	"display_description": "The Heat Flow Experiment (HFE), which was part of the Apollo Lunar Surface Experiment Package (ALSEP), was designed to determine the rate of heat loss from the lunar interior by temperature and thermal property measurements at the surface and in the subsurface. The experiment was carried on the Apollo 15, 16, and 17 missions and was essentially identical on all three missions. The experiment apparatus consisted of two probes connected by 8 meter long cables to an electronics box which was in turn connected by a flat ribbon cable to the ALSEP station. The astronauts would drill two holes with the Apollo lunar surface drill (ALSD). The ALSD was equipped with borestem caps and retainers, borestems, bore bits, a bore bit/drill adapter, a treadle, and a bore stem/core stem wrench. The borestem assemblies used in drilling consisted of lengths of hollow fiberglass tubes, 2.5 cm in diameter, which would be connected together as the drilling progressed, and remained in the holes to provide a casing to prevent collapse of the hole walls during insertion of the probes. Nominally the holes were to be drilled to a depth of 3 meters but in practice no holes reached this depth. The probe would be lowered down into the borestem until it came to rest on top of the drill bit at the bottom of the hole. The borestem tube would project out of the surface a distance dependent on the depth of the hole.",
+	"pds3_instrument_id": "HFE",
+	"pds3_instrument_host_id": "A17A"
 },{
 	"tags": [
 		"Dust Detector"
@@ -10223,7 +10341,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:tg.a17l",
 	"display_name": "Apollo 17 LM Traverse Gravimeter",
-	"display_description": "The Apollo 17 Traverse Gravimeter was a self-contained, self-leveling lunar gravimeter powered by an internal battery and capable of resolving gravitational acceleration differences with an effective accuracy of 0.5 to 1 milligal on the Moon.  The primary objective of the Traverse Gravimeter (TG) Experiment (Apollo Experiment S-199) was to make a high-accuracy relative survey of the lunar gravitational field in the Apollo 17 landing area and to use these measurements to obtain information about the geological substructure.  A secondary goal was to make an Earth-Moon gravity tie. Specific objectives were to measure the value of gravity, relative to the value at a lunar base station, at selected known locations along the lunar traverse and to measure the value of gravity at a known point on the lunar surface (base station), relative to the gravity at a known point on Earth."
+	"display_description": "The Apollo 17 Traverse Gravimeter was a self-contained, self-leveling lunar gravimeter powered by an internal battery and capable of resolving gravitational acceleration differences with an effective accuracy of 0.5 to 1 milligal on the Moon.  The primary objective of the Traverse Gravimeter (TG) Experiment (Apollo Experiment S-199) was to make a high-accuracy relative survey of the lunar gravitational field in the Apollo 17 landing area and to use these measurements to obtain information about the geological substructure.  A secondary goal was to make an Earth-Moon gravity tie. Specific objectives were to measure the value of gravity, relative to the value at a lunar base station, at selected known locations along the lunar traverse and to measure the value of gravity at a known point on the lunar surface (base station), relative to the gravity at a known point on Earth.",
+	"pds3_instrument_id": "TG",
+	"pds3_instrument_host_id": "A17L"
 },{
 	"tags": [
 		"Imager",
@@ -10232,7 +10352,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:cfi.con",
 	"display_name": "CONTOUR Forward Imager",
-	"display_description": "The CONTOUR Forward Imager (CFI) is designed primarily for navigation and long range imaging of the comet. Its primary objectives are to locate the target comet against the tar background before the encounter, take color images of the nucleus and coma, and to image the inner coma in wavelengths sensitive to major species of ionized gases. The CFI is optimized for low-light and short wavelength (including ultraviolet) imaging."
+	"display_description": "The CONTOUR Forward Imager (CFI) is designed primarily for navigation and long range imaging of the comet. Its primary objectives are to locate the target comet against the tar background before the encounter, take color images of the nucleus and coma, and to image the inner coma in wavelengths sensitive to major species of ionized gases. The CFI is optimized for low-light and short wavelength (including ultraviolet) imaging.",
+	"pds3_instrument_id": "CFI",
+	"pds3_instrument_host_id": "CON"
 },{
 	"tags": [
 		"Mass Spectrometer",
@@ -10241,7 +10363,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:cida.con",
 	"display_name": "CONTOUR Dust Analyzer",
-	"display_description": "The CONTOUR Dust Analyzer (CIDA) will be an improved version of the instruments flown on Vega and Giotto during the Halley encounter. CIDA will be mounted on the front of the spacecraft to look in the direction of flight during the encounters. The CIDA instrument is a mass spectrometer, which separates ions' masses by comparing differences in their flight times. The operating principle of the instrument is the following: when a dust particle hits the target of the instrument, ions are extracted from it by an electrostatic grid. The extracted ions move through the instrument and are measured by a detector. The flight times of the ions are then used to calculate their masses."
+	"display_description": "The CONTOUR Dust Analyzer (CIDA) will be an improved version of the instruments flown on Vega and Giotto during the Halley encounter. CIDA will be mounted on the front of the spacecraft to look in the direction of flight during the encounters. The CIDA instrument is a mass spectrometer, which separates ions' masses by comparing differences in their flight times. The operating principle of the instrument is the following: when a dust particle hits the target of the instrument, ions are extracted from it by an electrostatic grid. The extracted ions move through the instrument and are measured by a detector. The flight times of the ions are then used to calculate their masses.",
+	"pds3_instrument_id": "CIDA",
+	"pds3_instrument_host_id": "CON"
 },{
 	"tags": [
 		"Imager",
@@ -10250,7 +10374,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:crispimag.con",
 	"display_name": "CONTOUR Remote Imaging Spectrograph - Imager",
-	"display_description": "The CONTOUR Remote Imager/Spectrograph (CRISP) instrument is effectively two instruments working independently in a single package. CRISP actively tracks the comet's nucleus near CONTOUR's closest approach, taking high resolution images, color images through 10 filters, and an infrared spectral map. It is designed to return high-resolution images, color images, and infrared spectral maps of the comets."
+	"display_description": "The CONTOUR Remote Imager/Spectrograph (CRISP) instrument is effectively two instruments working independently in a single package. CRISP actively tracks the comet's nucleus near CONTOUR's closest approach, taking high resolution images, color images through 10 filters, and an infrared spectral map. It is designed to return high-resolution images, color images, and infrared spectral maps of the comets.",
+	"pds3_instrument_id": "CRISPIMAG",
+	"pds3_instrument_host_id": "CON"
 },{
 	"tags": [
 		"Spectrometer",
@@ -10259,7 +10385,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:crispspec.con",
 	"display_name": "CONTOUR Remote Imaging Spectrograph - Spectrometer",
-	"display_description": "The CONTOUR Remote Imager/Spectrograph (CRISP) instrument is effectively two instruments working independently in a single package. CRISP actively tracks the comet's nucleus near CONTOUR's closest approach, taking high resolution images, color images through 10 filters, and an infrared spectral map. It is designed to return high-resolution images, color images, and infrared spectral maps of the comets."
+	"display_description": "The CONTOUR Remote Imager/Spectrograph (CRISP) instrument is effectively two instruments working independently in a single package. CRISP actively tracks the comet's nucleus near CONTOUR's closest approach, taking high resolution images, color images through 10 filters, and an infrared spectral map. It is designed to return high-resolution images, color images, and infrared spectral maps of the comets.",
+	"pds3_instrument_id": "CRISPSPEC",
+	"pds3_instrument_host_id": "CON"
 },{
 	"tags": [
 		"Mass Spectrometer"
@@ -10267,7 +10395,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:ngims.con",
 	"display_name": "CONTOUR Neutral Gas and Ion Mass Spectrometer",
-	"display_description": "The Neutral Gas and Ion Mass Spectrometer (NGIMS) will measure the abundance and isotope ratios for many neutral and ion species in the coma of each comet during the flyby. The objectives of this experiment are to gain an understanding of the abundances of simple species such as H2O, CH4, CO2, NH3, and H2S and considerably more complex molecules released by the comet."
+	"display_description": "The Neutral Gas and Ion Mass Spectrometer (NGIMS) will measure the abundance and isotope ratios for many neutral and ion species in the coma of each comet during the flyby. The objectives of this experiment are to gain an understanding of the abundances of simple species such as H2O, CH4, CO2, NH3, and H2S and considerably more complex molecules released by the comet.",
+	"pds3_instrument_id": "NGIMS",
+	"pds3_instrument_host_id": "CON"
 },{
 	"tags": [
 		"Spectrometer",
@@ -11428,52 +11558,52 @@
 	"target": "urn:nasa:pds:context:target:satellite.saturn.daphnis",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:cda.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:uvis.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:mag.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:vims.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:rpws.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:caps.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:rss.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:isswa.co",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:hrd.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:mimi.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:radar.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"instrument": "urn:nasa:pds:context:instrument:inms.co",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.co",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:issna.co",
@@ -11880,20 +12010,20 @@
 	"target": "urn:nasa:pds:context:target:dwarf_planet.1_ceres",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"instrument": "urn:nasa:pds:context:instrument:dawn.grand",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"instrument": "urn:nasa:pds:context:instrument:dawn.rss",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"instrument": "urn:nasa:pds:context:instrument:dawn.fc2",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"instrument": "urn:nasa:pds:context:instrument:dawn.vir",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
@@ -13472,52 +13602,52 @@
 	"target": "urn:nasa:pds:context:target:plasma_stream.solar_wind",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:ssd.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:ssi.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:pls.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:pws.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:rss.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:mag.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:epd.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:gdds.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:nims.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:uvs.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:ppr.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"instrument": "urn:nasa:pds:context:instrument:hic.go",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.go",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:sws.a12a",
@@ -13576,8 +13706,8 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a14a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"instrument": "urn:nasa:pds:context:instrument:sws.a15a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15a",
@@ -13604,8 +13734,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:oms.a15c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15l",
 	"instrument": "urn:nasa:pds:context:instrument:lsrp.a15l",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a15l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16a",
@@ -13624,8 +13754,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:metriccam.a16c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16l",
 	"instrument": "urn:nasa:pds:context:instrument:lsrp.a16l",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a16l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
@@ -13636,8 +13766,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:lsg.a17a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
 	"instrument": "urn:nasa:pds:context:instrument:hfe.a17a",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17c",
@@ -13652,52 +13782,52 @@
 	"instrument": "urn:nasa:pds:context:instrument:fuvs.a17c",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
 	"instrument": "urn:nasa:pds:context:instrument:tg.a17l",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.a17l",
 	"instrument": "urn:nasa:pds:context:instrument:sep.a17l",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
 	"instrument": "urn:nasa:pds:context:instrument:m3.ch1-orb",
-	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
-},{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
+	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
+},{
 	"instrument": "urn:nasa:pds:context:instrument:mrffr.ch1-orb",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ch1-orb",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:uvvis.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:b-star.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:nir.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:lidar.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:lwir.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:rss.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:a-star.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"instrument": "urn:nasa:pds:context:instrument:hires.clem1",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.clem1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:ngims.con",
