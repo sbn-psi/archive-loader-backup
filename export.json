@@ -6263,7 +6263,9 @@
 	"display_name": "Pioneer 11 Helium Vector Magnetometer",
 	"display_description": "The magnetometer on Pioneer 11 was a triaxial helium magnetometer with seven dynamic ranges, from plus or minus 2.5 nT to plus or minus 1.0E-3 T. The linearity was 0.1% and the noise threshold was 0.01 nT rms for 0-1 Hz. The accuracy was 0.5% of full scale range. The experimenter used RTN coordinates in the data analysis. In this system, R (or X) is radially outward from the sun, T (or Y) was parallel to the sun's equatorial plane and had its direction given by the cross product of the sun's spin vector into the radial direction (i.e., into R), and N (or Z) completed the right-handed orthogonal system (positive northward). A detailed instrument description may be found in Smith et al., IEEE Trans. On Magnetics, v. M-11, p. 962, July 1975. Data include the interplanetary region.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "HVM",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Ion Detector"
@@ -6272,7 +6274,9 @@
 	"display_name": "Pioneer 11 Quadrispherical Plasma Analyzer",
 	"display_description": "The instrument consisted of dual 90-deg quadrispherical electrostatic analyzers, one with 26 individual particle detectors and the other with 5 current collectors. The system was capable of measuring incident plasma distribution parameters over the energy range 0.1 to 18 keV for protons and approximately 1 to 500 eV for electrons. The high-resolution analyzer with a constant of 9 keV/Q per kV applied to the plates, had a mean plate radius of 9 cm and separation of 0.5 cm. This analyzer was used to measure ions only, and had 26 channeltrons mounted on the semicircular exit to the analyzer. The aperture pointed through a wide slit in the back of the spacecraft high-gain antenna reflector and pointed along the spin axis toward the earth (and therefore the sun). The edges of the antenna reflector limited the viewing of the instrument to 73 deg with respect to the spin axis. The channeltrons covered a range of plus or minus 51 deg. Each channeltron near the center covered 3 deg and approximately 8 deg near the edges of the analyzer. The angular width perpendicular to the long angular width was about 2 deg. In half the spin period the whole cone of half-angle 51 deg centered on the sun was swept out. A medium-energy analyzer with a mean radius of 12 cm and a 1-cm plate separation (constant of 6 keV/Q per kV applied) was used to detect both ions and electrons. The detectors were five flat-surface current collectors. The three center collectors each covered 15 deg and covered the angular range of plus or minus 22.5 deg from the spin axis. The two outside collectors had an angular width of 47.5 deg and were located at plus or minus 46.25 deg from the center of the analyzer. There was a variety of possible operating modes for the experiment; however, the principal mode utilized during the encounter phase was one in which the analyzer plate potential was stepped through its range every one-half revolution of the spacecraft, and all current collectors or channeltrons were read out at the peak flux roll angle. The high and medium resolution analyzers operated independently, so a cross check between these analyzers was possible. The dynamic range for the particle fluxes was from 1.0E+2 to 3.0E+9/(sq cm-s) and the proton temperature down to 2.0E+3 deg K could be ascertained. Data include the interplanetary region. Detector A was turned off on September 16, 1987.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "PA",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Ion Detector",
@@ -6283,7 +6287,9 @@
 	"display_name": "Pioneer 11 Charged Particle Instrument",
 	"display_description": "This experiment used two telescopes to measure the composition and energy spectra of solar (and galactic) particles above about 0.5 MeV/nucleon. The main telescope consisted of five collinear elements (three solid state, one CsI, and one sapphire Cerenkov) surrounded by a plastic anticoincidence shield. The telescope had a 60-deg, full-angle acceptance cone with its axis approximately normal to the spacecraft spin axis, permitting 8-sectored information on particle arrival direction. Four elements of the main telescope were pulse-height analyzed, and low- and high-gain modes could be selected by command to permit resolution of the elements H through Ni or of electrons and the isotopes of H, He, and light nuclei. A selection-priority scheme was included to permit sampling of less abundant particle species under normal and solar-flare conditions. The low-energy telescope was essentially a two-element, shielded, solid-state detector with a 70-deg, full-angle acceptance cone. The first element was pulse-height analyzed, and data were recorded by sectors. Data include the interplanetary region.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "CPI",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Radiation Detector"
@@ -6292,7 +6298,9 @@
 	"display_name": "Pioneer 11 Cosmic Ray Telescope",
 	"display_description": "This experiment consisted of three 3-element telescopes, all looking normal to the spacecraft spin axis. A bidirectional telescope measured 20- to 800-MeV/nucleon particles with 5 to 10% energy resolution. Another telescope measured 3- to 22-MeV/nucleon particles with 5% resolution. These two telescopes measured particles with Z values between 1 and 8. The third telescope measured 50-keV to 1-MeV electrons and 50-keV to 20-MeV protons with 20% resolution. Data include the interplanetary region.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "CRT",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Radiation Detector"
@@ -6301,7 +6309,9 @@
 	"display_name": "Pioneer 11 Geiger Tube Telescope",
 	"display_description": "This experiment used seven miniature Geiger tubes in three arrays to measure proton and electron fluxes near Jupiter and Saturn. Detector groupings were as follows: (1) a three-element (A, B, and C) differentially shielded telescope. Tube C was shielded omnidirectionally and was used for background subtraction to provide rates such as A-C (5 to 21 MeV electrons and 30 to 77.5 MeV protons) and B-C (0.55 to 21 MeV electrons and 6.6 to 77.5 MeV protons); (2) a three-element triangular array, each element responding to electrons above 31 MeV and protons above 77.5 MeV; and (3) a thin-window tube (G) with a gold-plated elbow as the entrance aperture to admit scattered electrons above 0.06 MeV while discriminating strongly against protons. For a description of the similar experiment on Pioneer 10, see J. A. Van Allen et al., J. Geophys. Res., v. 79, p. 3395, 1974. Early results are given in Science, v. 188, p. 459, 1975. Data include the interplanetary region.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "GTT",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Radiation Detector"
@@ -6310,7 +6320,9 @@
 	"display_name": "Pioneer 11 Trapped Radiation Detector",
 	"display_description": "This experiment consisted of an array of five particle detectors with electron thresholds in the range .01 to 35 MeV and proton thresholds in the range 0.15 to 80 MeV. A Cerenkov counter (C) had four output channels (C1, C2, C3, and CDC) sensitive to electrons having energies above 6, 9, 13, and 1 MeV, respectively. An electron-scatter counter (E) had three output channels (E1, E2, and E3) sensitive to electrons above .16, .26, and .46 MeV. A minimum ionization counter (M) had three output channels, M1 sensitive to electrons having energies greater than 35 MeV, M2 that measured background, and M3 that was sensitive to protons having energies greater than 80 MeV. The last two sensors were scintillator detectors (SP and SE), both of which had energy thresholds of 10 keV for electrons and 150 keV for protons. The sensitivity of the SE detector to protons was about a factor of 10 lower than its sensitivity to electrons. Thus, the SEDC channel effectively measured the electron flux, which could then be subtracted from the SPDC channel response to obtain the proton flux. Several other channels, listed above, required corrections to obtain the fluxes of the species indicated. Three of the channels (CDC, SPDC, and SEDC) were read out through a common electrometer. Due to a malfunction that occurred between launch and Jovian encounter, these three channels produced no usable encounter data. The detector channels could be programmed for readout in any one of four patterns at each of the eight spacecraft bit rate modes. During encounter when the spacecraft was operating in the highest bit rate mode, the minimum time to sample one channel was 1.5 s and the time to obtain a complete scan through all channels was 108 s. Since the directional detectors pointed perpendicular to the spin axis and the spin rate was 5 rpm, pitch-angle measurements were obtained. While the experiment was primarily designated for encounter studies, some data were obtained at low rates in interplanetary space. The last data were taken on December 1, 1993, after which the instrument was turned off to conserve power for other spacecraft experiments and systems.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "TRD",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Photometer"
@@ -6319,7 +6331,9 @@
 	"display_name": "Pioneer 11 Ultraviolet Photometer",
 	"display_description": "This experiment consisted of a broadband photometer, sensitive between 200 and 800 A. During the cruise phase of the mission, this experiment was used to search for the supersonic-to-subsonic transition region in the solar wind. During the Jovian encounter, this experiment was used to look for evidence of an auroral oval on the Jovian dayside, to find the ratio of hydrogen to helium in the Jovian atmosphere, and to find the temperature of the outer portion of the Jovian atmosphere. Evidence of helium was found in the interplanetary region, indicating interactions between charged particles and neutral hydrogen.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "UV",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Magnetometer"
@@ -6328,7 +6342,9 @@
 	"display_name": "Pioneer 11 Triaxial Fluxgate Magnetometer",
 	"display_description": "This instrument, designed to measure the Jovian and Saturnian magnetic field, consisted of a single-range triaxial fluxgate magnetometer sensor and associated electronics capable of measuring fields from 1.E-6 to 1.E-3 T (0.01 to 10 gauss) along each orthogonal axis. Use of a 10-bit A-to-D converter yielded a quantization step size of minus to plus 600 nT for fields less than 2.E-4 T. Instantaneous vector measurements were made once every three revolutions of the spacecraft (36 s) and transmitted to the ground with no further onboard processing. This instrument was turned off in October 1979.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "FGM",
+	"pds3_instrument_host_id": "P11"
 },{
 	"tags": [
 		"Imager"
@@ -7495,7 +7511,9 @@
 	"display_name": "Mars Odyssey Accelerometer",
 	"display_description": "During aerobraking, the accelerometers measure the change in velocity of the spacecraft due to aerodynamic forces. The dominant force is along the spacecraft y-direction. The spacecraft y-axis is approximately into the wind. Data are provided at 1 second intervals and recorded in units of m/s^2.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"pds3_instrument_id": "ACCEL",
+	"pds3_instrument_host_id": "ODY"
 },{
 	"tags": [
 		"Radio Transceiver"
@@ -9652,7 +9670,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:hvm.p10",
 	"display_name": "Pioneer 10 Helium Vector Magnetometer",
-	"display_description": "The magnetometer on Pioneer 10 is a triaxial helium magnetometer with seven dynamic ranges, from plus or minus 2.5 nT to plus or minus 10 gauss. The linearity was 0.1%, and the noise threshold was 0.01% rms for 0-1 Hz. The accuracy was 0.5% of full scale range. In this system, R (or X) is radially outward from the sun, T (or Y) is parallel to the sun's equatorial plane and has its direction given by the cross product of the sun's spin vector into the radial direction (i.e., into R) and N (or Z) completes the right-handed orthogonal system (positive northward)."
+	"display_description": "The magnetometer on Pioneer 10 is a triaxial helium magnetometer with seven dynamic ranges, from plus or minus 2.5 nT to plus or minus 10 gauss. The linearity was 0.1%, and the noise threshold was 0.01% rms for 0-1 Hz. The accuracy was 0.5% of full scale range. In this system, R (or X) is radially outward from the sun, T (or Y) is parallel to the sun's equatorial plane and has its direction given by the cross product of the sun's spin vector into the radial direction (i.e., into R) and N (or Z) completes the right-handed orthogonal system (positive northward).",
+	"pds3_instrument_id": "HVM",
+	"pds3_instrument_host_id": "P10"
 },{
 	"tags": [
 		"Electron Detector",
@@ -9662,7 +9682,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:cpi.p10",
 	"display_name": "Pioneer 10 Charged Particle Instrument",
-	"display_description": "This experiment measured charged-particle composition and spectra using four detector systems: (1) the main telescope, consisting of seven elements and providing energy spectra (approximately 3 to 68 MeV for protons and 10 to 150 MeV/nucleon for oxygen), element resolution (through oxygen), and isotope resolution (for H and He); (2) the low-energy subsystem telescope, consisting of two elements and using a very small thin first element to extend the high-sensitivity proton measurements below 1 MeV (0.3 to 9 MeV) in the presence of a high gamma-ray background aboard the spacecraft; (3) the electron-current detector (ECG), consisting of a beryllium-shield silicon detector operated in current mode to measure high fluxes of electrons with energies above 3 MeV; and (4) the fission cell detector, recording fission fragments from the nucleon-induced fission of thorium 232 sandwiched between two large-area silicon detectors to measure fluxes of protons (above 30 MeV) in the presence of high fluxes of electrons. The experiment sample time was synchronized with the spacecraft spin, permitting sectoring of the readout of the main and low-energy telescopes into eight octants about the spin axis. Data also include the interplanetary region."
+	"display_description": "This experiment measured charged-particle composition and spectra using four detector systems: (1) the main telescope, consisting of seven elements and providing energy spectra (approximately 3 to 68 MeV for protons and 10 to 150 MeV/nucleon for oxygen), element resolution (through oxygen), and isotope resolution (for H and He); (2) the low-energy subsystem telescope, consisting of two elements and using a very small thin first element to extend the high-sensitivity proton measurements below 1 MeV (0.3 to 9 MeV) in the presence of a high gamma-ray background aboard the spacecraft; (3) the electron-current detector (ECG), consisting of a beryllium-shield silicon detector operated in current mode to measure high fluxes of electrons with energies above 3 MeV; and (4) the fission cell detector, recording fission fragments from the nucleon-induced fission of thorium 232 sandwiched between two large-area silicon detectors to measure fluxes of protons (above 30 MeV) in the presence of high fluxes of electrons. The experiment sample time was synchronized with the spacecraft spin, permitting sectoring of the readout of the main and low-energy telescopes into eight octants about the spin axis. Data also include the interplanetary region.",
+	"pds3_instrument_id": "CPI",
+	"pds3_instrument_host_id": "P10"
 },{
 	"tags": [
 		"Photometer"
@@ -9670,7 +9692,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:uv.p10",
 	"display_name": "Pioneer 10 Ultraviolet Photometer",
-	"display_description": "This experiment consisted of a broadband photometer sensitive between 200 and 800 A. During the cruise phase of the mission, this experiment was used to search for the supersonic-to-subsonic transition region in the solar wind. During the Jovian encounter, this experiment was used to look for evidence of an auroral oval on the Jovian dayside, to find the ratio of hydrogen to helium in the Jovian atmosphere, and to find the temperature of the outer portion of the Jovian atmosphere. Evidence of helium was found in the interplanetary region indicating interactions between charged particles and neutral hydrogen."
+	"display_description": "This experiment consisted of a broadband photometer sensitive between 200 and 800 A. During the cruise phase of the mission, this experiment was used to search for the supersonic-to-subsonic transition region in the solar wind. During the Jovian encounter, this experiment was used to look for evidence of an auroral oval on the Jovian dayside, to find the ratio of hydrogen to helium in the Jovian atmosphere, and to find the temperature of the outer portion of the Jovian atmosphere. Evidence of helium was found in the interplanetary region indicating interactions between charged particles and neutral hydrogen.",
+	"pds3_instrument_id": "UV",
+	"pds3_instrument_host_id": "P10"
 },{
 	"tags": [
 		"Electron Detector",
@@ -9679,7 +9703,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:gtt.p10",
 	"display_name": "Pioneer 10 Geiger Tube Telescope",
-	"display_description": "This experiment used seven miniature Geiger tubes in three arrays to measure proton and electron fluxes in interplanetary space and in the vicinity of Jupiter. Detector groupings were as follows: (1) a three-element (A, B, and C) differentially shielded telescope, with tube C shielded omnidirectionally and used for background subtraction to provide directional rates such as A-C (5-21 MeV electrons and 30-77.5 MeV protons) and B-C (0.55-21 MeV electrons and 6.6-77.5 MeV protons), (2) a three-element (D, E, and F) triangular array, each element responding to electrons above 31 MeV and protons above 77.5 MeV, and (3) a thin-window tube (G) with a gold-plated elbow as the aperture which admitted scattered electrons above 0.06 MeV while discriminating strongly against protons. Single element and coincidence rates were telemetered from the first two telescopes."
+	"display_description": "This experiment used seven miniature Geiger tubes in three arrays to measure proton and electron fluxes in interplanetary space and in the vicinity of Jupiter. Detector groupings were as follows: (1) a three-element (A, B, and C) differentially shielded telescope, with tube C shielded omnidirectionally and used for background subtraction to provide directional rates such as A-C (5-21 MeV electrons and 30-77.5 MeV protons) and B-C (0.55-21 MeV electrons and 6.6-77.5 MeV protons), (2) a three-element (D, E, and F) triangular array, each element responding to electrons above 31 MeV and protons above 77.5 MeV, and (3) a thin-window tube (G) with a gold-plated elbow as the aperture which admitted scattered electrons above 0.06 MeV while discriminating strongly against protons. Single element and coincidence rates were telemetered from the first two telescopes.",
+	"pds3_instrument_id": "GTT",
+	"pds3_instrument_host_id": "P10"
 },{
 	"tags": [
 		"Ion Detector"
@@ -9687,7 +9713,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:pa.p10",
 	"display_name": "Pioneer 10 Quadrispherical Plasma Analyzer",
-	"display_description": "The instrument consisted of dual 90-deg quadraspherical electrostatic analyzers, one with 26 individual particle detectors and the other with 5 current collectors. The system was capable of measuring incident plasma distribution parameters over the energy range 0.1 to 18 keV for protons and approximately 1-500 eV for electrons. The high-resolution analyzer, with a constant of 9 keV/Q per kV applied to the plates, had a mean plate radius of 9 cm and separation of 0.5 cm. This analyzer which was used to measure ions. A medium-energy analyzer with a mean radius of 12 cm and a 1-cm plate separation (constant of 6 keV/Q per kV applied) was used to detect both ions and electrons. There were a variety of possible operating modes for the experiment; however, the principal mode utilized during the encounter phase was one in which the analyzer plate potential was stepped through its range every one-half revolution of the spacecraft, and all current collectors or channeltrons were read out at the peak flux roll angle. The high- and medium-resolution analyzers operated independently, so that a cross-check between these analyzers was possible. The dynamic range for the particle fluxes was from 1.0E+2 to 3.0E+9/(sq cm-s) and the proton temperature could be ascertained down to 2.0E+3 deg K."
+	"display_description": "The instrument consisted of dual 90-deg quadraspherical electrostatic analyzers, one with 26 individual particle detectors and the other with 5 current collectors. The system was capable of measuring incident plasma distribution parameters over the energy range 0.1 to 18 keV for protons and approximately 1-500 eV for electrons. The high-resolution analyzer, with a constant of 9 keV/Q per kV applied to the plates, had a mean plate radius of 9 cm and separation of 0.5 cm. This analyzer which was used to measure ions. A medium-energy analyzer with a mean radius of 12 cm and a 1-cm plate separation (constant of 6 keV/Q per kV applied) was used to detect both ions and electrons. There were a variety of possible operating modes for the experiment; however, the principal mode utilized during the encounter phase was one in which the analyzer plate potential was stepped through its range every one-half revolution of the spacecraft, and all current collectors or channeltrons were read out at the peak flux roll angle. The high- and medium-resolution analyzers operated independently, so that a cross-check between these analyzers was possible. The dynamic range for the particle fluxes was from 1.0E+2 to 3.0E+9/(sq cm-s) and the proton temperature could be ascertained down to 2.0E+3 deg K.",
+	"pds3_instrument_id": "PA",
+	"pds3_instrument_host_id": "P10"
 },{
 	"tags": [
 		"Electron Detector",
@@ -9697,7 +9725,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:crt.p10",
 	"display_name": "Pioneer 10 Cosmic Ray Telescope",
-	"display_description": "The cosmic ray telescope used for this experiment was also designed to monitor solar and galactic cosmic rays and track the twisting high energy particles from the Sun. The instrument can determine which of the nuclei of the ten lightest elements make up these cosmic ray particles. Before saturation by radiation, the cosmic ray telescope measured high energy particles in Jupiter's radiation belts.\nThe instrument consists of three, three-element, solid-state telescopes. The high energy telescope measures the flux of protons between 56 and 800 MeV. The medium energy telescope measures protons with energies between 3 and 22 MeV, and identifies the ten elements from hydrogen to neon. The low energy telescope measures the flux of electrons between .05 and 1 MeV, and of protons between .05 and 20 MeV."
+	"display_description": "The cosmic ray telescope used for this experiment was also designed to monitor solar and galactic cosmic rays and track the twisting high energy particles from the Sun. The instrument can determine which of the nuclei of the ten lightest elements make up these cosmic ray particles. Before saturation by radiation, the cosmic ray telescope measured high energy particles in Jupiter's radiation belts.\nThe instrument consists of three, three-element, solid-state telescopes. The high energy telescope measures the flux of protons between 56 and 800 MeV. The medium energy telescope measures protons with energies between 3 and 22 MeV, and identifies the ten elements from hydrogen to neon. The low energy telescope measures the flux of electrons between .05 and 1 MeV, and of protons between .05 and 20 MeV.",
+	"pds3_instrument_id": "CRT",
+	"pds3_instrument_host_id": "p10"
 },{
 	"tags": [
 		"Radiation Detector",
@@ -9706,7 +9736,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:trd.p10",
 	"display_name": "Pioneer 10 Trapped Radiation Detector",
-	"display_description": "Using five different types of telescopes, the trapped radiation detector was designed to provide basic information about several of the fundamental features of Jupiter's radiation belts including the types of particles within the belts, their distribution, energy, and intensity.\nAn unfocused Cerenkov counter detected the light emitted in a particular direction as particles passed through it. It recorded electrons of energy 0.5 to 12 MeV. An electron scatter detector was activated by electrons at 100 to 400 keV. A minimum ionizing detector, consisting of a solid-state diode, measured minimum ionizing particles (i.e., less than 3 MeV) and protons in the range of 50 to 350 MeV. Finally, two scintillation detectors distinguished roughly between electrons of less than 5 and protons of less than 50 keV."
+	"display_description": "Using five different types of telescopes, the trapped radiation detector was designed to provide basic information about several of the fundamental features of Jupiter's radiation belts including the types of particles within the belts, their distribution, energy, and intensity.\nAn unfocused Cerenkov counter detected the light emitted in a particular direction as particles passed through it. It recorded electrons of energy 0.5 to 12 MeV. An electron scatter detector was activated by electrons at 100 to 400 keV. A minimum ionizing detector, consisting of a solid-state diode, measured minimum ionizing particles (i.e., less than 3 MeV) and protons in the range of 50 to 350 MeV. Finally, two scintillation detectors distinguished roughly between electrons of less than 5 and protons of less than 50 keV.",
+	"pds3_instrument_id": "TRD",
+	"pds3_instrument_host_id": "P10"
 },{
 	"tags": [
 		"Electron Detector",
@@ -9724,7 +9756,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:orad.p12",
 	"display_name": "Pioneer Venus Orbiter Radar",
-	"display_description": "The Pioneer Venus Orbiter radar altimeter (ORAD) was used to obtain information on the orbiter altitude, planetary surface temperature, and radar scattering properties in order to infer the surface topography, geology, and the thermal and mechanical properties of the interior of Venus. From observations of the radar echo, surface heights along the suborbital trajectory can be estimated to an accuracy of 150 m. Surface electrical conductivity and meter-scale roughness can also be derived."
+	"display_description": "The Pioneer Venus Orbiter radar altimeter (ORAD) was used to obtain information on the orbiter altitude, planetary surface temperature, and radar scattering properties in order to infer the surface topography, geology, and the thermal and mechanical properties of the interior of Venus. From observations of the radar echo, surface heights along the suborbital trajectory can be estimated to an accuracy of 150 m. Surface electrical conductivity and meter-scale roughness can also be derived.",
+	"pds3_instrument_id": "ORAD",
+	"pds3_instrument_host_id": "P12"
 },{
 	"tags": [
 		"Radar Transceiver",
@@ -9790,7 +9824,9 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument:rss.p12",
 	"display_name": "Pioneer Venus Orbiter Radio Science Subsystem",
-	"display_description": "The radio system is composed primarily of an ultrastable oscillator (1 part in 10**12), a ground-based transmitter and receiver, a spacecraft transmitter and receiver, and antennae. The radio signal (approximately 2200 MHz) is transmitted from one of the three Deep Space Station antennae (Goldstone California; Madrid, Spain; or Canberra, Australia) and then received at the spacecraft.  The signal is immediately re-transmitted (there is a multiplication by 240/221 to prevent feedback into the spacecraft receiver loop) and then received at earth, where it is differenced with the originally transmitted signal.\nThe difference in frequency (the Doppler shift) can be measured to less than 0.01 Hz S band (about 0.65 mm/s) for a 5-second averaging time.  However, there are error sources which frequently degrade this accuracy.  Such things as the earth's troposphere and ionosphere, the Venus atmosphere, and space plasma cause the data noise level to increase by several factors.  The noise levels were very dynamic and changed significantly from day to day.  In some cases where solar conjunction was approaching, the noise increased by a factor of 10 or more and made the data unusable.  The data are displayed as residuals which were obtained by differencing the raw observation with the theoretical calculation."
+	"display_description": "The radio system is composed primarily of an ultrastable oscillator (1 part in 10**12), a ground-based transmitter and receiver, a spacecraft transmitter and receiver, and antennae. The radio signal (approximately 2200 MHz) is transmitted from one of the three Deep Space Station antennae (Goldstone California; Madrid, Spain; or Canberra, Australia) and then received at the spacecraft.  The signal is immediately re-transmitted (there is a multiplication by 240/221 to prevent feedback into the spacecraft receiver loop) and then received at earth, where it is differenced with the originally transmitted signal.\nThe difference in frequency (the Doppler shift) can be measured to less than 0.01 Hz S band (about 0.65 mm/s) for a 5-second averaging time.  However, there are error sources which frequently degrade this accuracy.  Such things as the earth's troposphere and ionosphere, the Venus atmosphere, and space plasma cause the data noise level to increase by several factors.  The noise levels were very dynamic and changed significantly from day to day.  In some cases where solar conjunction was approaching, the noise increased by a factor of 10 or more and made the data unusable.  The data are displayed as residuals which were obtained by differencing the raw observation with the theoretical calculation.",
+	"pds3_instrument_id": "RSS",
+	"pds3_instrument_host_id": "P12"
 },{
 	"tags": [
 		"Radio Transceiver"
@@ -12678,8 +12714,8 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ody",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ody",
 	"instrument": "urn:nasa:pds:context:instrument:accel.ody",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ody",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vl2",
@@ -13258,40 +13294,40 @@
 	"target": "urn:nasa:pds:context:target:planet.jupiter",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:pa.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:hvm.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:trd.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:uv.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:cpi.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:crs.p11",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:fgm.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:gtt.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"instrument": "urn:nasa:pds:context:instrument:crt.p11",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p11",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mess",
@@ -14638,12 +14674,12 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p10",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p12",
 	"instrument": "urn:nasa:pds:context:instrument:rss.p12",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p12",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p12",
 	"instrument": "urn:nasa:pds:context:instrument:orad.p12",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.p12",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.pvo",
