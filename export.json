@@ -5281,7 +5281,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/msl/index.htm"
 		}
-	]
+	],
+	"pds3_instrument_host_id": "MSL"
 },{
 	"tags": [
 		"Lander"
@@ -5331,7 +5332,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/lunarp/index.htm"
 		}
-	]
+	],
+	"pds3_instrument_host_id": "LP"
 },{
 	"tags": [
 		"Orbiter"
@@ -5353,7 +5355,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/lcross/default.htm"
 		}
-	]
+	],
+	"pds3_instrument_host_id": "LCROSS"
 },{
 	"tags": [
 		"Orbiter"
@@ -5367,7 +5370,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/grail/default.htm"
 		}
-	]
+	],
+	"pds3_instrument_host_id": "GRAIL-A"
 },{
 	"tags": [
 		"Orbiter"
@@ -5381,7 +5385,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/grail/default.htm"
 		}
-	]
+	],
+	"pds3_instrument_host_id": "GRAIL-B"
 },{
 	"tags": [
 		"Orbiter"
@@ -5401,7 +5406,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/viking/index.htm"
 		}
-	]
+	],
+	"pds3_instrument_host_id": "VO1"
 },{
 	"tags": [
 		"Orbiter"
@@ -5422,7 +5428,8 @@
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/viking/index.htm"
 		}
 	],
-	"mission_override": "urn:nasa:pds:context:investigation:mission.viking"
+	"mission_override": "urn:nasa:pds:context:investigation:mission.viking",
+	"pds3_instrument_host_id": "VO2"
 },{
 	"tags": [
 		"Orbiter"
@@ -5438,7 +5445,8 @@
 		{
 			"toolId": 2
 		}
-	]
+	],
+	"pds3_instrument_host_id": "DAWN"
 },{
 	"tags": [
 		"Orbiter",
@@ -5449,7 +5457,8 @@
 	"display_name": "Hayabusa",
 	"display_description": "The Hayabusa spacecraft has a box-shaped main body 1.5 m along each side and 1.05 m high. The launch mass is 530 kg, including 50 kg of chemical propellant and 65 kg of xenon gas. Two solar panel wings with a total array area of 12 square meters protrude from the side and a 1.5 m diameter high-gain parabolic antenna is mounted on top on a two-axis gimbal. A cylindrical sampler horn, deployed shortly after launch, protrudes from the bottom of the spacecraft. The Minerva lander was also mounted on th spacecraft near the bottom panel. Hayabusa is propelled during cruise phases by two microwave ion thruster engines, which use a microwave discharge to ionize xenon gas. The ionized plasma is accelerated by high-voltage electrodes through four thruster heads which protrude from one side of the spacecraft body to provide a peak thrust of 20 mN using 1 kW power. A nitrogen tetroxide/hydrazine propulsion system with a peak thrust of 22 N will be used for maneuvering. The spacecraft is powered by gallium-arsenide solar cells and a 15 A-hr rechargeable nickel-metal hydride (Ni-MH) battery. Communications are via X- and S-band low gain antennas and the high gain dish antenna (X-band) with a transmitted power of 20 W. The mission is also be equipped with a camera, used for imaging, visible-polarimetry studies, and optical navigation near the asteroid, a laser ranging device (LIDAR), and near-IR and X-ray spectrometers. The insulated and cushioned re-entry capsule, 40 cm in diameter and 25 cm deep with a mass of about 20 kg, is attached to the body of the spacecraft near the sample collection horn. The capsule has a convex nose covered with a 3 cm thick ablative heat shield to protect the samples from the high velocity (~13 km/s) re-entry. Cost of the Hayabusa spacecraft is roughly 12 billion yen ($100 million U.S.)",
 	"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hayabusa_hover.jpg/600px-Hayabusa_hover.jpg",
-	"tools": []
+	"tools": [],
+	"pds3_instrument_host_id": "HAY"
 },{
 	"tags": [
 		"Orbiter"
@@ -5466,7 +5475,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/near/index.htm"
 		}
-	]
+	],
+	"pds3_instrument_host_id": "NEAR"
 },{
 	"tags": [
 		"Sample Return"
@@ -12269,8 +12279,8 @@
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
@@ -12501,32 +12511,32 @@
 	"target": "urn:nasa:pds:context:target:asteroid.433_eros",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"instrument": "urn:nasa:pds:context:instrument:nlr.near",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"instrument": "urn:nasa:pds:context:instrument:grs.near",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"instrument": "urn:nasa:pds:context:instrument:xrs.near",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"instrument": "urn:nasa:pds:context:instrument:nis.near",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"instrument": "urn:nasa:pds:context:instrument:rss.near",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"instrument": "urn:nasa:pds:context:instrument:mag.near",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:msi.near",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.near",
+	"instrument": "urn:nasa:pds:context:instrument:msi.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"target": "urn:nasa:pds:context:target:asteroid.101955_bennu",
@@ -12557,12 +12567,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:ola.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"target": "urn:nasa:pds:context:target:planet.earth",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:planet.earth",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"target": "urn:nasa:pds:context:target:planet.saturn",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:planet.saturn",
 	"relationshipId": "b8db3bb7-791a-43ba-a3ea-80084422fe0f"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
@@ -12585,8 +12595,8 @@
 	"target": "urn:nasa:pds:context:target:star.alf_ori",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
@@ -12621,16 +12631,16 @@
 	"target": "urn:nasa:pds:context:target:star.alf_aur",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"instrument": "urn:nasa:pds:context:instrument:amica.hay",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"instrument": "urn:nasa:pds:context:instrument:nirs.hay",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:lidar.hay",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
+	"instrument": "urn:nasa:pds:context:instrument:lidar.hay",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
@@ -12641,156 +12651,156 @@
 	"target": "urn:nasa:pds:context:target:dwarf_planet.1_ceres",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:dawn.grand",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
+	"instrument": "urn:nasa:pds:context:instrument:dawn.grand",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:dawn.rss",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
+	"instrument": "urn:nasa:pds:context:instrument:dawn.rss",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:dawn.fc2",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
+	"instrument": "urn:nasa:pds:context:instrument:dawn.fc2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:dawn.vir",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dawn",
+	"instrument": "urn:nasa:pds:context:instrument:dawn.vir",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
 	"target": "urn:nasa:pds:context:target:sun.sun",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
 	"instrument": "urn:nasa:pds:context:instrument:mawd.vo2",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
 	"instrument": "urn:nasa:pds:context:instrument:visb.vo2",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:rss.vo2",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
+	"instrument": "urn:nasa:pds:context:instrument:rss.vo2",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:irtm.vo2",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
+	"instrument": "urn:nasa:pds:context:instrument:irtm.vo2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:visa.vo2",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo2",
+	"instrument": "urn:nasa:pds:context:instrument:visa.vo2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"target": "urn:nasa:pds:context:target:sun.sun",
 	"relationshipId": "b8db3bb7-791a-43ba-a3ea-80084422fe0f"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"instrument": "urn:nasa:pds:context:instrument:mawd.vo1",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"instrument": "urn:nasa:pds:context:instrument:visa.vo1",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"instrument": "urn:nasa:pds:context:instrument:visb.vo1",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"instrument": "urn:nasa:pds:context:instrument:irtm.vo1",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vo1",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.grail-b",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.grail-b",
 	"instrument": "urn:nasa:pds:context:instrument:lgrs-b.grail-b",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.grail-b",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.grail-a",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.grail-a",
 	"instrument": "urn:nasa:pds:context:instrument:lgrs-a.grail-a",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.grail-a",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:nir1.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:mir1.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:nir2.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:vis.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:nsp1.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:mir2.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:nsp2.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"instrument": "urn:nasa:pds:context:instrument:tlp.lcross",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:vsp.lcross",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lcross",
+	"instrument": "urn:nasa:pds:context:instrument:vsp.lcross",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"instrument": "urn:nasa:pds:context:instrument:grs.lp",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"instrument": "urn:nasa:pds:context:instrument:rss.lp",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"instrument": "urn:nasa:pds:context:instrument:aps.lp",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"instrument": "urn:nasa:pds:context:instrument:mager.lp",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"instrument": "urn:nasa:pds:context:instrument:er.lp",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:eng.lp",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
+	"instrument": "urn:nasa:pds:context:instrument:eng.lp",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:mag.lp",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
+	"instrument": "urn:nasa:pds:context:instrument:mag.lp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:ns.lp",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.lp",
+	"instrument": "urn:nasa:pds:context:instrument:ns.lp",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ladee",
@@ -13657,116 +13667,116 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mgn",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:rhaz_right_b.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:fhaz_right_b.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:fhaz_left_a.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:rhaz_right_a.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:mast_right.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:hazcam.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:chemcam_libs.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:mardi.msl",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"instrument": "urn:nasa:pds:context:instrument:mardi.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:dan.msl",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"instrument": "urn:nasa:pds:context:instrument:dan.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:nav_left_b.msl",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"instrument": "urn:nasa:pds:context:instrument:nav_left_b.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:accel.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:sam.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:chemin.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:mast_left.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:fhaz_right_a.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:apxs.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:mahli.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:chemcam_rmi.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:fhaz_left_b.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:rems.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:nav_left_a.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:rhaz_left_a.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:rad.msl",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"instrument": "urn:nasa:pds:context:instrument:rad.msl",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:chemcam_soh.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:rhaz_left_b.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:navcam.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"instrument": "urn:nasa:pds:context:instrument:nav_right_b.msl",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:nav_right_a.msl",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.msl",
+	"instrument": "urn:nasa:pds:context:instrument:nav_right_a.msl",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.mgs",
