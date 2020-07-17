@@ -6161,7 +6161,8 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.rl",
 	"display_name": "Rosetta-Lander (Philae)",
-	"display_description": "The Rosetta mission was launched in 2004. The lander studied 67P/Churyumov-Gerasimenko."
+	"display_description": "The Rosetta mission was launched in 2004. The lander studied 67P/Churyumov-Gerasimenko.",
+	"pds3_instrument_host_id": "RL"
 },{
 	"tags": [
 		"Orbiter"
@@ -6169,7 +6170,8 @@
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"display_name": "Rosetta-Orbiter",
-	"display_description": "The Rosetta Orbiter was launched in 2004. It studied 21 Lutetia, 2867 Steins, Mars, and 67P/Churyumov-Gerasimenko."
+	"display_description": "The Rosetta Orbiter was launched in 2004. It studied 21 Lutetia, 2867 Steins, Mars, and 67P/Churyumov-Gerasimenko.",
+	"pds3_instrument_host_id": "RO"
 },{
 	"tags": [
 		"Flyby"
@@ -12347,8 +12349,8 @@
 	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.vl1",
@@ -14019,8 +14021,8 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.dif",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"target": "urn:nasa:pds:context:target:planet.earth",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
+	"target": "urn:nasa:pds:context:target:planet.earth",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hst",
@@ -15007,64 +15009,64 @@
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.phb2",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpclap.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:cosima.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:navcam.ro",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
+	"instrument": "urn:nasa:pds:context:instrument:navcam.ro",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:midas.ro",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
+	"instrument": "urn:nasa:pds:context:instrument:midas.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:rsi.ro",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
+	"instrument": "urn:nasa:pds:context:instrument:rsi.ro",
 	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpcies.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:virtis.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpcica.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rpcmag.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:osinac.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:miro.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:rosina.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:osiwac.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"instrument": "urn:nasa:pds:context:instrument:alice.ro",
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:giada.ro",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ro",
+	"instrument": "urn:nasa:pds:context:instrument:giada.ro",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:sow.sakig",
