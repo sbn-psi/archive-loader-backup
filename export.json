@@ -39,7 +39,9 @@
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases."
 	},
-	"example": {},
+	"example": {
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/df748a70-09a6-11eb-b89e-39d6a91337df.png"
+	},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OCAMS Documents",
@@ -2155,13 +2157,12 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.bopps",
 	"instrument_lid": "urn:nasa:pds:context:instrument:telescope.birc.sto"
 },{
-	"tags": [
-		"Asteroid Image Data",
-		"Calibrated"
-	],
+	"tags": [],
 	"tools": [],
 	"publication": null,
-	"example": null,
+	"example": {
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/f5478be0-09a6-11eb-b89e-39d6a91337df.jpeg"
+	},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2368,6 +2369,142 @@
 	"target_name": "Purgathofer SA71-20",
 	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
 	"instrument_lid": "urn:nasa:pds:context:instrument:mount_bigelow.1m54.ccd21"
+},{
+	"tags": [
+		"OSIRIS REx",
+		"Asteroid Image Data"
+	],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams::7.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) Bundle\n        ",
+	"display_description": "\n                This bundle collects all the operational data products produced by the OSIRIS-REx Camera Suite (OCAMS).\n                OCAMS is a suite of scientific cameras used for the characterization of the surface of (101955) Bennu.\n            ",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:calibration::7.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) calibration file collection.\n        ",
+	"display_description": "\n            This collection contains the calibration files used to calibrate and correct the images acquired by the OCAMS instrument onboard the OSIRIS-REx spacecraft.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:data_calibrated::9.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) calibrated science image data products.\n        ",
+	"display_description": "\n            This collection contains the calibrated (processing level 2 radiometrically calibrated and reflectance) science image data products produced by the OCAMS instrument onboard the OSIRIS-REx spacecraft.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:data_eng::7.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) ancillary image information data products.\n        ",
+	"display_description": "\n            This collection contains the ancillary image information data products produced by the OCAMS instrument onboard the OSIRIS-REx spacecraft. This product contains all instrument housekeeping data collected at the time of image acquisition.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:data_hkl0::7.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) raw housekeeping data products.\n        ",
+	"display_description": "\n            This collection contains the raw housekeeping data products produced by the OCAMS instrument suite onboard the OSIRIS-REx spacecraft.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:data_hkl1::7.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) converted housekeeping data products.\n        ",
+	"display_description": "\n            This collection contains the converted housekeeping data products produced by the OCAMS instrument suite onboard the OSIRIS-REx spacecraft.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:data_raw::9.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) raw science image data products.\n        ",
+	"display_description": "\n            This collection contains the raw (processing level 0) science image data products produced by the OCAMS instrument onboard the OSIRIS-REx spacecraft.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:data_reduced::9.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): \n        OSIRIS-REx Camera Suite (OCAMS) reduced science image data products.\n        ",
+	"display_description": "\n            This collection contains the reduced (processing level 1 - bias, dark and flat field corrected) science image data products produced by the OCAMS instrument onboard the OSIRIS-REx spacecraft.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.ocams:document::6.0",
+	"display_name": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): Document",
+	"display_description": "\n            This collection contains the documents applicable to the OSIRIS-REx Camera Suite (OCAMS).\n            ",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
