@@ -2377,10 +2377,7 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
 	"instrument_lid": "urn:nasa:pds:context:instrument:mount_bigelow.1m54.ccd21"
 },{
-	"tags": [
-		"OSIRIS REx",
-		"Asteroid Image Data"
-	],
+	"tags": [],
 	"tools": [],
 	"publication": null,
 	"example": null,
