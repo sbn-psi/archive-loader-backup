@@ -2377,7 +2377,11 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
 	"instrument_lid": "urn:nasa:pds:context:instrument:mount_bigelow.1m54.ccd21"
 },{
-	"tags": [],
+	"tags": [
+		"Images",
+		"Spacecraft",
+		"Visible"
+	],
 	"tools": [],
 	"publication": null,
 	"example": null,
@@ -2390,12 +2394,22 @@
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
-	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\"",
+	"download_size": "658 GB"
 },{
-	"tags": [],
+	"tags": [
+		"Images",
+		"Spacecraft",
+		"Calibrated",
+		"Visible"
+	],
 	"tools": [],
 	"publication": null,
-	"example": null,
+	"example": {
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/a3f90e20-0fce-11eb-b89e-39d6a91337df.jpeg",
+		"title": "OCAMS_Calibrated_20180324T110000_v002",
+		"filename": "ocams_sam_l_all_9984p285275_BD_20180324T110000_20180324T140000_v002.xml"
+	},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2405,7 +2419,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [],
 	"tools": [],
@@ -13130,6 +13145,15 @@
 	"type": "datasets"
 },{
 	"name": "IRTF Near-IR",
+	"type": "datasets"
+},{
+	"name": "Images",
+	"type": "datasets"
+},{
+	"name": "Spacecraft",
+	"type": "datasets"
+},{
+	"name": "Visible",
 	"type": "datasets"
 }],"objectRelationships": [{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ladee",
