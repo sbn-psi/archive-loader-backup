@@ -2024,13 +2024,13 @@
 		"Laser Altimetry"
 	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
 	"logical_identifier": "urn:nasa:pds:orex.ola::3.0",
-	"display_name": "Laser Altimeter (OLA) Bundle",
+	"display_name": "OSIRIS Laser Altimeter (OLA) Bundle",
 	"display_description": "\n                This bundle collects all the operational data products produced by the OSIRIS-REx Laser Altimeter (OLA).\n                OLA is used for the topographic characterization of the surface of (101955) Bennu.\n            ",
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
@@ -2058,10 +2058,15 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex",
 	"citation": "\"Daly, M.; Barnouin, O.; Espiritu, R.; and Lauretta, D., Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Laser Altimeter Bundle, urn:nasa:pds:orex.ola, NASA Planetary Data System, 2019.\""
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Altimetry",
+		"Laser Altimetry"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2073,10 +2078,15 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex"
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Altimetry",
+		"Laser Altimetry"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2128,10 +2138,15 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex",
 	"citation": "\"Daly, M.; Barnouin, O.; Espiritu, R.; and Lauretta, D., Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Laser Altimeter Bundle, urn:nasa:pds:orex.ola, NASA Planetary Data System, 2019.\""
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Altimetry",
+		"Laser Altimetry"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2326,10 +2341,13 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:palomar.oschin_schmidt_1m2.tricam",
 	"citation": "Bauer, J. M. and Lawrence, K. J., Eds., Near Earth Asteroid Tracking V1.0. EAR-A-I1063-3-NEAT-V1.0. NASA Planetary Data System, 2013."
 },{
-	"tags": [],
+	"tags": [
+		"NEAT data",
+		"Asteroid Tracking"
+	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2378,10 +2396,15 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:mount_bigelow.1m54.ccd21",
 	"citation": "\"Hergenrother, C., OSIRIS-REx Mt. Bigelow Ground Based Bennu Observations V1.0. urn:nasa:pds:orex.gbo.ast-bennu.lightcurves-images::1.0. NASA Planetary Data System, 2020.\""
 },{
-	"tags": [],
+	"tags": [
+		"OSIRIS REx",
+		"Mt. Bigelow",
+		"Light Curve Data",
+		"Asteroid"
+	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2437,10 +2460,16 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
 	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Images",
+		"Calibrated",
+		"Visible"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2452,10 +2481,15 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Images",
+		"Visible"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2467,10 +2501,16 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Images",
+		"Visible",
+		"Raw Data"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2482,10 +2522,16 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Visible",
+		"Images",
+		"Converted"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2497,10 +2543,16 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft",
+		"Visible",
+		"Images",
+		"Raw Data"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2536,10 +2588,13 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
 	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
-	"tags": [],
+	"tags": [
+		"asteroid",
+		"Spacecraft"
+	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2569,10 +2624,14 @@
 	"citation": "\"Nolan, M.C., Magri, C., Howell, E.S., Benner, L.A.M., Giorgini, J.D., Hergenrother, C.W., Hudson, R.S., Lauretta, D.S., Margot, J.L., Ostro, S.J., and Scheeres, D.J., Asteroid (101955) Bennu Shape Model V1.0. EAR-A-I0037-5-BENNUSHAPE-V1.0. NASA Planetary Data System, 2013.\"",
 	"download_size": "1.1 MB"
 },{
-	"tags": [],
+	"tags": [
+		"Bennu",
+		"shape model",
+		"Radar"
+	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -13184,6 +13243,9 @@
 	"type": "datasets"
 },{
 	"name": "asteroid",
+	"type": "datasets"
+},{
+	"name": "Converted",
 	"type": "datasets"
 }],"objectRelationships": [{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ladee",
