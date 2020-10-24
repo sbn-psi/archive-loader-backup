@@ -2442,7 +2442,7 @@
 		"Visible"
 	],
 	"tools": [],
-	"publication": {},
+	"publication": null,
 	"example": {
 		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/a3f90e20-0fce-11eb-b89e-39d6a91337df.jpeg",
 		"title": "OCAMS_Calibrated_20180324T110000_v002",
@@ -2458,7 +2458,8 @@
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
-	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\"",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ocams/calibration/"
 },{
 	"tags": [
 		"asteroid",
