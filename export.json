@@ -6679,7 +6679,8 @@
 	"display_name": "OSIRIS-REx",
 	"display_description": "The spacecraft is a roughly cubic shape, 2.72 meters high and 3.1 meters wide with two solar panel wings extending from opposite sides with an active collecting area of 8.5 square meters. Launch mass including propellant is 1529 kg. Power from the solar arrays is stored in lithium-ion batteries. Propulsion uses 200 N hydrazine thrusters mounted at the base of the spacecraft. Primary communication is via a 2 meter high gain directional dish antenna.",
 	"image_url": "https://nssdc.gsfc.nasa.gov/planetary/banner/osiris_rex_bennu.gif",
-	"tools": []
+	"tools": [],
+	"html2": "<h2>Mission Phase Information</h2><table style=\"width: 100%;\"></table><table></table><table>  <tbody><tr>    <th>Mission phase</th>    <th>Start date</th>     <th>End date</th>  <th>Phase Description</th> </tr>  <tr>    <td><br/></td>    <td><br/></td>    <td><br/></td>  </tr>  <tr>    <td><br/></td>    <td><br/></td>    <td><br/></td>  </tr>  <tr>    <td><br/></td>    <td><br/></td>    <td><br/></td>  </tr></tbody></table>"
 },{
 	"tags": [
 		"Orbiter"
@@ -13889,12 +13890,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:msi.near",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"target": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
+	"target": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:rexis.orex",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
+	"instrument": "urn:nasa:pds:context:instrument:rexis.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
@@ -13905,8 +13906,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:ovirs.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument": "urn:nasa:pds:context:instrument:tagcams.orex",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
+	"instrument": "urn:nasa:pds:context:instrument:tagcams.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
