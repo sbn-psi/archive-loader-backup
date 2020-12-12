@@ -5873,7 +5873,8 @@
 	"display_name": "OSIRIS-REx Mission",
 	"display_description": "The OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer) mission is designed to return a sample of material from near-Earth carbonaceous asteroid Bennu. OSIRIS-REx launched in September 2016 and will carry out Bennu orbit operations from December 2018 through around March 2021.  It will sample the asteroid in July 2020 and return the sample to Earth in September 2023. Along with returning a sample, it will map the asteroid and measure non-gravitational forces on the orbit.",
 	"image_url": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/osiris-rex-mission-logo12_copy.png",
-	"funding_level": "New Frontiers"
+	"funding_level": "New Frontiers",
+	"mission_bundle": "urn:nasa:pds:orex.mission"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.messenger",
@@ -9898,7 +9899,8 @@
 	"display_name": "OSIRIS-REx Laser Altimeter (OLA)",
 	"display_description": "The OLA is designed to measure the shape of asteroid Bennu at high spatial resolution to provide insights into the geology, origin, and evolution of the asteroid.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:orex.ola"
 },{
 	"tags": [
 		"Spectrometer"
@@ -9907,7 +9909,8 @@
 	"display_name": "OSIRIS-REx Thermal Emission Spectrometer (OTES)",
 	"display_description": "The OTES is designed to make hyperspectral thermal infrared measurements of asteroid Bennu to study mineralogy and themophysical properties, help select a sampling site, and investigate the Yarkovsky effect.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:orex.otes"
 },{
 	"tags": [
 		"Spectrometer"
@@ -9916,7 +9919,8 @@
 	"display_name": "OSIRIS-REx Visible and Near Infrared Spectrometer (OVIRS)",
 	"display_description": "The OVIRS is designed to provide spectral maps of inorganic and organic substances on the surface of asteroid Bennu.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:orex.ovirs"
 },{
 	"tags": [
 		"Spectrometer"
@@ -9925,7 +9929,8 @@
 	"display_name": "OSIRIS-REx REgolith X-Ray Imaging Spectrometer (REXIS)",
 	"display_description": "The REXIS is a Student Collaboration Experiment developed and run by four groups at universities. It is designed to study the surface elemental composition and elemental distribution of the asteroid Bennu using solar induced X-ray flourescence.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:orex.rexis"
 },{
 	"tags": [
 		"Imager"
@@ -9934,7 +9939,8 @@
 	"display_name": "OSIRIS-REx Camera Suite (OCAMS)",
 	"display_description": "The OSIRIS-REX Camera Suite (OCAMS) is a set of three cameras designed to image asteroid Bennu from different distances at different resolutions. PolyCam is a long-range camera designed to image the asteroid from a distance up to two million km. MapCam provides high-resolution maps of the asteroid's surface, and SamCam documents the maneuvers and acquisition by the TAGSAM sampling system. All cameras use identical detector arrays but have focal lengths separated by a factor of 5. The detector is a 1024 x 1024 active pixel CCD array with 6.5 x 8.5 micron pixels.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:orex.ocams"
 },{
 	"tags": [
 		"Imager",
@@ -9944,7 +9950,8 @@
 	"display_name": "OSIRIS-REx Touch-and-Go Camera Suite (TAGCAMS)",
 	"display_description": "The Touch-and-Go Camera System (TAGCAMS) is part of the guidance, navigation, and control system on OSIRIS-REx, and provides imaging to aid in navigation to and around Bennu, to aid in sample acquisition, and to confirm sample stowage. \nTAGCAMS consists of two redundant Navigation Cameras, or “NavCams,” and the single “StowCam.”",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:orex.tagcams"
 },{
 	"tags": [
 		"Spacecraft Monitor"
@@ -13894,28 +13901,28 @@
 	"target": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"instrument": "urn:nasa:pds:context:instrument:rexis.orex",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"instrument": "urn:nasa:pds:context:instrument:ocams.orex",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"instrument": "urn:nasa:pds:context:instrument:ovirs.orex",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"instrument": "urn:nasa:pds:context:instrument:tagcams.orex",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"instrument": "urn:nasa:pds:context:instrument:otes.orex",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"instrument": "urn:nasa:pds:context:instrument:ola.orex",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.hay",
