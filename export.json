@@ -9641,7 +9641,8 @@
 	"display_name": "Insight Rotation and Interior Structure Experiment",
 	"display_description": "The RISE instrument utilizes the X-band telecommunications capability of the InSight lander in combination with the coherent Doppler tracking equipment at the Deep Space Network (DSN) to perform radio science experiments to determine the precession and nutation of the Martian spin axis.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:insight_rise_raw"
 },{
 	"tags": [
 		"Imager"
@@ -9650,7 +9651,8 @@
 	"display_name": "Insight Instrument Deployment Camera",
 	"display_description": "The InSight Deployment Camera (IDC) instrument has a narrow angle lens and is mounted near the elbow of the robotic arm. It can be articulated by moving the arm and elbow. Stereo imagery is achieved by taking a pair of images with known separation and sufficient overlap. The IDC’s optics are based on Mars Science Laboratory’s Navcam instrument. Images from the IDC are structured the same as images from the InSight Context Camera (ICC), and are treated similarly by both the flight software (FSW) and the ground system (GDS).",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:insight_cameras"
 },{
 	"tags": [
 		"Magnetometer"
@@ -9696,7 +9698,8 @@
 	"display_name": "InSight Radiometer",
 	"display_description": "The InSight radiometer is associated with the Heat Flow and Physical Properties Package (HP3). It is designed to measurement surface temperature in support of HP3 in determining the subsurface temperature profile. The radiometer is mounted on the lander. It measures the radioactive flux in three infrared bands.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:insight_rad"
 },{
 	"tags": [
 		"Imager"
@@ -9705,16 +9708,18 @@
 	"display_name": "Insight Instrument Context Camera",
 	"display_description": "The InSight Context Camera (ICC) instrument is fix-mounted on the body of the lander with a wide angle lens and a view of the arm workspace and some of the sky. The ICC’s optics are based on Mars Science Laboratory’s Hazcam instrument. Images from the ICC are structured the same as images from the InSight Deployment Camera (IDC), and are treated similarly by both the flight software (FSW) and the ground system (GDS).  Because of the fixed nature of the camera, stereo is not possible with ICC.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:insight_cameras"
 },{
 	"tags": [
-		"seismometer"
+		"Seismometer"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:seis.insight",
 	"display_name": "Insight Seismic Experiment for Interior Structure",
 	"display_description": "The Seismic Experiment for Interior Structure (SEIS) on InSight will collect precise measurements of quakes and other internal activity on Mars to better understand the planet's internal structure and meteorite flux. The instrument includes two independent 3-axis seismometers: a Very Broad Band (VBB) and a Short Period (SP) seismometer. The instrument package is deployed onto the surface and is covered by a thermal and wind shield to protect the instrument from thermal and wind induced noise. The package is connected to the lander by a flexible cable tether.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:insight_seis"
 },{
 	"tags": [
 		"Robotic Arm"
@@ -9723,7 +9728,8 @@
 	"display_name": "Insight Instrument Deployment Arm",
 	"display_description": "The InSight Instrument Deployment Arm (IDA) has two primary objectives, to point the Instrument Deployment Camera (IDC) for imaging of the terrain surrounding the lander, and to deploy the InSight science instruments from the lander deck to the Martian surface. The IDA has a 4-degree-of-freedom back-hoe design, with the IDC mounted on the forearm, a grapple for lifting the science instruments, and a scoop for digging and scraping the Martian regolith.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:insight_ida"
 },{
 	"tags": [
 		"Imager"
@@ -13256,6 +13262,9 @@
 },{
 	"name": "Converted",
 	"type": "datasets"
+},{
+	"name": "Seismometer",
+	"type": "instruments"
 }],"objectRelationships": [{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ladee",
 	"instrument": "urn:nasa:pds:context:instrument:instrument.ldex__ladee",
@@ -14169,12 +14178,12 @@
 	"instrument": "urn:nasa:pds:context:instrument:instrument.uvs__ladee",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"instrument": "urn:nasa:pds:context:instrument:rise.insight",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"instrument": "urn:nasa:pds:context:instrument:idc.insight",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
@@ -14193,20 +14202,20 @@
 	"instrument": "urn:nasa:pds:context:instrument:apss-twins.insight",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"instrument": "urn:nasa:pds:context:instrument:radiometer.insight",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"instrument": "urn:nasa:pds:context:instrument:icc.insight",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"instrument": "urn:nasa:pds:context:instrument:seis.insight",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"instrument": "urn:nasa:pds:context:instrument:ida.insight",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
 	"relationshipId": "aa062359-fd6c-4d5f-8118-1aa589823d04"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.insight",
