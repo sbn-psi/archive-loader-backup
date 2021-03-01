@@ -1,6 +1,5 @@
 {"datasets": [{
 	"tags": [
-		"asteroid",
 		"Spacecraft",
 		"Images"
 	],
@@ -11,7 +10,7 @@
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases."
 	},
-	"example": null,
+	"example": {},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx TAGCAMS Bundle",
