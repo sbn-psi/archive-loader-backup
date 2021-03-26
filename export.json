@@ -6106,6 +6106,11 @@
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.kaguya",
 	"display_name": "Kaguya (SELENE)",
 	"display_description": "SELENE (Selenological and Engineering Explorer) was Japan's second lunar probe. It was renamed Kaguya, or Moon Princess, after launch as a result of a public poll. The mission's goal was to orbit the Moon to collect data on the origins and geological evolution of the Moon, to study the lunar surface environment, and to carry out radio science experiments. In addition to the main orbiter, Kaguya, the mission included two small spin-stabilized sub-satellites. These were the Relay Satellite (Rstar) and the VRAD satellite (Vstar). Upon launch, they were renamed Okina and Ouna, which mean \"honorable elderly man\" and \"honorable elderly woman,\" respectively."
+},{
+	"tags": [],
+	"logical_identifier": "urn:nasa:pds:context:investigation:individual.none",
+	"display_name": "Non-Mission",
+	"display_description": "For investigations with no specific investigator or mission, e.g. catalogs."
 }],"spacecraft": [{
 	"tags": [
 		"Flyby"
