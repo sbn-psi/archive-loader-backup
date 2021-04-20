@@ -48,7 +48,7 @@
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases."
 	},
 	"example": {
-		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/df748a70-09a6-11eb-b89e-39d6a91337df.png"
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/f034e3b0-a16c-11eb-bccf-5b83a1dfbaa4.jpg"
 	},
 	"related_data": [
 		{
@@ -93,7 +93,8 @@
 	},
 	"example": {
 		"filename": "20170922T231714S379_pol_iofL2pan_V017.fits",
-		"url": "https://sbnarchive.psi.edu/pds4/orex/orex.ocams/data_calibrated/ega/20170922T231714S379_pol_iofL2pan_V017.fits"
+		"url": "https://sbnarchive.psi.edu/pds4/orex/orex.ocams/data_calibrated/ega/20170922T231714S379_pol_iofL2pan_V017.fits",
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/727aa6c0-a16d-11eb-bccf-5b83a1dfbaa4.jpg"
 	},
 	"related_data": [
 		{
@@ -211,14 +212,17 @@
 		"asteroid",
 		"image"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases."
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/bf2d3ea0-a16e-11eb-bccf-5b83a1dfbaa4.jpg",
+		"filename": "20170801T154519S305_pol_L0sscal"
+	},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OCAMS Documents",
@@ -239,6 +243,7 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ocams:data_raw::3.0",
 	"display_name": "OSIRIS-REx OCAMS raw science image data products",
 	"display_description": "\n            This collection contains the raw (processing level 0) science image data products produced by the OCAMS instrument onboard the OSIRIS-REx spacecraft.\n            ",
@@ -250,14 +255,17 @@
 		"asteroid",
 		"image"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases."
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/89e8a8a0-a16f-11eb-bccf-5b83a1dfbaa4.jpg",
+		"filename": "20191112T232502S384_map_L1pan"
+	},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OCAMS Documents",
@@ -278,6 +286,7 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ocams:data_reduced::3.0",
 	"display_name": "OSIRIS-REx OCAMS reduced science image data products",
 	"display_description": "\n            This collection contains the reduced (processing level 1 - bias, dark and flat field corrected) science image data products produced by the OCAMS instrument onboard the OSIRIS-REx spacecraft.\n            ",
@@ -1578,14 +1587,17 @@
 		"asteroid",
 		"image"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {
+		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/04de2ad0-a170-11eb-bccf-5b83a1dfbaa4.jpg",
+		"filename": "20191030T210104S993_ncm_L0"
+	},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx TAGCAMS Documents",
@@ -1602,6 +1614,7 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.tagcams:data_raw::2.0",
 	"display_name": "OSIRIS-REx TAGCAMS raw image observational data products",
 	"display_description": "\n            This collection contains the raw images produced by the TAGCAMS instrument suite onboard the OSIRIS-REx spacecraft.\n            These images were acquired for optical navigation, natural feature tracking, or sample stowage documentation.\n            ",
@@ -3208,6 +3221,129 @@
 	"target_name": "(1014) Semphyra",
 	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
 	"instrument_lid": "urn:nasa:pds:context:instrument:telescope.spex.irtf3m0"
+},{
+	"tags": [
+		"Asteroid"
+	],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes::9.0",
+	"display_name": "OSIRIS-REx Thermal Emission Spectrometer (OTES) Bundle",
+	"display_description": "\n                This bundle collects all the operational data products produced by the OSIRIS-REx Thermal Emission (OTES).\n                OTES is used for the spectral characterization of the surface of (101955) Bennu.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+},{
+	"tags": [
+		"Asteroid"
+	],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes:data_calibrated::9.0",
+	"display_name": "OSIRIS-REx OTES Data Calibrated",
+	"display_description": "\n            This collection contains the calibrated spectra acquired by the  OSIRIS-REx Thermal Emission Spectrometer (OTES).\n            ",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+},{
+	"tags": [
+		"Asteroid"
+	],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes:data_converted::9.0",
+	"display_name": "OSIRIS-REx OTES Data Converted",
+	"display_description": "\n            This collection contains the voltage interferograms acquired by the  OSIRIS-REx Thermal Emission Spectrometer (OTES).\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes:data_engl0::9.0",
+	"display_name": "OSIRIS-REx OTES Data Raw Engineering",
+	"display_description": "\n            This collection contains the raw engineering data acquired by the  OSIRIS-REx Thermal Emission Spectrometer (OTES). Data are grouped by day.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes:data_engl1::9.0",
+	"display_name": "OSIRIS-REx OTES Data Converted Engineering",
+	"display_description": "\n            This collection contains the engineering data converted to physical units acquired by the  OSIRIS-REx Thermal Emission Spectrometer (OTES). Data are grouped by day.\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes:data_raw::9.0",
+	"display_name": "OSIRIS-REx OTES Data Raw",
+	"display_description": "\n            This collection contains the raw interferograms acquired by the  OSIRIS-REx Thermal Emission Spectrometer (OTES).\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes:document::8.0",
+	"display_name": "OSIRIS-REx OTES Document",
+	"display_description": "\n            This collection contains the documents applicable to the OSIRIS-REx Thermal Emission Spectrometer (OTES) documents.\n            ",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.otes:geometry::9.0",
+	"display_name": "OSIRIS-REx OTES Geometry",
+	"display_description": "\n            This collection contains the geometric calculations applicable to the science measurements acquired by the  OSIRIS-REx Thermal Emission Spectrometer (OTES).\n            ",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
+	"target_name": "(101955) Bennu",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
@@ -13689,6 +13825,12 @@
 },{
 	"name": "Seismometer",
 	"type": "instruments"
+},{
+	"name": "image",
+	"type": "datasets"
+},{
+	"name": "Spectrometer",
+	"type": "datasets"
 }],"objectRelationships": [{
 	"instrument": "urn:nasa:pds:context:instrument:instrument.ldex__ladee",
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.ladee",
