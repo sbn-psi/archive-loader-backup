@@ -6226,7 +6226,11 @@
 	"image_url": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/osiris-rex-mission-logo12_copy.png",
 	"funding_level": "New Frontiers",
 	"mission_bundle": "urn:nasa:pds:orex.mission",
-	"tools": []
+	"tools": [
+		{
+			"toolId": 1
+		}
+	]
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.messenger",
