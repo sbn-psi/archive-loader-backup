@@ -5862,7 +5862,9 @@
 	"display_name": "Pioneer 11",
 	"display_description": "NASA's Pioneer 11, a sister spacecraft to Pioneer 10, was the first spacecraft to study Saturn up close. The mission ended in 1995 and Pioneer 11 is on a trajectory to take it out of the solar system.\n\nPioneer 11 is one of five spacecraft on a trajectory that will take them out of our solar system.\nPioneer 11 will pass near the star Lambda Aquila in almost four million years.\nLike Pioneer 10 and Voyager 1 and 2, Pioneer 11 carries a message from humanity to the cosmos.",
 	"image_url": "https://nssdc.gsfc.nasa.gov/image/spacecraft/pioneer_patch.jpg",
-	"tools": []
+	"tools": [],
+	"start_date": "1973-04-06T00:00:00.000Z",
+	"end_date": "1995-09-30T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mariner69",
@@ -5875,14 +5877,19 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/mariner/index.htm"
 		}
-	]
+	],
+	"start_date": "1969-02-25T00:00:00.000Z",
+	"end_date": "1970-12-28T00:00:00.000Z"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mariner71",
 	"display_name": "Mariner 9",
 	"display_description": "On November 14, 1971, Mariner 9 became the first spacecraft to orbit another planet. Six experiments were carried as part of the science payload: television, ultraviolet spectrometer, infrared spectroscopy, infrared radiometry, S-band occultation and celestial mechanics. Two experiments (S-band occultation and celestial mechanics) utilized the radio telemetry subsystem to derive data; the other required specially developed instruments, mounted, and boresighted to each other, on the spacecraft's scan platform. Pre-launch mission planning encompassed two separate, but complementary, missions. The orbit of each spacecraft was optimized to match the corresponding objective. The mapping mission was designed with an Earth-synchronous orbit (about a 12-hr periods) to maximize antenna utilization, or communications efficiency. For maximum surveillance of an area, it was designed with a steep inclination (80 degrees) to the equatorial plane of Mars. The dynamic objective dictated a Mars-synchronous (or sub-synchronous) orbit and a lower (50 degree) inclination for closer observations of specific areas. The plans for the two missions were in detailed stages of development on May 9, 1971 when Mariner 8 was lost because of guidance difficulties in the second stage of the launch vehicle. It was determined that an orbit for a single-spacecraft mission could be developed to meet all basic mission and specific science objectives. A single-spacecraft plan, involving an inclination of 65 degrees, a period of about 12 hours, a periapsis altitude of 1350 Km, and an arrival date of November 14, 1971, was evaluated and formalized in 2 weeks.",
 	"image_url": "https://www.jpl.nasa.gov/missions/web/mariner9.jpg",
 	"funding_level": "N/A",
-	"tools": []
+	"tools": [],
+	"start_date": "1971-05-30T00:00:00.000Z",
+	"end_date": "1972-10-27T00:00:00.000Z"
 },{
 	"tags": [],
 	"display_name": "Viking 1 and 2",
@@ -5902,15 +5909,21 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/vlander/index.htm"
 		}
-	]
+	],
+	"start_date": "1975-08-20T00:00:00.000Z",
+	"end_date": "1983-05-21T00:00:00.000Z"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_observer",
 	"display_name": "Mars Observer",
 	"display_description": "Mars Observer was launched September 25, 1992 from Cape Canaveral on a Titan III built by Martin Marietta Corporation, with an upper Transfer Orbit Stage from Orbital Sciences Corporation. On August 21, 1993, flight controllers lost contact with the Mars Observer spacecraft when an expected transmission that was part of the pre-Mars-Orbit-Insertion sequence failed to occur. Subsequent attempts to re-establish communication with the spacecraft proved unsuccessful. After the 11-month transit the spacecraft was to be injected into an elliptical orbit around Mars with periapsis near the north pole. The orbit would then be adjusted through a series of maneuvers to a near-circular, sun-synchronous (2 am/pm), low altitude, near-polar orbit. Due to the non-uniformity of the gravity field, the altitude was to vary from 376 km near the south pole to 430 km near the north pole. During the Martian year in this mapping orbit the instruments were to acquire data in a systematic program of global mapping. At the end of the mission the spacecraft could have been boosted to a permanent quarantine orbit. The Mars orbit insertion (MOI) period was to end one month before solar conjunction and the beginning of the dust storm period. The playback data rate for a 10-hour link would vary by a factor of 4 with Earth-Mars distance during the mission. The continuous data rate to the tape recorders was about one fifth the playback rate for a 10-hour link to a 34 m NASA Deep Space Network tracking station. The normal sequence of collecting scientific data would be to record continuously for 24 hours and then to play the data back in one 10-hour link. The mapping orbit would be a 117-minute orbit with a 7-day repeat cycle. As a result, the planet would be repeatedly mapped in 26-day cycles with a 58.6 km nominal path separation. Orbit trim adjustments would make it possible to obtain uniform coverage during the course of the mission with an ultimate spacing of ground tracks at the equator or 3.1 km. The Mars Observer spacecraft provided a three-axis stabilized, nadir-oriented platform for the continuous observations of Mars by the science instruments. The spacecraft was built by the General Electric Astro-Space Division. The Gamma Ray Spectrometer and Magnetometer sensor assemblies were mounted on individual booms on the spacecraft. All other instruments were rigidly mounted to the spacecraft structure. No movable scan platform was provided; the spacecraft was to be continuously nadir pointed, rotating at the orbital rate. Those instruments that required scanning or multiple fields of view had internal scanning mechanisms.",
 	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/mars_observer.png",
 	"funding_level": "Flagship",
-	"tools": []
+	"tools": [],
+	"start_date": "1992-09-25T00:00:00.000Z",
+	"end_date": "1993-08-21T00:00:00.000Z"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_global_surveyor",
 	"display_name": "Mars Global Surveyor",
 	"display_description": "The Mars Global Surveyor orbiter, which operated on Mars for more than nine years, was designed to study the composition of Mars, map its topography and monitor weather patterns. The orbiter made a number of discoveries about the Red Planet, including evidence of liquid water at or near the Martian surface. \n\nObservations from the Mars Global Surveyor, especially its identifications of water-related minerals, were used to determine drive routes for the Mars Exploration Rover Opportunity in 2010.",
@@ -5928,8 +5941,11 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/mgs/index.htm"
 		}
-	]
+	],
+	"start_date": "1996-11-07T00:00:00.000Z",
+	"end_date": "2006-11-02T00:00:00.000Z"
 },{
+	"tags": [],
 	"display_name": "Mars Pathfinder / Sojourner",
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_pathfinder",
 	"funding_level": "Discovery",
@@ -5944,7 +5960,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/mpf/index.htm"
 		}
-	]
+	],
+	"start_date": "1996-12-03T00:00:00.000Z",
+	"end_date": "1997-09-27T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.2001_mars_odyssey",
@@ -5964,8 +5982,10 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/odyssey/index.htm"
 		}
-	]
+	],
+	"start_date": "2001-04-07T00:00:00.000Z"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.ladee",
 	"display_name": "LADEE",
 	"display_description": "The Lunar Atmosphere and Dust Environment Explorer (LADEE) was a robotic mission that, from low lunar orbit, gathered detailed information about the lunar atmosphere, conditions near the surface and environmental influences on lunar dust.  LADEE was launched in September 2013 and carried out lunar orbital operations for 223 days, concluding when the spacecraft was decommissioned by impact into the moon in April 2014.",
@@ -5976,8 +5996,10 @@
 			"toolId": 6,
 			"directUrl": "https://ode.rsl.wustl.edu/moon/index.aspx"
 		}
-	]
+	],
+	"start_date": "2013-09-06T00:00:00.000Z"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.voyager",
 	"display_name": "Voyager",
 	"display_description": "The twin Voyager 1 and 2 spacecraft are exploring where nothing from Earth has flown before. Continuing on their more-than-40-year journey since their 1977 launches, they each are much farther away from Earth and the sun than Pluto. In August 2012, Voyager 1 made the historic entry into interstellar space, the region between stars, filled with material ejected by the death of nearby stars millions of years ago. Voyager 2 entered interstellar space on November 5, 2018 and scientists hope to learn more about this region. Both spacecraft are still sending scientific information about their surroundings through the Deep Space Network, or DSN.\n\nThe primary mission was the exploration of Jupiter and Saturn. After making a string of discoveries there — such as active volcanoes on Jupiter's moon Io and intricacies of Saturn's rings — the mission was extended. Voyager 2 went on to explore Uranus and Neptune, and is still the only spacecraft to have visited those outer planets. The adventurers' current mission, the Voyager Interstellar Mission (VIM), will explore the outermost edge of the Sun's domain. And beyond.",
@@ -5995,7 +6017,8 @@
 			"toolId": 5,
 			"directUrl": "https://opus.pds-rings.seti.org/opus/#/mission=Voyager&cols=opusid,instrument,planet,target,time1,observationduration&widgets=mission,planet,target&order=time1,opusid&view=search&browse=gallery&cart_browse=gallery&startobs=1&cart_startobs=1&detail="
 		}
-	]
+	],
+	"start_date": "1997-09-05T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
@@ -6015,7 +6038,9 @@
 			"toolId": 5,
 			"directUrl": "https://opus.pds-rings.seti.org/opus/#/mission=Cassini&cols=opusid,instrument,planet,target,time1,observationduration&widgets=mission,planet,target&order=time1,opusid&view=search&browse=gallery&cart_browse=gallery&startobs=1&cart_startobs=1&detail="
 		}
-	]
+	],
+	"start_date": "2017-09-15T00:00:00.000Z",
+	"end_date": "1997-10-15T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_exploration_rover",
@@ -6035,7 +6060,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/mer/index.htm"
 		}
-	]
+	],
+	"start_date": "2004-01-24T00:00:00.000Z",
+	"end_date": "2010-03-22T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_reconnaissance_orbiter",
@@ -6054,7 +6081,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/mro/default.htm"
 		}
-	]
+	],
+	"start_date": "2005-08-12T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.phoenix",
@@ -6075,7 +6103,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/phoenix/index.htm"
 		}
-	]
+	],
+	"start_date": "2007-08-04T00:00:00.000Z",
+	"end_date": "2008-11-02T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_science_laboratory",
@@ -6095,7 +6125,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/msl/index.htm"
 		}
-	]
+	],
+	"start_date": "2011-11-26T00:00:00.000Z"
 },{
 	"tags": [],
 	"image_url": "https://pdsregistryimages.psi.edu/images/public/8a5bcf10-8b71-11eb-a68a-15f5934fa28a.png",
@@ -6116,7 +6147,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/insight/index.htm"
 		}
-	]
+	],
+	"start_date": "2018-05-05T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.lunar_prospector",
@@ -6129,7 +6161,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/lunarp/index.htm"
 		}
-	]
+	],
+	"start_date": "1998-01-07T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.lunar_reconnaissance_orbiter",
@@ -6149,7 +6182,8 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/lro/default.htm"
 		}
-	]
+	],
+	"start_date": "2009-06-18T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.lunar_crater_observation_and_sensing_satellite",
@@ -6170,7 +6204,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/lcross/default.htm"
 		}
-	]
+	],
+	"start_date": "2009-06-18T00:00:00.000Z",
+	"end_date": "2009-11-09T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.gravity_recovery_and_interior_laboratory",
@@ -6182,7 +6218,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/grail/default.htm"
 		}
-	]
+	],
+	"start_date": "2011-09-10T00:00:00.000Z",
+	"end_date": "2012-12-17T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.dawn_mission_to_vesta_and_ceres",
@@ -6197,14 +6235,20 @@
 		{
 			"toolId": 2
 		}
-	]
+	],
+	"start_date": "2007-09-27T00:00:00.000Z",
+	"end_date": "2018-11-30T00:00:00.000Z"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"display_name": "Hayabusa",
 	"display_description": "The primary scientific objective of the Hayabusa (formerly Muses-C) mission was to collect a surface sample of material from the small (550 x 180 meter) asteroid 25143 Itokawa (1998 SF36) and return the sample to Earth for analysis. Other scientific objectives of the mission included detailed studies of the asteroid's shape, spin state, topography, color, composition, density, photometric and polarimetric properties, interior and history.  Hayabusa launched in May 2003 and performed orbital operations at Itokawa in Sept.-Nov. 2005.",
 	"image_url": "https://www.jpl.nasa.gov/missions/web/badge/hayabusa.jpg",
-	"tools": []
+	"tools": [],
+	"start_date": "2003-05-09T00:00:00.000Z",
+	"end_date": "2010-06-13T00:00:00.000Z"
 },{
+	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
 	"display_name": "Near Earth Asteroid Rendezvous (NEAR)",
 	"display_description": "The Near Earth Asteroid Rendezvous (NEAR) mission to the near-earth asteroid 433 Eros was launched in Feb. 1996 and carried out Eros orbital operations from Feb. 2000 through Feb. 2001.  It acquired the first comprehensive, spatially resolved measurements of the geomorphology, reflectance spectral properties, and shape of an asteroid, and X-ray and gamma-ray spectral measurements of elemental abundances from orbit and the surface. The ambient magnetic field in the vicinity of Eros was also measured.  On the way to Eros, the spacecraft also performed a flyby of the asteroid 253 Mathilde in June 1997, obtaining image data and a mass determination.",
@@ -6217,7 +6261,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/near/index.htm"
 		}
-	]
+	],
+	"start_date": "1996-02-17T00:00:00.000Z",
+	"end_date": "2001-02-28T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.orex",
@@ -6230,7 +6276,9 @@
 		{
 			"toolId": 1
 		}
-	]
+	],
+	"start_date": "2016-09-16T00:00:00.000Z",
+	"end_date": "2023-09-01T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.messenger",
@@ -6249,7 +6297,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/messenger/index.htm"
 		}
-	]
+	],
+	"start_date": "2004-08-03T00:00:00.000Z",
+	"end_date": "2015-04-30T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_space_program_science_experiment",
@@ -6268,27 +6318,36 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/clementine/default.htm"
 		}
-	]
+	],
+	"start_date": "1994-01-25T00:00:00.000Z",
+	"end_date": "1994-05-07T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_impact",
 	"display_name": "Deep Impact",
 	"display_description": "The goal of the Deep Impact mission was to understand the physical and chemical properties of a comet as a function of depth below the surface.   The mission delivered an impactor spacecraft onto the nucleus of 9P/Tempel 1. It was launched on January, 12, 2005.",
 	"funding_level": "$240 million",
-	"tools": []
+	"tools": [],
+	"start_date": "2005-01-12T00:00:00.000Z",
+	"end_date": "2005-07-04T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.epoxi",
 	"display_name": "Deep Impact EPOXI",
 	"display_description": "Deep Impact EPOXI is the compilation of the two extended missions for the Deep Impact spacecraft. The first is called Deep Impact Extended Investigation (DIXI) and Extrasolar Planet Observation and Characterization (EPOCh). As part of the DIXI mission, the spacecraft flew by comet Hartley 2. As part of the EPOCh mission, the spacecraft used the larger of its two telescopes to find extrasolar planets using the transit method.",
-	"funding_level": "$40 million"
+	"funding_level": "$40 million",
+	"tools": [],
+	"start_date": "2005-01-12T00:00:00.000Z",
+	"end_date": "2013-09-20T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.deep_space_1",
 	"display_name": "Deep Space 1",
 	"display_description": "Deep Space was a demonstration spacecraft to test advanced technologies. It was launched on October 24, 1998. It took images and spectra of all the comets and asteroids that it was sent. There were twelve technologies that were tested.",
 	"funding_level": "New Millennium",
-	"tools": []
+	"tools": [],
+	"start_date": "1998-11-24T00:00:00.000Z",
+	"end_date": "2001-12-18T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.galileo",
@@ -6304,20 +6363,26 @@
 			"toolId": 5,
 			"directUrl": "https://opus.pds-rings.seti.org/opus/#/mission=Galileo&cols=opusid,instrument,planet,target,time1,observationduration&widgets=mission,planet,target&order=time1,opusid&view=search&browse=gallery&cart_browse=gallery&startobs=1&cart_startobs=1&detail="
 		}
-	]
+	],
+	"start_date": "1989-11-18T00:00:00.000Z",
+	"end_date": "2003-09-21T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.giotto",
 	"display_name": "Giotto",
 	"display_description": "The Giotto was a spacecraft that part of the Halley Armada to study comet Halley in 1986. The role of Giotto in the armada was to approach close to the nucleus of the comet to take images and measurements.",
-	"tools": []
+	"tools": [],
+	"start_date": "1985-07-02T00:00:00.000Z",
+	"end_date": "1992-07-23T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.international_cometary_explorer",
 	"display_name": "International Cometary Explorer",
 	"display_description": "The International Cometary Explorer (ICE) became part of the Halley Armada to study comet Halley in 1986. It was first place in the Earth-Sun L1 position under the name of International Sun/Earth Explorer 3 (ISEE-3). It was to study the Sun-Earth relationship beyond the Earth's magnetosphere. As the part of the armada, it went through the tail of Halley to collect data. In 2014, a crowdfunding group tried to use it for another comet pass, but it lost contact with the spacecraft.",
 	"funding_level": "$3 million",
-	"tools": []
+	"tools": [],
+	"start_date": "1978-08-12T00:00:00.000Z",
+	"end_date": "2014-09-16T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.juno",
@@ -6329,7 +6394,8 @@
 			"toolId": 3,
 			"directUrl": "https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&fq=ATLAS_MISSION_NAME%3Ajuno&q=*%3A*"
 		}
-	]
+	],
+	"start_date": "2011-08-05T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.magellan",
@@ -6345,7 +6411,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/magellan/index.htm"
 		}
-	]
+	],
+	"start_date": "1989-05-04T00:00:00.000Z",
+	"end_date": "1994-11-13T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mariner_10",
@@ -6360,13 +6428,17 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/mariner/index.htm"
 		}
-	]
+	],
+	"start_date": "1973-11-03T00:00:00.000Z",
+	"end_date": "1975-03-24T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.maven",
 	"display_name": "Mars Atmosphere and Volatile Evolution (MAVEN)",
 	"display_description": "The Mars Atmosphere and Volatile Evolution (MAVEN) spacecraft was sent to Mars to study the atmosphere. It was launched on November 18, 2013. It would study the loss of volatiles, current state of the upper atmosphere, rate of escape for the gases, and ratios of stable isotopes. In 2017, the orbit was changed to be part of the communications relay for Mars.",
-	"funding_level": "Mars Scout ($485 million)"
+	"funding_level": "Mars Scout ($485 million)",
+	"tools": [],
+	"start_date": "2013-11-18T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.new_horizons",
@@ -6385,21 +6457,26 @@
 			"toolId": 5,
 			"directUrl": "https://opus.pds-rings.seti.org/opus/#/mission=New+Horizons&cols=opusid,instrument,planet,target,time1,observationduration&widgets=mission,planet,target&order=time1,opusid&view=search&browse=gallery&cart_browse=gallery&startobs=1&cart_startobs=1&detail="
 		}
-	]
+	],
+	"start_date": "2006-01-19T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.international_rosetta_mission",
 	"display_name": "International Rosetta Mission/ Philae",
 	"display_description": "The Rosetta mission was launched on March 2, 2004. It was to do a detailed study of comet Churyumov-Gerasimenko. It was the first spacecraft to orbit a comet, and to have a lander on a comet.",
 	"funding_level": "Cornerstone (Horizon 2000)",
-	"tools": []
+	"tools": [],
+	"start_date": "2004-03-02T00:00:00.000Z",
+	"end_date": "2019-09-30T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_10",
 	"display_name": "Pioneer 10",
 	"display_description": "Pioneer 10 was the first spacecraft that went to Jupiter. It was also the first spacecraft to achieve escape velocity. It was launched on March 2, 1972. It was at 80 AU from Earth when it lost contact.",
 	"funding_level": "$350 million",
-	"tools": []
+	"tools": [],
+	"start_date": "1972-03-02T00:00:00.000Z",
+	"end_date": "2003-01-23T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_venus",
@@ -6411,21 +6488,27 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/premgn/index.htm"
 		}
-	]
+	],
+	"start_date": "1978-05-20T00:00:00.000Z",
+	"end_date": "1992-11-08T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.stardust",
 	"display_name": "Stardust",
 	"display_description": "The Stardust is a spacecraft that was the first sample return mission. It collected dust from the coma of the comet. It was launched on February 7, 1999. It got an extended mission to Tempel 1.",
 	"funding_level": "Discovery",
-	"tools": []
+	"tools": [],
+	"start_date": "1999-02-07T00:00:00.000Z",
+	"end_date": "2011-03-24T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.ulysses",
 	"display_name": "Ulysses",
 	"display_description": "The Ulysses main mission was to study the Sun. It was launch on Space Shuttle Discovery on October 6, 1990. It needed to use Jupiter in a gravity assist to get into an orbit that was about 80 degrees inclination to the ecliptic. It passed through a few comet tails.",
 	"funding_level": "$756 million",
-	"tools": []
+	"tools": [],
+	"start_date": "1990-11-06T00:00:00.000Z",
+	"end_date": "2009-06-30T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.mars_express",
@@ -6440,28 +6523,35 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/mars_express/default.htm"
 		}
-	]
+	],
+	"start_date": "2003-06-02T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.phobos_2",
 	"display_name": "Phobos 2",
 	"display_description": "The Phobos 2 was launched on July 12, 1988. It was designed to study the satellites of Mars. It had two landers with it. The spacecraft was able to take images of Phobos and measurements of the Marian atmosphere before its signal was lost.",
 	"funding_level": "$480 million",
-	"tools": []
+	"tools": [],
+	"start_date": "1988-12-07T00:00:00.000Z",
+	"end_date": "1989-03-27T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.sakigake",
 	"display_name": "Sakigake",
 	"display_description": "The Sakigake spacecraft was part of the Halley Armada. It was to study the interplanetary plasma and magnetic field. It was launched on January 7, 1985.",
 	"funding_level": "n/a",
-	"tools": []
+	"tools": [],
+	"start_date": "1985-01-08T00:00:00.000Z",
+	"end_date": "1999-01-07T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.suisei",
 	"display_name": "Suisei",
 	"display_description": "The Suisei spacecraft was part of the Halley Armada. The main objective was to take UV images of the corona of comet. It was launched on August 18, 1985.",
 	"funding_level": "n/a",
-	"tools": []
+	"tools": [],
+	"start_date": "1985-08-18T00:00:00.000Z",
+	"end_date": "1991-02-22T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.venera_15_and_16",
@@ -6473,28 +6563,36 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/venera/index.htm"
 		}
-	]
+	],
+	"start_date": "1983-06-02T00:00:00.000Z",
+	"end_date": "1985-06-13T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.vega_1",
 	"display_name": "Vega 1",
 	"display_description": "Vega 1 was launch on December 15, 1984. It was sent to Venus to study the atmosphere and surface. The lander was unable to provide a data. The two balloons were deployed on the dark side and stayed in the zone that is most Earth-like. This spacecraft was part of the Halley Armada. It left Venus to have the encounter to get measurements of the comet and its nucleus.",
 	"funding_level": "n/a",
-	"tools": []
+	"tools": [],
+	"start_date": "1984-12-01T00:00:00.000Z",
+	"end_date": "1987-01-30T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.vega_2",
 	"display_name": "Vega 2",
 	"display_description": "Vega 1 was launch on December 21, 1984. It was sent to Venus to study the atmosphere and surface. The lander studied the atmosphere as it descended and the surface. The two balloons were deployed on the dark side and stayed in the zone that is most Earth-like. This spacecraft was part of the Halley Armada. It left Venus to have the encounter to get measurements of the comet and its nucleus. Afterwards, it measured dust from other comets.",
 	"funding_level": "n/a",
-	"tools": []
+	"tools": [],
+	"start_date": "1984-12-21T00:00:00.000Z",
+	"end_date": "1987-03-24T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.venus_express",
 	"display_name": "Venus Express",
 	"display_description": "The Venus Express spacecraft was sent to Venus to study the atmosphere for a longer period than before. It was launched on November 9, 2005. It was also able to make global maps of the surface temperatures. It was able to provide observations of Earth that are used to help develop methods to studying habitability of exoplanets.",
 	"funding_level": "$262 million",
-	"tools": []
+	"tools": [],
+	"start_date": "2005-11-09T00:00:00.000Z",
+	"end_date": "2014-12-16T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.chandrayaan-1",
@@ -6513,7 +6611,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/chandrayaan1/default.htm"
 		}
-	]
+	],
+	"end_date": "2009-08-28T00:00:00.000Z",
+	"start_date": "2008-10-22T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_12",
@@ -6529,7 +6629,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/apollo/index.htm"
 		}
-	]
+	],
+	"start_date": "1969-11-14T00:00:00.000Z",
+	"end_date": "1969-11-24T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_14",
@@ -6545,7 +6647,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/apollo/index.htm"
 		}
-	]
+	],
+	"start_date": "1971-01-31T00:00:00.000Z",
+	"end_date": "1971-02-09T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_15",
@@ -6561,7 +6665,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/apollo/index.htm"
 		}
-	]
+	],
+	"start_date": "1971-07-26T00:00:00.000Z",
+	"end_date": "1971-08-07T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_16",
@@ -6577,7 +6683,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/apollo/index.htm"
 		}
-	]
+	],
+	"start_date": "1972-04-16T00:00:00.000Z",
+	"end_date": "1972-04-27T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.apollo_17",
@@ -6593,20 +6701,27 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/apollo/index.htm"
 		}
-	]
+	],
+	"start_date": "1972-12-07T00:00:00.000Z",
+	"end_date": "1972-12-19T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.contour_mission",
 	"display_name": "Comet Nucleus Tour Mission",
 	"display_description": "The Comet Nucleus Tour (CONTOUR) was a supposed to flyby two comet nuclei. It was launched on July 3, 2002. Communication was lost on August 15, 2002. It did help provide some navigation techniques for spacecraft.",
 	"funding_level": "Discovery",
-	"tools": []
+	"tools": [],
+	"start_date": "2002-07-03T00:00:00.000Z",
+	"end_date": "2002-08-15T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.iue",
 	"display_name": "International Ultraviolet Explorer (IUE)",
 	"display_description": "The International Ultraviolet Explorer (IUE) is an UV spectra observatory satellite. It was launched on January 26, 1978. It was able to observations on objects that included Solar System bodies.",
-	"funding_level": "n/a"
+	"funding_level": "n/a",
+	"tools": [],
+	"start_date": "1978-01-26T00:00:00.000Z",
+	"end_date": "1996-09-30T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.midcourse_space_experiment",
@@ -6618,7 +6733,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/MSX/index.htm"
 		}
-	]
+	],
+	"start_date": "1996-04-24T00:00:00.000Z",
+	"end_date": "1997-01-01T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_8",
@@ -6630,7 +6747,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/apollo/index.htm"
 		}
-	]
+	],
+	"start_date": "1967-12-13T00:00:00.000Z",
+	"end_date": "1996-08-22T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_9",
@@ -6642,7 +6761,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/apollo/index.htm"
 		}
-	]
+	],
+	"start_date": "1965-12-16T00:00:00.000Z",
+	"end_date": "1983-05-09T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.hst",
@@ -6659,7 +6780,9 @@
 			"toolId": 6,
 			"directUrl": "https://pds-geosciences.wustl.edu/missions/kaguya/index.htm"
 		}
-	]
+	],
+	"start_date": "2017-09-14T00:00:00.000Z",
+	"end_date": "2009-06-11T00:00:00.000Z"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:individual.none",
@@ -18746,6 +18869,230 @@
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.kaguya",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
+	"target": "urn:nasa:pds:context:target:star.sun",
+	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
+	"target": "urn:nasa:pds:context:target:astrophysical.gravitational_waves",
+	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.insight",
+	"target": "urn:nasa:pds:context:target:planet.mars",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.ladee",
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:star.sig_sgr",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.uranus.puck",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:star.alf_pav",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:star.bet_cen",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:calibration_field.scat_light",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:star.alf_cen",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:calibrator.plaque",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:calibration_field.dark_sky",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.neptune.larissa",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:planet.neptune",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:star.bet_cma",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:planet.uranus",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.neptune.proteus",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.uranus.titania",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.uranus.umbriel",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:calibrator.cal_lamps",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:star.alf_lyr",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.uranus.ariel",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.neptune.triton",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.uranus.miranda",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.neptune.nereid",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:satellite.uranus.oberon",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
+	"target": "urn:nasa:pds:context:target:calibration_field.sky",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.1swasp_j175207.01+373246.3",
+	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:calibrator.calibration",
+	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.wasp-3",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.ross_905",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.xo-3",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.moa_2009-blg-266",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.kepler-1",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:comet.c2009_p1_garradd",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.bd+47_2846",
+	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:planet.earth",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.xo-2",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:star.bd+36_2593",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:comet.103p_hartley_2",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:planet.mars",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
+	"target": "urn:nasa:pds:context:target:comet.c2012_s1_ison",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:satellite.jupiter.amalthea",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:calibrator.calibration",
+	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:planet.venus",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:planetary_system.solar_system",
+	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:satellite.jupiter.europa",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:planet.earth",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:satellite.jupiter.callisto",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:plasma_stream.solar_wind",
+	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:asteroid.951_gaspra",
+	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:asteroid.243_ida",
+	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:satellite.jupiter.io",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:satellite.jupiter.ganymede",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
+},{
+	"investigation": "urn:nasa:pds:context:investigation:mission.iue",
+	"target": "urn:nasa:pds:context:target:planet.jupiter",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 }],"tools": [{
 	"name": "Small Bodies Image Browser",
