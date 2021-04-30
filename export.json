@@ -5466,11 +5466,7 @@
 	"display_name": "Sponde",
 	"display_description": "Sponde, also known as Jupiter XXXVI, is a retrograde, irregular satellite of Jupiter. It was discovered by a team of astronomers from the University of Hawaii led by Scott S. Sheppard in 2001, and was named after one of the Horae (Hours), which presided over the seventh hour.  The Hours, goddesses of the time of day but also of the seasons, were daughters of Zeus (Jupiter) and Themis.  It belongs to the Pasiphae group, irregular retrograde moons orbiting Jupiter at distances ranging between 22.8 and 24.1 Gm, and with inclinations ranging between 144.5 and 158.3 degrees."
 },{
-	"tags": [
-		"Near-Earth Asteroid",
-		"Potentially Hazardous Asteroid",
-		"Cg-Type Asteroid"
-	],
+	"tags": [],
 	"tools": [],
 	"logical_identifier": "urn:nasa:pds:context:target:asteroid162173_ryugu",
 	"display_name": "162173 Ryugu",
@@ -5856,6 +5852,17 @@
 	"logical_identifier": "urn:nasa:pds:context:target:dust.dust",
 	"display_name": "DUST",
 	"display_description": "The DUST target name is used in the PDS archives to identify those\n    datasets concerned with observations of any kind of cosmic dust."
+},{
+	"tags": [
+		"Near-Earth Asteroid",
+		"Potentially Hazardous Asteroid",
+		"Cg-Type Asteroid"
+	],
+	"tools": [],
+	"logical_identifier": "urn:nasa:pds:context:target:asteroid.162173_ryugu",
+	"display_name": "162173 Ryugu",
+	"display_description": "162173 Ryugu, provisional designation 1999 JU3, is a near-Earth object and a potentially hazardous asteroid of the Apollo group. It measures approximately 1 kilometer (0.6 mi) in diameter and is a dark object of the rare spectral type Cg, with qualities of both a C-type asteroid and a G-type asteroid. In June 2018, the JAXA spacecraft, Hayabusa 2, arrived at the asteroid.[11",
+	"image_url": "https://pdsregistryimages.psi.edu/images/public/3515a650-fccc-11e9-a91e-4d7880ab36b9.jpg"
 }],"missions": [{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.pioneer_11",
@@ -5997,7 +6004,8 @@
 			"directUrl": "https://ode.rsl.wustl.edu/moon/index.aspx"
 		}
 	],
-	"start_date": "2013-09-06T00:00:00.000Z"
+	"start_date": "2013-09-06T00:00:00.000Z",
+	"mission_bundle": "urn:nasa:pds:ladee_mission_bundle"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.voyager",
@@ -8211,7 +8219,8 @@
 	"display_name": "LADEE Lunar Dust Experiment (LDEX)",
 	"display_description": "The Lunar Dust Experiment is an in situ instrument designed to characterize the dust exosphere by mapping the size and spatial distributions of dust grains in the lunar environment as a function of local time and the position of the Moon with respect to the magnetosphere of the Earth.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:ladee_ldex"
 },{
 	"tags": [
 		"Magnetometer"
@@ -8759,7 +8768,8 @@
 	"display_name": "LADEE Neutral Mass Spectrometer (NMS)",
 	"display_description": "The LADEE Neutral Mass Spectrometer (NMS) is a high sensitivity quadrupole mass spectrometer with a mass range of 2 to 150 Dalton and unit mass resolution.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:ladee_nms"
 },{
 	"tags": [
 		"Spectrometer"
@@ -8768,7 +8778,8 @@
 	"display_name": "LADEE UV Spectrometer",
 	"display_description": "The UVS instrument carried aboard the LADEE mission performed spectral characterization of the lunar atmosphere, including gases and dust at several wavelengths.  This characterization entailed measuring the relative concentrations of certain species, including Na and K, and noting the spatial and temporal distributions of those species.",
 	"is_prime": true,
-	"tools": []
+	"tools": [],
+	"instrument_bundle": "urn:nasa:pds:ladee_uvs"
 },{
 	"tags": [
 		"Ion Detector"
@@ -16785,7 +16796,7 @@
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.jno",
 	"instrument": "urn:nasa:pds:context:instrument:grav.jno",
-	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
+	"relationshipId": "6d0e8e30-aa41-4152-9c5c-ba686de18f52"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.jno",
 	"instrument": "urn:nasa:pds:context:instrument:jiram.jno",
@@ -17815,76 +17826,76 @@
 	"target": "urn:nasa:pds:context:target:satellite.saturn.daphnis",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.mars_science_laboratory",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.mars_express",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.mars_pathfinder",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.2001_mars_odyssey",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.viking",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.phoenix",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.mars_reconnaissance_orbiter",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.mars_observer",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.saturn_ring_plane_crossing_1995",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.saturn_ring_plane_crossing_1995",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.mariner69",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.phobos_2",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:planet.mars",
 	"investigation": "urn:nasa:pds:context:investigation:mission.mars_global_surveyor",
-	"target": "urn:nasa:pds:context:target:planet.mars",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.dawn_mission_to_vesta_and_ceres",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.dawn_mission_to_vesta_and_ceres",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.mars_exploration_rover",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.mars_exploration_rover",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.deep_impact",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.deep_impact",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.mariner71",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.mariner71",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.international_rosetta_mission",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.international_rosetta_mission",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.viking",
@@ -18463,8 +18474,8 @@
 	"target": "urn:nasa:pds:context:target:satellite.jupiter.callirrhoe",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"target": "urn:nasa:pds:context:target:asteroid162173_ryugu",
+	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.new_horizons",
@@ -18879,8 +18890,8 @@
 	"target": "urn:nasa:pds:context:target:astrophysical.gravitational_waves",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.insight",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.insight",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.ladee",
@@ -19031,8 +19042,8 @@
 	"target": "urn:nasa:pds:context:target:comet.103p_hartley_2",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
 	"target": "urn:nasa:pds:context:target:planet.mars",
+	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
 	"relationshipId": "1da476b6-08f4-4479-8a4e-1211b228192e"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.epoxi",
@@ -19093,6 +19104,14 @@
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.iue",
 	"target": "urn:nasa:pds:context:target:planet.jupiter",
+	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
+},{
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.jno",
+	"instrument": "urn:nasa:pds:context:instrument:jno.rss",
+	"relationshipId": "4de00a8c-2dcc-4c58-8adf-dba1866ec47c"
+},{
+	"target": "urn:nasa:pds:context:target:asteroid.162173_ryugu",
+	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 }],"tools": [{
 	"name": "Small Bodies Image Browser",
