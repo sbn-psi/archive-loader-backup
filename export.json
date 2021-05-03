@@ -10646,7 +10646,8 @@
 	"display_description": "The OLA is designed to measure the shape of asteroid Bennu at high spatial resolution to provide insights into the geology, origin, and evolution of the asteroid.",
 	"is_prime": true,
 	"tools": [],
-	"instrument_bundle": "urn:nasa:pds:orex.ola"
+	"instrument_bundle": "urn:nasa:pds:orex.ola",
+	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/95c70d30-ac30-11eb-87ce-db481780d25f.jpeg\" width=\"300\" height=\"232\"/><br/></p><p><span style=\"font-size: 0.8em;color: grey;\">The Canadian Space Agency (CSA) made OLA instrument prior to launch</span></p>"
 },{
 	"tags": [
 		"Spectrometer"
@@ -10656,7 +10657,8 @@
 	"display_description": "The OTES is designed to make hyperspectral thermal infrared measurements of asteroid Bennu to study mineralogy and themophysical properties, help select a sampling site, and investigate the Yarkovsky effect.",
 	"is_prime": true,
 	"tools": [],
-	"instrument_bundle": "urn:nasa:pds:orex.otes"
+	"instrument_bundle": "urn:nasa:pds:orex.otes",
+	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/b6802070-ac30-11eb-87ce-db481780d25f.png\" width=\"350\" height=\"250\"/></p>  <p><span style=\"font-size: 0.8em;color: grey;\">OTES completing its final test procedures prior to launch  </span></p><p></p><p></p>"
 },{
 	"tags": [
 		"Spectrometer"
@@ -10666,7 +10668,8 @@
 	"display_description": "The OVIRS is designed to provide spectral maps of inorganic and organic substances on the surface of asteroid Bennu.",
 	"is_prime": true,
 	"tools": [],
-	"instrument_bundle": "urn:nasa:pds:orex.ovirs"
+	"instrument_bundle": "urn:nasa:pds:orex.ovirs",
+	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/d3bdc890-ac30-11eb-87ce-db481780d25f.jpeg\" width=\"300\" height=\"200\"/><br/></p> <p><span style=\"font-size: 0.8em;color: grey;\">The OVIRS instrument at NASA’s Goddard Space Flight Center prior to launch.</span></p><p></p>"
 },{
 	"tags": [
 		"Spectrometer"
@@ -10676,7 +10679,8 @@
 	"display_description": "The REXIS is a Student Collaboration Experiment developed and run by four groups at universities. It is designed to study the surface elemental composition and elemental distribution of the asteroid Bennu using solar induced X-ray flourescence.",
 	"is_prime": true,
 	"tools": [],
-	"instrument_bundle": "urn:nasa:pds:orex.rexis"
+	"instrument_bundle": "urn:nasa:pds:orex.rexis",
+	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/0a406760-ac31-11eb-87ce-db481780d25f.png\" width=\"200\" height=\"300\"/><br/></p><p><span style=\"font-size: 0.8em;color: grey;\"> The REXIS instrument undergoing final preparations. </span></p><p></p>"
 },{
 	"tags": [
 		"Imager"
@@ -10686,7 +10690,8 @@
 	"display_description": "The OSIRIS-REX Camera Suite (OCAMS) is a set of three cameras designed to image asteroid Bennu from different distances at different resolutions. PolyCam is a long-range camera designed to image the asteroid from a distance up to two million km. MapCam provides high-resolution maps of the asteroid's surface, and SamCam documents the maneuvers and acquisition by the TAGSAM sampling system. All cameras use identical detector arrays but have focal lengths separated by a factor of 5. The detector is a 1024 x 1024 active pixel CCD array with 6.5 x 8.5 micron pixels.",
 	"is_prime": true,
 	"tools": [],
-	"instrument_bundle": "urn:nasa:pds:orex.ocams"
+	"instrument_bundle": "urn:nasa:pds:orex.ocams",
+	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/2f031c00-ac31-11eb-87ce-db481780d25f.jpeg\" width=\"200\" height=\"300\"/><br/></p> <p><span style=\"        font-size: 0.8em;        color: grey;\">All 3 of the OCAMS cameras at the University of Arizona prior to launch.</span></p><p></p>"
 },{
 	"tags": [
 		"Imager",
