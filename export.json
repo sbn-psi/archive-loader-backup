@@ -10,7 +10,7 @@
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases."
 	},
-	"example": {},
+	"example": null,
 	"related_data": [
 		{
 			"name": "OSIRIS-REx TAGCAMS Bundle",
@@ -1286,14 +1286,14 @@
 		"asteroid",
 		"spectra"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OVIRS calibrated science spectral data products",
@@ -1310,24 +1310,26 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ovirs:calibrations::1.0",
 	"display_name": "OSIRIS-REx OVIRS calibration file collection",
 	"display_description": "\n            This collection contains the calibration files used to calibrate and correct the spectra acquired by the OVIRS instrument onboard the OSIRIS-REx spacecraft.\n            ",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ovirs/calibration/",
-	"mission_bundle": "urn:nasa:pds:orex.mission"
+	"mission_bundle": "urn:nasa:pds:orex.mission",
+	"citation": "Reuters, D.C., A.A. Simon, A. Lunsford, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): Visible and InfraRed Spectrometer (OVIRS) Bundle, urn:nasa:pds:orex.ovirs, NASA Planetary Data System, 2019."
 },{
 	"tags": [
 		"asteroid",
 		"spectra"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {},
 	"related_data": [
 		{
 			"lid": "urn:nasa:pds:orex.ovirs:calibrations",
@@ -1344,24 +1346,26 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ovirs:data_calibrated::1.0",
 	"display_name": "OSIRIS-REx OVIRS calibrated science spectral data products",
 	"display_description": "\n            This collection contains the calibrated (processing level 2 radiometrically calibrated) science spectral data products produced by the OVIRS instrument onboard the OSIRIS-REx spacecraft.\n            ",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ovirs/data_calibrated/",
-	"mission_bundle": "urn:nasa:pds:orex.mission"
+	"mission_bundle": "urn:nasa:pds:orex.mission",
+	"citation": "Reuters, D.C., A.A. Simon, A. Lunsford, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): Visible and InfraRed Spectrometer (OVIRS) Bundle, urn:nasa:pds:orex.ovirs, NASA Planetary Data System, 2019."
 },{
 	"tags": [
 		"asteroid",
 		"spectra"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OVIRS converted instrument housekeeping data products",
@@ -1382,24 +1386,26 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ovirs:data_hkl0::1.0",
 	"display_name": "OSIRIS-REx OVIRS raw instrument housekeeping data products",
 	"display_description": "\n            This collection contains the raw (processing level 0) instrument housekeeping data products produced by the OVIRS instrument onboard the OSIRIS-REx spacecraft.\n            ",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ovirs/data_hkl0/",
-	"mission_bundle": "urn:nasa:pds:orex.mission"
+	"mission_bundle": "urn:nasa:pds:orex.mission",
+	"citation": "Reuters, D.C., A.A. Simon, A. Lunsford, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): Visible and InfraRed Spectrometer (OVIRS) Bundle, urn:nasa:pds:orex.ovirs, NASA Planetary Data System, 2019."
 },{
 	"tags": [
 		"asteroid",
 		"spectra"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OVIRS raw instrument housekeeping data products",
@@ -1420,24 +1426,26 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ovirs:data_hkl1::1.0",
 	"display_name": "OSIRIS-REx OVIRS converted instrument housekeeping data products",
 	"display_description": "\n            This collection contains the converted (processing level 1) instrument housekeeping data products produced by the OVIRS instrument onboard the OSIRIS-REx spacecraft.\n            ",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ovirs/data_hkl1/",
-	"mission_bundle": "urn:nasa:pds:orex.mission"
+	"mission_bundle": "urn:nasa:pds:orex.mission",
+	"citation": "Reuters, D.C., A.A. Simon, A. Lunsford, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): Visible and InfraRed Spectrometer (OVIRS) Bundle, urn:nasa:pds:orex.ovirs, NASA Planetary Data System, 2019."
 },{
 	"tags": [
 		"asteroid",
 		"spectra"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OVIRS calibrated science spectral data products",
@@ -1454,24 +1462,26 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ovirs:data_raw::1.0",
 	"display_name": "OSIRIS-REx OVIRS raw science spectral data products",
 	"display_description": "\n            This collection contains the raw (processing level 0) science data products produced by the OVIRS instrument onboard the OSIRIS-REx spacecraft.\n            ",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ovirs/data_raw/",
-	"mission_bundle": "urn:nasa:pds:orex.mission"
+	"mission_bundle": "urn:nasa:pds:orex.mission",
+	"citation": "Reuters, D.C., A.A. Simon, A. Lunsford, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): Visible and InfraRed Spectrometer (OVIRS) Bundle, urn:nasa:pds:orex.ovirs, NASA Planetary Data System, 2019."
 },{
 	"tags": [
 		"asteroid",
 		"spectra"
 	],
+	"tools": [],
 	"publication": {
 		"publish_status": "Archived",
 		"publication_date": "Feb. 15, 2019",
 		"accumulating": true,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
-	"related_tools": [],
+	"example": {},
 	"related_data": [
 		{
 			"name": "OSIRIS-REx OVIRS raw science spectral data products",
@@ -1484,12 +1494,14 @@
 	],
 	"superseded_data": [],
 	"download_packages": [],
+	"related_tools": [],
 	"logical_identifier": "urn:nasa:pds:orex.ovirs:document::1.1",
 	"display_name": "OSIRIS-REx OVIRS Documents",
 	"display_description": "\n            This collection contains the documents applicable to the OSIRIS-REx Visible and Infra-Red Spectrometer (OVIRS) instrument.\n            ",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ovirs/document/",
 	"mission_bundle": "urn:nasa:pds:orex.mission",
-	"document_flag": true
+	"document_flag": true,
+	"citation": "Reuters, D.C., A.A. Simon, A. Lunsford, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): Visible and InfraRed Spectrometer (OVIRS) Bundle, urn:nasa:pds:orex.ovirs, NASA Planetary Data System, 2019."
 },{
 	"tags": [
 		"asteroid",
@@ -2076,8 +2088,8 @@
 		"Laser Altimetry"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2087,7 +2099,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex",
+	"citation": "\"Daly, M.; Barnouin, O.; Espiritu, R.; and Lauretta, D., Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Laser Altimeter Bundle, urn:nasa:pds:orex.ola, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"asteroid",
@@ -2096,8 +2109,8 @@
 		"Laser Altimetry"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2107,7 +2120,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex",
+	"citation": "\"Daly, M.; Barnouin, O.; Espiritu, R.; and Lauretta, D., Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Laser Altimeter Bundle, urn:nasa:pds:orex.ola, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"Altimetry",
@@ -2156,8 +2170,8 @@
 		"Laser Altimetry"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2165,7 +2179,8 @@
 	"display_name": "OSIRIS-REx OLA Document",
 	"display_description": "\n            This collection contains the documents applicable to the OSIRIS-REx Laser Altimeter (OLA) instrument.\n            ",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ola.orex",
+	"citation": "\"Daly, M.; Barnouin, O.; Espiritu, R.; and Lauretta, D., Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Laser Altimeter Bundle, urn:nasa:pds:orex.ola, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [],
 	"tools": [],
@@ -2414,8 +2429,8 @@
 		"Asteroid"
 	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2424,7 +2439,8 @@
 	"display_description": "This data set includes the ECAS system (Eight Color Asteroid                \nSurvey) photometry and light curve observations of the asteroid  101955 Bennu as well\nas the derived light curves. At the time of the observations, September 2005, the\nasteroid carried the provisional designation 1999 RQ36. Observations were made as a\npart of the OSIRIS-REx asteroid sample return mission ground observing campaign to\ncharacterize potential mission targets. 101955 Bennu was subsequently chosen as the\nmission target. This particular data set contains observations of 101955 Bennu and a\nseries of 5 standard stars taken at the University of Arizona Observatories Kuiper\n1.54-m reflector.",
 	"target_name": "Purgathofer SA71-20",
 	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
-	"instrument_lid": "urn:nasa:pds:context:instrument:mount_bigelow.1m54.ccd21"
+	"instrument_lid": "urn:nasa:pds:context:instrument:mount_bigelow.1m54.ccd21",
+	"citation": "\"Hergenrother, C., OSIRIS-REx Mt. Bigelow Ground Based Bennu Observations V1.0. urn:nasa:pds:orex.gbo.ast-bennu.lightcurves-images::1.0. NASA Planetary Data System, 2020; https://doi.org/10.26033/twnr-qn60\""
 },{
 	"tags": [
 		"Images",
@@ -2453,7 +2469,7 @@
 		"Visible"
 	],
 	"tools": [],
-	"publication": null,
+	"publication": {},
 	"example": {
 		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/a3f90e20-0fce-11eb-b89e-39d6a91337df.jpeg",
 		"title": "OCAMS_Calibrated_20180324T110000_v002",
@@ -2480,8 +2496,8 @@
 		"Visible"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2491,7 +2507,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"asteroid",
@@ -2500,8 +2517,8 @@
 		"Visible"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2511,7 +2528,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"asteroid",
@@ -2521,8 +2539,8 @@
 		"Raw Data"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2532,7 +2550,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"asteroid",
@@ -2542,8 +2561,8 @@
 		"Converted"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2553,7 +2572,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"asteroid",
@@ -2563,8 +2583,8 @@
 		"Raw Data"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2574,7 +2594,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
+	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"Images",
@@ -2582,7 +2603,7 @@
 		"Visible"
 	],
 	"tools": [],
-	"publication": null,
+	"publication": {},
 	"example": {
 		"thumbnail_url": "https://pdsregistryimages.psi.edu/images/public/735a71c0-130a-11eb-b89e-39d6a91337df.jpeg",
 		"filename": "20190608T105825S000_map_L1pan.fits",
@@ -3226,8 +3247,8 @@
 		"Asteroid"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3237,14 +3258,15 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"Asteroid"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3253,14 +3275,15 @@
 	"display_description": "\n            This collection contains the calibrated spectra acquired by the  OSIRIS-REx Thermal Emission Spectrometer (OTES).\n            ",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [
 		"Asteroid"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3270,12 +3293,13 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3285,12 +3309,13 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3300,12 +3325,13 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3315,12 +3341,13 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3328,12 +3355,13 @@
 	"display_name": "OSIRIS-REx OTES Document",
 	"display_description": "\n            This collection contains the documents applicable to the OSIRIS-REx Thermal Emission Spectrometer (OTES) documents.\n            ",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 },{
 	"tags": [],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3343,7 +3371,8 @@
 	"target_lid": "urn:nasa:pds:context:target:asteroid.101955_bennu",
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
-	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex"
+	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
+	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\""
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
@@ -14015,6 +14044,9 @@
 	"type": "datasets"
 },{
 	"name": "Spectrometer",
+	"type": "datasets"
+},{
+	"name": "spectra",
 	"type": "datasets"
 }],"objectRelationships": [{
 	"instrument": "urn:nasa:pds:context:instrument:instrument.ldex__ladee",
