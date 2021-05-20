@@ -18107,8 +18107,8 @@
 	"target": "urn:nasa:pds:context:target:star.wasp-3",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
 	"target": "urn:nasa:pds:context:target:satellite.saturn.rhea",
@@ -18375,8 +18375,8 @@
 	"target": "urn:nasa:pds:context:target:star.alf_ori",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
@@ -18423,16 +18423,16 @@
 	"target": "urn:nasa:pds:context:target:sun.sun",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.gravity_recovery_and_interior_laboratory",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.lunar_crater_observation_and_sensing_satellite",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.lunar_prospector",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.lunar_prospector",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.mars_pathfinder",
@@ -18767,48 +18767,48 @@
 	"target": "urn:nasa:pds:context:target:sun.sun",
 	"relationshipId": "f7e3a55d-a7b4-4c5d-ac44-7883b0396087"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.apollo_12",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.apollo_14",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.apollo_16",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.pioneer_10",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.midcourse_space_experiment",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.apollo_15",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.apollo_17",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.lunar_reconnaissance_orbiter",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
+	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"investigation": "urn:nasa:pds:context:investigation:mission.chandrayaan-1",
-	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.juno",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.juno",
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.deep_space_program_science_experiment",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.deep_space_program_science_experiment",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:planet.saturn",
@@ -19223,8 +19223,8 @@
 	"target": "urn:nasa:pds:context:target:dust.dust",
 	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.kaguya",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.kaguya",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
@@ -19239,8 +19239,8 @@
 	"investigation": "urn:nasa:pds:context:investigation:mission.insight",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.ladee",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.ladee",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.voyager",
@@ -19443,8 +19443,8 @@
 	"target": "urn:nasa:pds:context:target:satellite.jupiter.ganymede",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
 	"target": "urn:nasa:pds:context:target:satellite.earth.moon",
+	"investigation": "urn:nasa:pds:context:investigation:mission.galileo",
 	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.iue",
