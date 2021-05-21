@@ -3416,21 +3416,6 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:otes.orex",
 	"citation": "Christensen, P., V. Hamilton, S. Anwar, G. Mehall, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Thermal Emission Spectrometer Bundle, urn:nasa:pds:orex.otes, NASA Planetary Data System, 2019.\"",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.otes/geometry/"
-},{
-	"tags": [],
-	"tools": [],
-	"publication": null,
-	"example": null,
-	"related_data": [],
-	"superseded_data": [],
-	"download_packages": [],
-	"logical_identifier": "urn:nasa:pds:context:instrument:amica.hay",
-	"display_name": "Hayabusa Asteroid Multi-band Imaging Camera (AMICA)",
-	"display_description": "The Asteroid Multi-band Imaging Camera (AMICA) of the Hayabusa mission to the asteroid 25143 Itokawa obtained 1662 images from May 11, 2003, shortly after launch, until November 19, 2005, after Itokawa encounter. This data set includes all images from the mission, plus pre-flight flat field images.",
-	"citation": "\"Saito, J., Nakamura, T., Akiyama, H., Demura, H., Dermawan, B., Furuya, M., Fuse, T., Gaskell, R., Hashimoto, T., Higuchi, Y., Hiraoka, K., Hirata, N., Honda, C., Honda, T., Ishiguro, M., Kitazato, K., Kobayashi, S., Kubota, T., Matsumoto, N., Michikami, T., Miyamoto, H., Nakamura, A., Nakamura, R., Nemoto, E., Sasaki, S., Shinohara, C., Smith, P., Sogame, A., Terazono, J., Tholen, D., Yamamoto, A., Yokota, Y., Yoshida, F., and Yukishita, A., Hayabusa AMICA V1.0. HAY-A-AMICA-3-HAYAMICA-V1.0. NASA Planetary Data System, 2010.\"",
-	"browse_url": "https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_3_HAYAMICA_V1_0/",
-	"download_url": "https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_3_HAYAMICA_V1_0.zip",
-	"download_size": "400 MB"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
