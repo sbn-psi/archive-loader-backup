@@ -4038,7 +4038,7 @@
 			"toolId": 8
 		}
 	],
-	"html1": "<p>ID: 1 Ceres<br/>Alternate ID's: A899 OF, 1943 XB<br/><br/><u><br/>Physical Characteristics: </u><br/>Size diameters (a,b,c):(964.4 × 964.2 × 891.8) ± 0.2 km<br/>mass: (9.3835±0.0001)×10<br/><br/><u>Orbital Parameters: </u> <br/>semi-major axis: 2.7670962 AU<br/>Eccentricity: 0.1161977<br/>Inclination: 9.6474122°<br/><br/></p>"
+	"html1": "<h2>1 Ceres</h2><p>Alternate ID's: A899 OF, 1943 XB</p><p></p><h4>Physical Characteristics:</h4><p>Size diameters (a,b,c):(964.4 × 964.2 × 891.8) ± 0.2 km</p><p>Mass: (9.3835±0.0001)×10<sup style=\"line-height: 1; font-size: 9.856px; font-family: sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: nowrap; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\">20</sup> kg</p><h4>Orbital Parameters:</h4><p>Semi-major axis: 2.7670962 AU</p><p>Eccentricity: 0.1161977</p><p>Inclination: 9.6474122°</p>"
 },{
 	"tags": [
 		"Main Belt Asteroid",
@@ -4063,7 +4063,7 @@
 			"toolId": 8
 		}
 	],
-	"html1": "<p>ID: 4 Vesta<br/><u><br/>Physical Characteristics: </u><br/>Size diameters (a,b,c):572.6 km × 557.2 km × 446.4 km</p><p>Mass:(2.59076±0.00001)×1020 kg</p><p><u>Orbital Parameters: </u> <br/>semi-major axis: 2.36151 AU</p><p>Eccentricity:0.098758<br/></p><p>Inclination: 6.39234°</p><p><br/><br/></p>"
+	"html1": "<h2>4 Vesta</h2><h4>Physical Characteristics: </h4><p>Size diameters (a,b,c):572.6 km × 557.2 km × 446.4 km</p><p>Mass:(2.59076±0.00001)×1020 kg</p><h4>Orbital Parameters: </h4> <p>Semi-major axis: 2.36151 AU</p><p>Eccentricity:0.098758<br/></p><p>Inclination: 6.39234°</p><p><br/><br/></p>"
 },{
 	"tags": [
 		"Near-Earth Asteroid",
@@ -4086,7 +4086,7 @@
 			"toolId": 8
 		}
 	],
-	"html1": "<p>ID: 433 Eros </p><p>Alternate ID's: 1956 PC, 1898 DQ</p><p><u>Physical Characteristics:</u> </p><p>Size diameters (a,b,c): 34.4km × 11.2km × 11.2 km </p><p>mass: (6.687±0.003)×1015 kg[</p><p>density: 2.67±0.03 g/cm3</p><p><u>Orbital Parameters:</u> </p><p>semi-major axis: 1.4579 AU</p><p>Eccentricity: 0.2226</p><p>Inclination: 10.828°</p>"
+	"html1": "<h2>433 Eros </h2><p>Alternate ID's: 1956 PC, 1898 DQ</p><h4>Physical Characteristics:</h4> <p>Size diameters (a,b,c): 34.4km × 11.2km × 11.2 km </p><p>Mass: (6.687±0.003)×1015 kg</p><p>Density: 2.67±0.03 g/cm3</p><h4>Orbital Parameters:</h4><p>Semi-major axis: 1.4579 AU</p><p>Eccentricity: 0.2226</p><p>Inclination: 10.828°</p>"
 },{
 	"tags": [
 		"Near-Earth Asteroid",
@@ -4108,7 +4108,7 @@
 		}
 	],
 	"html2": "<h3>Derived data:</h3>            <table border=\"2\">            <tbody><tr>            <td width=\"100\"><i>Data type</i>            </td><td width=\"300\"><i>Browse/Download</i>            </td><td width=\"400\"><i>Description</i>            </td></tr><tr>            <td>Images            </td><td><a class=\"referral-link\" href=\"resource/amicageom.html\">Hayabusa AMICA images with Geometry Backplanes</a>            </td><td> AMICA Itokawa image set with geometric and gravitational backplanes            </td></tr><tr>            <td>Models            </td><td><a class=\"referral-link\" href=\"resource/itokawashape.html\">Gaskell Itokawa Shape Model</a>            </td><td> Most accurate shape model available for Itokawa, provided in a range of resolutions</td></tr></tbody></table>",
-	"html1": "<p>ID: 25143 Itokawa </p><p>Alternate ID's: 1998 SF</p><p><br/></p><p><u>Physical Characteristics:</u> </p><p>Size diameters (a,b,c): 535 m × 294 m × 209 m </p><p>mass: (3.51±0.105)×1010 kg</p><p>density: 1.9±0.13 g/cm</p><p><u>Orbital Parameters:</u> </p><p>semi-major axis: 1.3241 AU</p><p>Eccentricity: 0.2801</p><p>Inclination: 1.6214°</p>"
+	"html1": "<h2>25143 Itokawa </h2><p>Alternate ID's: 1998 SF</p><h4>Physical Characteristics:</h4> <p>Size diameters (a,b,c): 535 m × 294 m × 209 m </p><p>Mass: (3.51±0.105)×1010 kg</p><p>Density: 1.9±0.13 g/cm</p><h4>Orbital Parameters:</h4> <p>Semi-major axis: 1.3241 AU</p><p>Eccentricity: 0.2801</p><p>Inclination: 1.6214°</p>"
 },{
 	"tags": [
 		"Near-Earth Asteroid",
@@ -4131,7 +4131,7 @@
 			"toolId": 8
 		}
 	],
-	"html1": "<p>ID: 101955 Bennu </p><p>Alternate ID's: 1999 RQ36</p><p><u>Physical Characteristics:</u> </p><p>Size diameters (a,b,c): 565 m × 535 m × 508 m </p><p>mass: (7.329±0.009)×1010 kg</p><p>volume: 0.0615±0.0001 km3</p><p>density: 1.190±0.013 g/cm3</p><p><u>Orbital Parameters:</u> </p><p>semi-major axis: 1.1264 AU</p><p>Eccentricity: 0.21145</p><p>Inclination: 5.0415°</p>"
+	"html1": "<h2>101955 Bennu </h2><p>Alternate ID's: 1999 RQ36</p><h4>Physical Characteristics:</h4> <p>Size diameters (a,b,c): 565 m × 535 m × 508 m </p><p>Mass: (7.329±0.009)×1010 kg</p><p>Volume: 0.0615±0.0001 km3</p><p>Density: 1.190±0.013 g/cm3</p><h4>Orbital Parameters:</h4> <p>Semi-major axis: 1.1264 AU</p><p>Eccentricity: 0.21145</p><p>Inclination: 5.0415°</p>"
 },{
 	"tags": [
 		"Main Belt Asteroid",
@@ -4264,7 +4264,7 @@
 			"toolId": 8
 		}
 	],
-	"html1": "<p>ID: Comet 67P/Churyumov-Gerasimenko 1 (1969 R1)</p><p></p><p>Alternate ID's: 1969h, 1982 VIII, 1982f, 1969 IV, 1988i, 1976 VII, 1975 P1, 1975i, 1989 VI</p><p></p><p><u>Physical Characteristics:</u></p><p></p><p>Size diameters (a,b,c): Large lobe: 4.1 km × 3.3 km × 1.8 km , Small lobe: 2.6 km × 2.3 km × 1.8 km </p><p></p><p>mass: (9.982±0.003)×1012 kg</p><p></p><p>density: 0.533 ± 0.006 g/cm3</p><p></p><p><u>Orbital Parameters:</u></p><p></p><p>semi-major axis: 3.4630 AU</p><p></p><p>Eccentricity: 0.64102</p><p></p><p>Inclination: 7.0405°</p><p></p>"
+	"html1": "<h4> Comet 67P/Churyumov-Gerasimenko 1 (1969 R1)</h4><p>Alternate ID's: 1969h, 1982 VIII, 1982f, 1969 IV, 1988i, 1976 VII, 1975 P1, 1975i, 1989 VI</p><h4>Physical Characteristics:</h4><p>Size diameters (a,b,c): Large lobe: 4.1 km × 3.3 km × 1.8 km , Small lobe: 2.6 km × 2.3 km × 1.8 km </p><p>Mass: (9.982±0.003)×1012 kg</p><p>Density: 0.533 ± 0.006 g/cm3</p><h4>Orbital Parameters:</h4><p>Semi-major axis: 3.4630 AU</p><p>Eccentricity: 0.64102</p><p>Inclination: 7.0405°</p>"
 },{
 	"tags": [
 		"Terrestrial Planet",
@@ -5655,7 +5655,8 @@
 	"logical_identifier": "urn:nasa:pds:context:target:asteroid162173_ryugu",
 	"display_name": "162173 Ryugu",
 	"display_description": "162173 Ryugu, provisional designation 1999 JU3, is a near-Earth object and a potentially hazardous asteroid of the Apollo group. It measures approximately 1 kilometer (0.6 mi) in diameter and is a dark object of the rare spectral type Cg, with qualities of both a C-type asteroid and a G-type asteroid. In June 2018, the JAXA spacecraft, Hayabusa 2, arrived at the asteroid.[11",
-	"image_url": "https://pdsregistryimages.psi.edu/images/public/3515a650-fccc-11e9-a91e-4d7880ab36b9.jpg"
+	"image_url": "https://pdsregistryimages.psi.edu/images/public/3515a650-fccc-11e9-a91e-4d7880ab36b9.jpg",
+	"html1": "<h2>162173 Ryugu </h2><p>Alternate ID's: 1999 JU</p><h4>Physical Characteristics:</h4> <p>Mean Diameter: 0.865±0.015 km </p><p>Mass: (4.50±0.06)×1011 kg</p><p>Volume: 0.377±0.005 km3</p><p>Density: 1.19±0.03 g cm−3</p><h4>Orbital Parameters:</h4> <p>Semi-major axis: 1.1896 AU</p><p>Eccentricity: 0.1902</p><p>Inclination: 5.8837°</p>"
 },{
 	"tags": [
 		"Uranian Satellite",
