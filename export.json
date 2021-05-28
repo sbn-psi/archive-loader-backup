@@ -2468,8 +2468,8 @@
 		"Visible"
 	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -2481,8 +2481,8 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:ocams.orex",
 	"citation": "\"Rizk, B., C. Drouet d'Aubigny, D. Golish, D.N. DellaGiustina, and D.S. Lauretta, Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx): OSIRIS-REx Camera Suite (OCAMS) Bundle, urn:nasa:pds:orex.ocams, NASA Planetary Data System, 2019.\"",
 	"download_url": "https://sbnarchive.psi.edu/pds4/orex/downloads_ocams/",
-	"html1": "<p>Enjoy!</p>",
-	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ocams/"
+	"browse_url": "https://sbnarchive.psi.edu/pds4/orex/orex.ocams/",
+	"primary_context": "mission"
 },{
 	"tags": [
 		"Images",
