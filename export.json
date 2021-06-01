@@ -3434,6 +3434,19 @@
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.orex",
 	"instrument_lid": "urn:nasa:pds:context:instrument:ovirs.orex"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"primary_context": "mission",
+	"logical_identifier": "urn:nasa:pds:orex.spice",
+	"display_name": "OSIRIS-REx SPICE Kernel Archive Bundle",
+	"display_description": "This bundle contains OSIRIS-REx SPICE kernels and related documentation",
+	"browse_url": "https://naif.jpl.nasa.gov/pub/naif/pds/pds4/orex/orex_spice/"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
