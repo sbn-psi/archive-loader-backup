@@ -11152,8 +11152,8 @@
 		"Radio Transceiver"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:rss.nea",
-	"display_name": "NEAR Radio Science (RS) and Gravimetry",
-	"display_description": "The radio science experiment (RS) used the NEAR telemetry system to estimate the gravity field of the asteroids 253 Mathilde and 433 Eros. The principal scientific objectives of this investigation were to determine the mass and gravity variations of the asteroids and combine this data with information from the multispectral imager and laser rangefinder to estimate the density of bodies and constrain the internal structure.",
+	"display_name": "NEAR Radio Science Subsystem (RSS) and Gravimetry",
+	"display_description": "The radio science subsystem experiment (RSS) used the NEAR telemetry system to estimate the gravity field of the asteroids 253 Mathilde and 433 Eros. The principal scientific objectives of this investigation were to determine the mass and gravity variations of the asteroids and combine this data with information from the multispectral imager and laser rangefinder to estimate the density of bodies and constrain the internal structure.",
 	"is_prime": true,
 	"tools": []
 },{
@@ -11283,8 +11283,8 @@
 		"Radio Transceiver"
 	],
 	"logical_identifier": "urn:nasa:pds:context:instrument:rss.near",
-	"display_name": "NEAR Radio Science (RS) and Gravimetry",
-	"display_description": "The radio science experiment (RS) used the NEAR telemetry system to estimate the gravity field of the asteroids 253 Mathilde and 433 Eros. The principal scientific objectives of this investigation were to determine the mass and gravity variations of the asteroids and combine this data with information from the multispectral imager and laser rangefinder to estimate the density of bodies and constrain the internal structure.",
+	"display_name": "NEAR Radio Science Subsystem (RSS) and Gravimetry",
+	"display_description": "The radio science subsystem experiment (RSS) used the NEAR telemetry system to estimate the gravity field of the asteroids 253 Mathilde and 433 Eros. The principal scientific objectives of this investigation were to determine the mass and gravity variations of the asteroids and combine this data with information from the multispectral imager and laser rangefinder to estimate the density of bodies and constrain the internal structure.",
 	"is_prime": true,
 	"tools": [],
 	"pds3_instrument_id": "RSS",
