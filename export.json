@@ -771,44 +771,49 @@
 	"superseded_data": [],
 	"download_packages": [],
 	"logical_identifier": "urn:nasa:pds:nearmsi.shapebackplane::1.0",
-	"display_name": "EROS MSI IMAGES WITH GEOMETRY BACKPLANES",
+	"display_name": "Eros MSI Images with Geometry Backplanes",
 	"display_description": "This data set contains data products for\n        93,397 images obtained by the Multi-Spectral Imager (MSI) of the Near \n        Earth Asteroid Rendezvous (NEAR) mission during the orbital phase at  \n        asteroid 433 Eros. The data products include geometric and geophysical\n        information for each pixel. The data products are in the form of      \n        backplanes, stored in the FITS image format. There is one backplane   \n        file for each MSI image. Each of the MSI backplane files is a 16-band \n        image cube. The bands of the cube contain the information detailed    \n        below calculated for the center of each pixel:                        \n        1: Pixel values (I/F) of the original FITS images delivered to the PDS\n        by the NEAR team [Murchie et al., 2001], linearly resampled to rectify\n        the image by squaring the pixels. The original image size is 537 x 244\n        pixels and the rectified size is 537 x 412 pixels.                    \n        2: x coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        3: y coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        4: z coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        5: latitude (planetocentric, degrees)                                 \n        6: longitude (degrees east)                                           \n        7: radial distance (kilometers) from the asteroid center of figure    \n        8: solar incidence angle (degrees)                                    \n        9: emission angle (degrees)                                           \n        10: solar phase angle (degrees)                                       \n        11: horizontal pixel scale (kilometers)                               \n        12: vertical pixel scale (kilometers)                                 \n        13: average surface slope relative to gravity (degrees)               \n        14: average elevation relative to gravity (meters)                    \n        15: average gravitational acceleration (meters/[s^2])                 \n        16: average gravitational potential (J/kg)",
 	"target_name": "(433) Eros",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
 	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near",
-	"citation": "Blewett, D.T., Barnouin, O.S., Ernst, C.M., Nguyen, L., and Espiritu, R.C., Eros MSI Images with Geometry Backplanes. urn:nasa:pds:nearmsi.shapebackplane. NASA Planetary Data System, 2017."
+	"citation": "Blewett, D.T., Barnouin, O.S., Ernst, C.M., Nguyen, L., and Espiritu, R.C., Eros MSI Images with Geometry Backplanes. urn:nasa:pds:nearmsi.shapebackplane. NASA Planetary Data System, 2017.",
+	"primary_context": "both",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane/",
+	"download_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi_shapebackplane_downloads/"
 },{
 	"tags": [
 		"Eros",
 		"MSI Images"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
 	"logical_identifier": "urn:nasa:pds:nearmsi.shapebackplane:data::1.0",
-	"display_name": "data collection for the \"EROS MSI IMAGES WITH GEOMETRY BACKPLANES\n       \" bundle",
+	"display_name": "Eros MSI Images with Geometry Backplanes data collection",
 	"display_description": "This is the data collection for the nearmsi.shapebackplane bundle. \nThis data set contains data products for\n        93,397 images obtained by the Multi-Spectral Imager (MSI) of the Near \n        Earth Asteroid Rendezvous (NEAR) mission during the orbital phase at  \n        asteroid 433 Eros. The data products include geometric and geophysical\n        information for each pixel. The data products are in the form of      \n        backplanes, stored in the FITS image format. There is one backplane   \n        file for each MSI image. Each of the MSI backplane files is a 16-band \n        image cube. The bands of the cube contain the information detailed    \n        below calculated for the center of each pixel:                        \n        1: Pixel values (I/F) of the original FITS images delivered to the PDS\n        by the NEAR team [Murchie et al., 2001], linearly resampled to rectify\n        the image by squaring the pixels. The original image size is 537 x 244\n        pixels and the rectified size is 537 x 412 pixels.                    \n        2: x coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        3: y coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        4: z coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        5: latitude (planetocentric, degrees)                                 \n        6: longitude (degrees east)                                           \n        7: radial distance (kilometers) from the asteroid center of figure    \n        8: solar incidence angle (degrees)                                    \n        9: emission angle (degrees)                                           \n        10: solar phase angle (degrees)                                       \n        11: horizontal pixel scale (kilometers)                               \n        12: vertical pixel scale (kilometers)                                 \n        13: average surface slope relative to gravity (degrees)               \n        14: average elevation relative to gravity (meters)                    \n        15: average gravitational acceleration (meters/[s^2])                 \n        16: average gravitational potential (J/kg)",
 	"target_name": "(433) Eros",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
 	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near",
-	"citation": "Blewett, D.T., Barnouin, O.S., Ernst, C.M., Nguyen, L., and Espiritu, R.C., Eros MSI Images with Geometry Backplanes. urn:nasa:pds:nearmsi.shapebackplane. NASA Planetary Data System, 2017."
+	"citation": "Blewett, D.T., Barnouin, O.S., Ernst, C.M., Nguyen, L., and Espiritu, R.C., Eros MSI Images with Geometry Backplanes. urn:nasa:pds:nearmsi.shapebackplane. NASA Planetary Data System, 2017.",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane.1.1/data/"
 },{
 	"tags": [],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
 	"logical_identifier": "urn:nasa:pds:nearmsi.shapebackplane:document::1.0",
-	"display_name": "document collection for the \"EROS MSI IMAGES WITH GEOMETRY BACKPLANES\n       \" bundle",
+	"display_name": "Eros MSI Images with Geometry Backplanes document collection",
 	"display_description": "This is the document collection for the nearmsi.shapebackplane bundle. \nThis data set contains data products for\n        93,397 images obtained by the Multi-Spectral Imager (MSI) of the Near \n        Earth Asteroid Rendezvous (NEAR) mission during the orbital phase at  \n        asteroid 433 Eros. The data products include geometric and geophysical\n        information for each pixel. The data products are in the form of      \n        backplanes, stored in the FITS image format. There is one backplane   \n        file for each MSI image. Each of the MSI backplane files is a 16-band \n        image cube. The bands of the cube contain the information detailed    \n        below calculated for the center of each pixel:                        \n        1: Pixel values (I/F) of the original FITS images delivered to the PDS\n        by the NEAR team [Murchie et al., 2001], linearly resampled to rectify\n        the image by squaring the pixels. The original image size is 537 x 244\n        pixels and the rectified size is 537 x 412 pixels.                    \n        2: x coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        3: y coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        4: z coordinate (kilometers) of the intercept with the surface of the \n        asteroid in body-fixed reference frame                                \n        5: latitude (planetocentric, degrees)                                 \n        6: longitude (degrees east)                                           \n        7: radial distance (kilometers) from the asteroid center of figure    \n        8: solar incidence angle (degrees)                                    \n        9: emission angle (degrees)                                           \n        10: solar phase angle (degrees)                                       \n        11: horizontal pixel scale (kilometers)                               \n        12: vertical pixel scale (kilometers)                                 \n        13: average surface slope relative to gravity (degrees)               \n        14: average elevation relative to gravity (meters)                    \n        15: average gravitational acceleration (meters/[s^2])                 \n        16: average gravitational potential (J/kg)",
 	"target_name": "(433) Eros",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
-	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near"
+	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane.1.1/document/"
 },{
 	"tags": [
 		"asteroid"
@@ -3693,6 +3698,55 @@
 	"target_name": "(101955) Bennu",
 	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
 	"instrument_lid": "urn:nasa:pds:context:instrument:arecibo.305m.recv_s"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:ast-eros.roberts.ponds-catalog::1.1",
+	"display_name": "Roberts Eros Ponds Catalog",
+	"display_description": "This data set contains two tables describing the size and location of ponded deposits\non asteroid 433 Eros. Both tables contain the same pond information, but one is\npresented in the format required for ingestion by a publicly available 3D\nvisualization application, the Small Body Mapping Tool (Ernst et al., 2018;\nhttp://sbmt.jhuapl.edu).",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1/",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.433_eros",
+	"target_name": "(433) Eros",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
+	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near",
+	"primary_context": "target"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:ast-eros.roberts.ponds-catalog:data::1.1",
+	"display_name": "Roberts Eros Ponds Catalog data collection",
+	"display_description": "This data set contains two tables describing the size and location of ponded deposits\non asteroid 433 Eros. Both tables contain the same pond information, but one is\npresented in the format required for ingestion by a publicly available 3D\nvisualization application, the Small Body Mapping Tool (Ernst et al., 2018;\nhttp://sbmt.jhuapl.edu).",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1/data/",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.433_eros",
+	"target_name": "(433) Eros",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
+	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:ast-eros.roberts.ponds-catalog:document::1.1",
+	"display_name": "Roberts Eros Ponds Catalog document collection",
+	"display_description": "This data set contains two tables describing the size and location of ponded deposits\non asteroid 433 Eros. Both tables contain the same pond information, but one is\npresented in the format required for ingestion by a publicly available 3D\nvisualization application, the Small Body Mapping Tool (Ernst et al., 2018;\nhttp://sbmt.jhuapl.edu).",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1/document/",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.433_eros",
+	"target_name": "(433) Eros",
+	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
+	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
