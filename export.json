@@ -6790,7 +6790,7 @@
 	"end_date": "2001-02-28T00:00:00.000Z",
 	"other_html": "<table border=\"2\">            <tbody><tr>            <td width=\"100\"><i>Data type</i>            </td><td width=\"300\"><i>Browse/Download</i>            </td><td width=\"400\"><i>Description</i></td></tr><tr>            <td> SPICE            </td><td><a href=\"https://naif.jpl.nasa.gov/pub/naif/pds/data/near-a-spice-6-v1.0/nearsp_1000/\">NEAR SPICE archive</a>            </td><td>Archived at NAIF            </td></tr></tbody></table>",
 	"html1": "<p>Launch date: 17 February 1996</p><p>Mathilde flyby date: 27 June 1997</p><p>Eros orbit operations: Feb. 2000 through February 2001</p>",
-	"html2": "<p>            </p><h3>Additional Resources:</h3>            <ul>            <li><a class=\"referral-link\" href=\"resource/near/neardoc.html\"> NEAR Documentation Set</a>            </li><li><a href=\"resource/near/NEAR_Coordinate_Systems.txt\"> NEAR Coordinate Systems Document</a>            </li><li><a class=\"referral-link\" href=\"resource/near/dataprobs.html\">Known and Discovered Problems</a>            </li><li> <a class=\"referral-link\" href=\"resource/near/mission_phases.html\">Mission Phases and Eros Orbital Phases</a>            </li><li> <a class=\"referral-link\" href=\"resource/near/datalevels.html\">Definition of Data Levels</a>            </li><li> <a class=\"referral-link\" href=\"resource/near/dsstructure.html\">NEAR Data Set Directory Structure</a>            </li><li><a class=\"referral-link\" href=\"resource/near/findit.html\">Where to find...</a>            </li></ul>"
+	"html2": "<p>            </p><h3>Additional Resources:</h3>            <ul>            <li><a href=\"https://sbn.psi.edu/pds/resource/near/neardoc.html?refUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Fresource%2Fnear%2F&amp;refName=NEAR&amp;type=Missions&amp;typeUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Farchive%2Fmissions.html\"> NEAR Documentation Set</a>            </li><li><a href=\"resource/near/NEAR_Coordinate_Systems.txt\"> NEAR Coordinate Systems Document</a>            </li><li><a href=\"https://sbn.psi.edu/pds/resource/near/dataprobs.html?refUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Fresource%2Fnear%2F&amp;refName=NEAR&amp;type=Missions&amp;typeUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Farchive%2Fmissions.html\">Known and Discovered Problems</a>            </li><li> <a href=\"https://sbn.psi.edu/pds/resource/near/mission_phases.html?refUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Fresource%2Fnear%2F&amp;refName=NEAR&amp;type=Missions&amp;typeUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Farchive%2Fmissions.html\">Mission Phases and Eros Orbital Phases</a>            </li><li> <a href=\"https://sbn.psi.edu/pds/resource/near/datalevels.html?refUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Fresource%2Fnear%2F&amp;refName=NEAR&amp;type=Missions&amp;typeUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Farchive%2Fmissions.html\">Definition of Data Levels</a>            </li><li> <a href=\"https://sbn.psi.edu/pds/resource/near/dsstructure.html?refUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Fresource%2Fnear%2F&amp;refName=NEAR&amp;type=Missions&amp;typeUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Farchive%2Fmissions.html\">NEAR Data Set Directory Structure</a>            </li><li><a href=\"https://sbn.psi.edu/pds/resource/near/findit.html?refUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Fresource%2Fnear%2F&amp;refName=NEAR&amp;type=Missions&amp;typeUrl=https%3A%2F%2Fsbn.psi.edu%2Fpds%2Farchive%2Fmissions.html\">Where to find...</a>            </li></ul>"
 },{
 	"tags": [],
 	"logical_identifier": "urn:nasa:pds:context:investigation:mission.orex",
@@ -18745,12 +18745,12 @@
 	"target": "urn:nasa:pds:context:target:planetary_system.solar_system",
 	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
 },{
-	"target": "urn:nasa:pds:context:target:asteroid.253_mathilde",
 	"investigation": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
+	"target": "urn:nasa:pds:context:target:asteroid.253_mathilde",
 	"relationshipId": "71bce5f1-d58c-4777-ab20-27aa9aa47d77"
 },{
-	"target": "urn:nasa:pds:context:target:asteroid.433_eros",
 	"investigation": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
+	"target": "urn:nasa:pds:context:target:asteroid.433_eros",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"target": "urn:nasa:pds:context:target:asteroid.101955_bennu",
