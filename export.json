@@ -3143,7 +3143,10 @@
 	"target_name": "(25143) Itokawa",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"instrument_lid": "urn:nasa:pds:context:instrument:amica.hay",
-	"primary_context": "target"
+	"primary_context": "target",
+	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model_V1_1/document/bundle_description.txt",
+	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model_V1_1.zip",
+	"download_size": "66MB"
 },{
 	"tags": [],
 	"tools": [],
@@ -14145,7 +14148,7 @@
 	"relationshipId": "12abd4ab-e27d-40ac-b951-04e80c83fe9d"
 },{
 	"name": "Calibration",
-	"order": 103,
+	"order": 102,
 	"relationshipId": "c4399925-d54d-46e1-8729-3648c27c2572"
 },{
 	"name": "Ad Hoc",
@@ -14165,12 +14168,8 @@
 	"relationshipId": "62577d99-32a2-43a1-9eeb-357d34d18bbe"
 },{
 	"name": "Star",
-	"order": 102,
+	"order": 103,
 	"relationshipId": "8ff24bf3-bed3-435b-9d0b-89e2a0fe7090"
-},{
-	"name": "Star",
-	"order": 106,
-	"relationshipId": "b79218dc-39ea-41c5-9626-29d81c6138bb"
 }],"instrumentSpacecraftRelationshipTypes": [{
 	"name": "Science",
 	"order": 0,
@@ -18792,7 +18791,7 @@
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"target": "urn:nasa:pds:context:target:star.tau_sco",
-	"relationshipId": "b79218dc-39ea-41c5-9626-29d81c6138bb"
+	"relationshipId": "8ff24bf3-bed3-435b-9d0b-89e2a0fe7090"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.hayabusa",
 	"target": "urn:nasa:pds:context:target:calibrator.calibration",
