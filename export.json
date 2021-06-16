@@ -765,8 +765,8 @@
 		"Geometry Backplanes"
 	],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -779,8 +779,7 @@
 	"citation": "Blewett, D.T., Barnouin, O.S., Ernst, C.M., Nguyen, L., and Espiritu, R.C., Eros MSI Images with Geometry Backplanes. urn:nasa:pds:nearmsi.shapebackplane. NASA Planetary Data System, 2017.",
 	"primary_context": "mission",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane/",
-	"download_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi_shapebackplane_downloads/",
-	"html2": "<table border=\"2\">            <tbody><tr>            <td> Eros MSI Images with Geometry Backplanes document collection            </td><td><a href=\"https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane/document/\">Browse</a>            </td></tr></tbody></table>"
+	"download_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi_shapebackplane_downloads/"
 },{
 	"tags": [
 		"Eros",
@@ -803,8 +802,8 @@
 },{
 	"tags": [],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -814,7 +813,7 @@
 	"target_name": "(433) Eros",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
 	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near",
-	"browse_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane.1.1/document/"
+	"browse_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane/document/"
 },{
 	"tags": [
 		"asteroid"
