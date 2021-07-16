@@ -3767,6 +3767,31 @@
 	"target_name": "(433) Eros",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
 	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": null,
+	"example": null,
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.spice:spice_kernels",
+	"display_name": "OSIRIS-REx SPICE Kernel collection",
+	"display_description": "This collection contains SPICE kernels for the OSIRIS-REx spacecraft and its instruments.",
+	"browse_url": "https://naif.jpl.nasa.gov/pub/naif/pds/pds4/orex/orex_spice/spice_kernels/"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:orex.spice:document",
+	"display_name": "OSIRIS-REx SPICE Kernel Archive Document Collection",
+	"display_description": "This collection contains documents describing the OSIRIS-REx SPICE kernel archive.",
+	"browse_url": "https://naif.jpl.nasa.gov/pub/naif/pds/pds4/orex/orex_spice/document/",
+	"primary_context": "mission"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
@@ -7024,7 +7049,7 @@
 	],
 	"start_date": "2006-01-19T00:00:00.000Z",
 	"image_url": "https://pdsregistryimages.psi.edu/images/public/7f736450-abd3-11eb-9bff-e1ed454054eb.png",
-	"other_html": "<p style=\"text-align: center;\">The data sets listed in the table below are PDS3 legacy data sets. Once these data sets have been migrated to PDS4 they will be listed in the section above.</p><table border=\"1\">            <tbody><tr><td width=\"300\">Data set Name</td><td width=\"400\"> Data set ID                </td><td width=\"100\"> Browse                </td><td width=\"100\">Download            </td></tr><tr><td>New Horizons SPICE kernels </td><td></td> <td><a href=\"https://naif.jpl.nasa.gov/pub/naif/pds/data/nh-j_p_ss-spice-6-v1.0/nhsp_1000/\"> Browse</a>              </td></tr><tr><td> New Horizons Pluto Encounter Surface Composition Maps</td><td> NH-P/PSA-LEISA/MVIC-5-COMP-V1.0</td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-leisa_mvic-5-comp-v1.0/\"> Browse</a></td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-leisa_mvic-5-comp-v1.0/DOWNLOAD/\"> Download (4.3 GB)</a> </td></tr><tr><td> New Horizons Pluto Encounter Atmosphere Data</td><td> NH-P/PSA-LORRI/ALICE/REX-5-ATMOS-V1.0</td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_alice_rex-5-atmos-v1.0/\"> Browse</a></td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_alice_rex-5-atmos-v1.0/DOWNLOAD/\"> Download (177.1 MB)</a> </td></tr><tr><td> New Horizons Pluto Encounter Geology and Geophysical Maps</td><td> NH-P/PSA-LORRI/MVIC-5-GEOPHYS-V1.0</td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_mvic-5-geophys-v1.0/\"> Browse</a></td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_mvic-5-geophys-v1.0/DOWNLOAD/\"> Download (848.4 MB)</a> </td></tr></tbody></table>",
+	"other_html": "<p style=\"text-align: center;\">The data sets listed in the table below are PDS3 legacy data sets. Once these data sets have been migrated to PDS4 they will be listed in the section above.</p>\n<table border=\"1\">            <tbody><tr><td width=\"300\">Data set Name</td><td width=\"400\"> Data set ID                </td><td width=\"100\"> Browse                </td><td width=\"100\">Download            </td></tr><tr><td>New Horizons SPICE kernels </td><td>NH-J/P/SS-SPICE-6-V1.0</td> <td><a href=\"https://naif.jpl.nasa.gov/pub/naif/pds/data/nh-j_p_ss-spice-6-v1.0/nhsp_1000/\"> Browse</a>              </td></tr><tr><td> New Horizons Pluto Encounter Surface Composition Maps</td><td> NH-P/PSA-LEISA/MVIC-5-COMP-V1.0</td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-leisa_mvic-5-comp-v1.0/\"> Browse</a></td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-leisa_mvic-5-comp-v1.0/DOWNLOAD/\"> Download (4.3 GB)</a> </td></tr><tr><td> New Horizons Pluto Encounter Atmosphere Data</td><td> NH-P/PSA-LORRI/ALICE/REX-5-ATMOS-V1.0</td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_alice_rex-5-atmos-v1.0/\"> Browse</a></td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_alice_rex-5-atmos-v1.0/DOWNLOAD/\"> Download (177.1 MB)</a> </td></tr><tr><td> New Horizons Pluto Encounter Geology and Geophysical Maps</td><td> NH-P/PSA-LORRI/MVIC-5-GEOPHYS-V1.0</td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_mvic-5-geophys-v1.0/\"> Browse</a></td><td><a href=\"https://pdssbn.astro.umd.edu/holdings/nh-p_psa-lorri_mvic-5-geophys-v1.0/DOWNLOAD/\"> Download (848.4 MB)</a> </td></tr></tbody></table>",
 	"html1": "<p>Launch date: January 19 2006</p>\n<p>Jupiter Flyby: February 28 2007</p>\n<p>Saturn Flyby: June 8 2008</p>\n<p>Uranus Flyby: March 18, 2011</p>\n<p>Neptune Flyby: August 25, 2014</p>\n<p>Pluto Flyby: July 14 2015</p>\n<p>Official Mission Page: <a href=\"http://pluto.jhuapl.edu/\"> New Horizons Web Page</a></p>",
 	"html2": "<p>Extended Mission Data can be found at <a href=\"https://pdssbn.astro.umd.edu/data_sb/missions/nh-kem/index.shtml\">New Horizons Kuiper Belt Extended Mission</a></p>"
 },{
