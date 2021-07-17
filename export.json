@@ -3095,7 +3095,8 @@
 	"citation": "\"Gaskell, R.W., Gaskell Eros Shape Model V1.1. urn:nasa:pds:gaskell.ast-eros.shape-model::1.1. NASA Planetary Data System, 2021; doi: 10.26033/d0gq-9427.\"",
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model_V1_1.zip",
 	"download_size": "80 MB",
-	"doi": "10.26033/d0gq-9427"
+	"doi": "10.26033/d0gq-9427",
+	"html2": "<h3 id=\"pds-superseded-title\">Superseded Versions:</h3><p><br/></p><p>The PDS4 bundle was migrated from the PDS3 data set in October 2020.  The data content is unchanged.         </p><div id=\"pds-superseded\"><table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gaskell.ast-eros.shape-model::1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model/\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model.zip\"> Download (80 MB)</a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td width=\"500\">NEAR-A-MSI-5-EROSSHAPE-V1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds3/near/NEAR_A_MSI_5_EROSSHAPE_V1_0\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds3/near/NEAR_A_MSI_5_EROSSHAPE_V1_0.zip\"> Download (84 MB) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
 },{
 	"tags": [],
 	"tools": [],
@@ -3147,7 +3148,9 @@
 	"primary_context": "target",
 	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model_V1_1/document/bundle_description.txt",
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model_V1_1.zip",
-	"download_size": "66MB"
+	"download_size": "66MB",
+	"doi": "10.26033/3b2j-yy57",
+	"html2": "     <h3 id=\"pds-superseded-title\">Superseded Versions:</h3><div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in October 2020.  The<p>data content is unchanged.</p><table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gaskell.ast-itokawa.shape-model::1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model/\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model.zip\"> Download (66 MB)</a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td width=\"500\"> HAY-A-AMICA-5-ITOKAWASHAPE-V1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_5_ITOKAWASHAPE_V1_0\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_5_ITOKAWASHAPE_V1_0.zip\"> Download (69 MB) </a><br/>            </td></tr></tbody></table><br/>        <p></p></div>   "
 },{
 	"tags": [],
 	"tools": [],
@@ -3201,7 +3204,8 @@
 	"citation": "Cellino, A., Gil Hutton, R., DiMartino\n                    M., Bendjoya, Ph., Belskaya, I.N., and Tedesco, E.F., Torino Asteroid\n                    Polarimetry V1.1. urn:nasa:pds:gbo.ast.torino.polarimetry::1.1. NASA Planetary Data\n                    System, 2020; doi: 10.26033/a10w-mv05.",
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1.zip",
 	"download_size": "24 kb",
-	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1/readme.txt"
+	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1/readme.txt",
+	"html2": "         <h3 id=\"pds-superseded-title\">Superseded Versions:</h3><div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in April 2020.  The data content is unchanged    </div><div id=\"pds-superseded\">      <table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry::1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry.zip\"> Download (22 kb) </a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td> EAR-A-I0066-3-ITOKAWAPOL-V1.0<br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0\"> Browse </a><br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0.zip\"> Download (22 kb) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
 },{
 	"tags": [],
 	"tools": [],
@@ -3734,7 +3738,8 @@
 	"primary_context": "target",
 	"citation": "\"Roberts, J., Roberts Eros Ponds Catalog V1.1. urn:nasa:pds:ast-eros.roberts.ponds-catalog::1.1. NASA Planetary Data System, 2021.\"",
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1.zip",
-	"download_size": "80 KB"
+	"download_size": "80 KB",
+	"html2": "<h3 id=\"pds-superseded-title\">Superseded Versions:</h3>\n\n            <div id=\"pds-superseded\">\n            <table border=\"1\">\n            <tbody><tr><td width=\"500\"> urn:nasa:pds:ast-eros.roberts.ponds-catalog::1.0 <br/>\n                    doi: <a href=\"https://doi.org/10.26033/71nh-8062\">10.26033/71nh-8062</a>\n                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_0\"> Browse </a>\n                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1.zip\"> Download (80 kb) </a>\n </td></tr></tbody></table></div>"
 },{
 	"tags": [],
 	"tools": [],
@@ -3792,6 +3797,22 @@
 	"display_description": "This collection contains documents describing the OSIRIS-REx SPICE kernel archive.",
 	"browse_url": "https://naif.jpl.nasa.gov/pub/naif/pds/pds4/orex/orex_spice/document/",
 	"primary_context": "mission"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry:data::1.1",
+	"display_name": "Polarimetry of Asteroid Itokawa data collection",
+	"display_description": "This is the data collection for the gbo.ast-itokawa.torino.polarimetry bundle. \nThis data set contains the polarimetry  \n        of asteroid 25143 Itokawa published in Cellino et al. (2005).  The    \n        observations were made from June 26 through July 3, 2004 with the     \n        Torino photopolarimeter at the 2.15 m telescope of the El Leoncito    \n        Observatory in Argentina.  The degree of linear polarization was      \n        measured in five filters (Johnson-Cousins UBVRI).",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1/data/",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.25143_itokawa",
+	"target_name": "(25143) Itokawa",
+	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
+	"instrument_lid": "urn:nasa:pds:context:instrument:el_leoncito.js2m15.torino_phot"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
