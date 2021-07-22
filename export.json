@@ -3722,8 +3722,8 @@
 },{
 	"tags": [],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3736,10 +3736,12 @@
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
 	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near",
 	"primary_context": "target",
-	"citation": "\"Roberts, J., Roberts Eros Ponds Catalog V1.1. urn:nasa:pds:ast-eros.roberts.ponds-catalog::1.1. NASA Planetary Data System, 2021.\"",
+	"citation": "\"Roberts, J., Roberts Eros Ponds Catalog V1.1. urn:nasa:pds:ast-eros.roberts.ponds-catalog::1.1. NASA Planetary Data System, 2021; doi: 10.26033/4dqc-8067\"",
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1.zip",
 	"download_size": "80 KB",
-	"html2": "<h3 id=\"pds-superseded-title\">Superseded Versions:</h3>\n\n            <div id=\"pds-superseded\">\n            <table border=\"1\">\n            <tbody><tr><td width=\"500\"> urn:nasa:pds:ast-eros.roberts.ponds-catalog::1.0 <br/>\n                    doi: <a href=\"https://doi.org/10.26033/71nh-8062\">10.26033/71nh-8062</a>\n                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_0\"> Browse </a>\n                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1.zip\"> Download (80 kb) </a>\n </td></tr></tbody></table></div>"
+	"html2": "<p><br/></p><p><br/></p><p>doi link for V1.1 <a href=\"https://doi.org/10.26033/4dqc-8067\">10.26033/4dqc-8067</a></p><p><span style=\"font-size: 1.75rem;\">Superseded Versions:</span></p>\n\n            <div id=\"pds-superseded\">\n            <table border=\"1\">\n            <tbody><tr><td width=\"500\"> urn:nasa:pds:ast-eros.roberts.ponds-catalog::1.0 <br/>\n                    doi: <a href=\"https://doi.org/10.26033/71nh-8062\">10.26033/71nh-8062</a>\n                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_0\"> Browse </a>\n                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1.zip\"> Download (80 kb) </a>\n </td></tr></tbody></table></div>",
+	"doi": "10.26033/4dqc-8067",
+	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/ast-eros.roberts.ponds-catalog_V1_1/document/bundle_description.txt"
 },{
 	"tags": [],
 	"tools": [],
