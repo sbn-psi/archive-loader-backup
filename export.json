@@ -765,8 +765,8 @@
 		"Geometry Backplanes"
 	],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -776,10 +776,11 @@
 	"target_name": "(433) Eros",
 	"mission_lid": "urn:nasa:pds:context:investigation:mission.near_earth_asteroid_rendezvous",
 	"instrument_lid": "urn:nasa:pds:context:instrument:msi.near",
-	"citation": "Blewett, D.T., Barnouin, O.S., Ernst, C.M., Nguyen, L., and Espiritu, R.C., Eros MSI Images with Geometry Backplanes. urn:nasa:pds:nearmsi.shapebackplane. NASA Planetary Data System, 2017.",
+	"citation": "Blewett, D.T., Barnouin, O.S., Ernst, C.M., Nguyen, L., and Espiritu, R.C., Eros MSI Images with Geometry Backplanes V1.0. urn:nasa:pds:nearmsi.shapebackplane::1.0. NASA Planetary Data System, 2017,  https://doi.org/10.26033/x838-rg37",
 	"primary_context": "mission",
 	"browse_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi.shapebackplane/",
-	"download_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi_shapebackplane_downloads/"
+	"download_url": "https://sbnarchive.psi.edu/pds4/near/nearmsi_shapebackplane_downloads/",
+	"doi": "10.26033/x838-rg37"
 },{
 	"tags": [
 		"Eros",
@@ -3201,11 +3202,11 @@
 	"instrument_lid": "urn:nasa:pds:context:instrument:el_leoncito.js2m15.torino_phot",
 	"primary_context": "target",
 	"doi": "10.26033/a10w-mv05",
-	"citation": "Cellino, A., Gil Hutton, R., DiMartino\n                    M., Bendjoya, Ph., Belskaya, I.N., and Tedesco, E.F., Torino Asteroid\n                    Polarimetry V1.1. urn:nasa:pds:gbo.ast.torino.polarimetry::1.1. NASA Planetary Data\n                    System, 2020; doi: 10.26033/a10w-mv05.",
+	"citation": "Cellino, A., Gil Hutton, R., DiMartino\n                    M., Bendjoya, Ph., Belskaya, I.N., and Tedesco, E.F., Torino Asteroid\n                    Polarimetry V1.1. urn:nasa:pds:gbo.ast.torino.polarimetry::1.1. NASA Planetary Data\n                    System, 2020, http://doi.org/10.26033/a10w-mv05.",
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1.zip",
 	"download_size": "24 kb",
 	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1/readme.txt",
-	"html2": "         <h3 id=\"pds-superseded-title\">Superseded Versions:</h3><div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in April 2020.  The data content is unchanged    </div><div id=\"pds-superseded\">      <table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry::1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry.zip\"> Download (22 kb) </a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td> EAR-A-I0066-3-ITOKAWAPOL-V1.0<br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0\"> Browse </a><br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0.zip\"> Download (22 kb) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
+	"html2": "         <h3 id=\"pds-superseded-title\">Superseded Versions:</h3><div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in April 2020.  The data content is unchanged    </div><div id=\"pds-superseded\">      <table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry::1.0<br/>doi:  <a href=\"https://doi.org/10.26033/1jy4-f864\">10.26033/3n6g-zm60</a> </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry.zip\"> Download (22 kb) </a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td> EAR-A-I0066-3-ITOKAWAPOL-V1.0<br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0\"> Browse </a><br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0.zip\"> Download (22 kb) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
 },{
 	"tags": [],
 	"tools": [],
@@ -3815,6 +3816,29 @@
 	"target_name": "(25143) Itokawa",
 	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
 	"instrument_lid": "urn:nasa:pds:context:instrument:el_leoncito.js2m15.torino_phot"
+},{
+	"tags": [],
+	"tools": [],
+	"publication": {},
+	"example": {},
+	"related_data": [],
+	"superseded_data": [],
+	"download_packages": [],
+	"logical_identifier": "urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry::1.0",
+	"display_name": "Polarimetry of Asteroid Itokawa",
+	"display_description": "This data set contains the polarimetry  \n        of asteroid 25143 Itokawa published in Cellino et al. (2005).  The    \n        observations were made from June 26 through July 3, 2004 with the     \n        Torino photopolarimeter at the 2.15 m telescope of the El Leoncito    \n        Observatory in Argentina.  The degree of linear polarization was      \n        measured in five filters (Johnson-Cousins UBVRI).",
+	"browse_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1/",
+	"target_lid": "urn:nasa:pds:context:target:asteroid.25143_itokawa",
+	"target_name": "(25143) Itokawa",
+	"mission_lid": "urn:nasa:pds:context:investigation:individual.none",
+	"instrument_lid": "urn:nasa:pds:context:instrument:el_leoncito.js2m15.torino_phot",
+	"primary_context": "target",
+	"doi": "10.26033/a10w-mv05",
+	"citation": "Cellino, A., Gil Hutton, R., DiMartino\n                    M., Bendjoya, Ph., Belskaya, I.N., and Tedesco, E.F., Torino Asteroid\n                    Polarimetry V1.1. urn:nasa:pds:gbo.ast.torino.polarimetry::1.1. NASA Planetary Data\n                    System, 2020, http://doi.org/10.26033/a10w-mv05.",
+	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1.zip",
+	"download_size": "24 kb",
+	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1/readme.txt",
+	"html2": "         <h3 id=\"pds-superseded-title\">Superseded Versions:</h3><div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in April 2020.  The data content is unchanged    </div><div id=\"pds-superseded\">      <table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry::1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry.zip\"> Download (22 kb) </a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td> EAR-A-I0066-3-ITOKAWAPOL-V1.0<br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0\"> Browse </a><br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0.zip\"> Download (22 kb) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
