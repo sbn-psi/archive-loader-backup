@@ -3133,8 +3133,8 @@
 },{
 	"tags": [],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3151,7 +3151,7 @@
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model_V1_1.zip",
 	"download_size": "66MB",
 	"doi": "10.26033/3b2j-yy57",
-	"html2": "     <h3 id=\"pds-superseded-title\">Superseded Versions:</h3><div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in October 2020.  The<p>data content is unchanged.</p><table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gaskell.ast-itokawa.shape-model::1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model/\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model.zip\"> Download (66 MB)</a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td width=\"500\"> HAY-A-AMICA-5-ITOKAWASHAPE-V1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_5_ITOKAWASHAPE_V1_0\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_5_ITOKAWASHAPE_V1_0.zip\"> Download (69 MB) </a><br/>            </td></tr></tbody></table><br/>        <p></p></div>   "
+	"html2": "     \n<h3 id=\"pds-superseded-title\">Superseded Versions:</h3>\n<div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in October 2020.  The<p>data content is unchanged.</p><table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gaskell.ast-itokawa.shape-model::1.0<br/>\ndoi: <a href=\"https://doi.org/10.26033/fejt-k595\">10.26033/fejt-k595</a><br/><span id=\"selectionBoundary_1627676124943_8712436054450605\" class=\"rangySelectionBoundary\" style=\"line-height: 0; display: none;\">﻿</span><br/><span id=\"selectionBoundary_1627675999864_11736437944481759\" class=\"rangySelectionBoundary\" style=\"line-height: 0; display: none;\">﻿</span></td><td width=\"100\"><a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model/\">Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-itokawa.shape-model.zip\"> Download (66 MB)</a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td width=\"500\"> HAY-A-AMICA-5-ITOKAWASHAPE-V1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_5_ITOKAWASHAPE_V1_0\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds3/hayabusa/HAY_A_AMICA_5_ITOKAWASHAPE_V1_0.zip\"> Download (69 MB) </a><br/>            </td></tr></tbody></table><br/>        <p></p></div>   "
 },{
 	"tags": [],
 	"tools": [],
@@ -3187,8 +3187,8 @@
 },{
 	"tags": [],
 	"tools": [],
-	"publication": {},
-	"example": {},
+	"publication": null,
+	"example": null,
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3206,7 +3206,7 @@
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1.zip",
 	"download_size": "24 kb",
 	"dataset_info_url": "https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry_V1_1/readme.txt",
-	"html2": "         <h3 id=\"pds-superseded-title\">Superseded Versions:</h3><div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in April 2020.  The data content is unchanged    </div><div id=\"pds-superseded\">      <table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry::1.0<br/>doi:  <a href=\"https://doi.org/10.26033/1jy4-f864\">10.26033/3n6g-zm60</a> </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry.zip\"> Download (22 kb) </a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td> EAR-A-I0066-3-ITOKAWAPOL-V1.0<br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0\"> Browse </a><br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0.zip\"> Download (22 kb) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
+	"html2": "         \n<h3 id=\"pds-superseded-title\">Superseded Versions:</h3>\n<div id=\"pds-superseded\">The PDS4 bundle was migrated from the PDS3 data set in April 2020.  The data content is unchanged    </div>\n<div id=\"pds-superseded\">      <table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gbo.ast-itokawa.torino.polarimetry::1.0<br/>doi:  <a href=\"https://doi.org/10.26033/3n6g-zm60\">10.26033/3n6g-zm60</a> </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gbo.ast-itokawa.torino.polarimetry.zip\"> Download (22 kb) </a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td> EAR-A-I0066-3-ITOKAWAPOL-V1.0<br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0\"> Browse </a><br/>                </td><td> <a href=\"https://sbnarchive.psi.edu/pds3/non_mission/EAR_A_I0066_3_ITOKAWAPOL_V1_0.zip\"> Download (22 kb) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
 },{
 	"tags": [],
 	"tools": [],
