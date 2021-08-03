@@ -3079,8 +3079,8 @@
 },{
 	"tags": [],
 	"tools": [],
-	"publication": null,
-	"example": null,
+	"publication": {},
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
@@ -3097,7 +3097,7 @@
 	"download_url": "https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model_V1_1.zip",
 	"download_size": "80 MB",
 	"doi": "10.26033/d0gq-9427",
-	"html2": "<h3 id=\"pds-superseded-title\">Superseded Versions:</h3><p><br/></p><p>The PDS4 bundle was migrated from the PDS3 data set in October 2020.  The data content is unchanged.         </p><div id=\"pds-superseded\"><table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gaskell.ast-eros.shape-model::1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model/\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model.zip\"> Download (80 MB)</a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td width=\"500\">NEAR-A-MSI-5-EROSSHAPE-V1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds3/near/NEAR_A_MSI_5_EROSSHAPE_V1_0\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds3/near/NEAR_A_MSI_5_EROSSHAPE_V1_0.zip\"> Download (84 MB) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
+	"html2": "<h3 id=\"pds-superseded-title\">Superseded Versions:</h3>\n<p><br/></p>\n<p>The PDS4 bundle was migrated from the PDS3 data set in October 2020.  The data content is unchanged.         </p>\n<div id=\"pds-superseded\"><table border=\"1\"><tbody><tr><td width=\"100\"> PDS4 version<br/>                </td><td width=\"500\"> urn:nasa:pds:gaskell.ast-eros.shape-model::1.0<br/>doi: <a href=\"https://doi.org/10.26033/0hpf-4e64\">10.26033/0hpf-4e64</a>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model/\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds4/non_mission/gaskell.ast-eros.shape-model.zip\"> Download (80 MB)</a><br/>            </td></tr><tr><td> PDS3 version<br/>                </td><td width=\"500\">NEAR-A-MSI-5-EROSSHAPE-V1.0<br/>                </td><td width=\"100\"> <a href=\"https://sbnarchive.psi.edu/pds3/near/NEAR_A_MSI_5_EROSSHAPE_V1_0\"> Browse </a><br/>                </td><td width=\"200\"> <a href=\"https://sbnarchive.psi.edu/pds3/near/NEAR_A_MSI_5_EROSSHAPE_V1_0.zip\"> Download (84 MB) </a><br/>            </td></tr></tbody></table><br/>      <p></p></div>"
 },{
 	"tags": [],
 	"tools": [],
