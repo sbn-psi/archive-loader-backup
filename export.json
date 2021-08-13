@@ -3843,20 +3843,6 @@
 	"document_flag": true,
 	"download_url": "http://sbnarchive.psi.edu/pds4/non_mission/neowise_diameters_albedos_V2_0.zip",
 	"download_size": "6.5 MB"
-},{
-	"tags": [],
-	"tools": [],
-	"publication": null,
-	"example": null,
-	"related_data": [],
-	"superseded_data": [],
-	"download_packages": [],
-	"primary_context": "mission",
-	"logical_identifier": "urn:nasa:pds:cassini_iss_saturn",
-	"display_name": "ISS Observations from the Cassini Tour of the Saturn System",
-	"display_description": "This bundle contains Cassini ISS images, metadata, and associated documentation\nfor the Saturn tour--January 2004 through end of mission in September 2017.",
-	"browse_url": "https://pds-rings.seti.org/pds4/bundles/cassini_iss_saturn/",
-	"html1": "<p>Temporary demo content</p>"
 }],"targets": [{
 	"tags": [
 		"Terrestrial Satellite",
