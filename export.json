@@ -14537,7 +14537,8 @@
 	"type": "targets"
 },{
 	"name": "Galilean Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Jupiter Moon Group"
 },{
 	"name": "Planetary Ring",
 	"type": "targets"
@@ -14564,7 +14565,8 @@
 	"type": "targets"
 },{
 	"name": "Co-Orbital Orbit",
-	"type": "targets"
+	"type": "targets",
+	"group": "Orbit"
 },{
 	"name": "Atmospheric",
 	"type": "targets"
@@ -14576,37 +14578,44 @@
 	"type": "targets"
 },{
 	"name": "Shepherd Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Minor Satellite",
 	"type": "targets"
 },{
 	"name": "Trojan Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Jovian Satellite",
 	"type": "targets"
 },{
 	"name": "Amalthea Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Jupiter Moon Group"
 },{
 	"name": "Main Belt Asteroid",
 	"type": "targets"
 },{
 	"name": "Norse Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Retrograde Orbit",
-	"type": "targets"
+	"type": "targets",
+	"group": "Orbit"
 },{
 	"name": "Moonlet",
 	"type": "targets"
 },{
 	"name": "Gallic Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Inuit Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Orbiter",
 	"type": "spacecraft"
@@ -14648,19 +14657,23 @@
 	"type": "instruments"
 },{
 	"name": "Himalia Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Jupiter Moon Group"
 },{
 	"name": "Irregular Satellite",
 	"type": "targets"
 },{
 	"name": "Carme Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Jupiter Moon Group"
 },{
 	"name": "Ananke Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Jupiter Moon Group"
 },{
 	"name": "Pasiphae Group",
-	"type": "targets"
+	"type": "targets",
+	"group": "Jupiter Moon Group"
 },{
 	"name": "Lander",
 	"type": "spacecraft"
@@ -14753,10 +14766,12 @@
 	"type": "targets"
 },{
 	"name": "Inner Large Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Outer Large Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Particle Detector",
 	"type": "instruments"
@@ -14852,7 +14867,8 @@
 	"type": "targets"
 },{
 	"name": "Inner Small Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Impactor",
 	"type": "spacecraft"
