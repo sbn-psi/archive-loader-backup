@@ -14892,7 +14892,8 @@
 	"type": "targets"
 },{
 	"name": "Long-Period Comet",
-	"type": "targets"
+	"type": "targets",
+	"group": "Target Type"
 },{
 	"name": "shape model",
 	"type": "datasets"
@@ -18795,8 +18796,8 @@
 	"target": "urn:nasa:pds:context:target:planetary_system.solar_system",
 	"relationshipId": "79f9836e-f84f-4c65-9c69-f241dce21691"
 },{
-	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
 	"target": "urn:nasa:pds:context:target:planet.saturn",
+	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
 	"relationshipId": "563075d3-9445-40a9-a420-9547bb80bbb7"
 },{
 	"investigation": "urn:nasa:pds:context:investigation:mission.cassini-huygens",
