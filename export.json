@@ -1120,7 +1120,7 @@
 		"accumulating": false,
 		"delivery_info": "The latest release includes data from the Cruise 1, Earth Gravity Assist, and Cruise 2 mission phases"
 	},
-	"example": null,
+	"example": {},
 	"related_data": [],
 	"superseded_data": [],
 	"download_packages": [],
