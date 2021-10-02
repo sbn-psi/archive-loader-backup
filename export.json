@@ -14513,7 +14513,8 @@
 	"type": "targets"
 },{
 	"name": "Major Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Satellite Types"
 },{
 	"name": "Terrestrial Planet",
 	"type": "targets"
@@ -14553,7 +14554,8 @@
 	"type": "targets"
 },{
 	"name": "Icy Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Satellite Types"
 },{
 	"name": "Inner Satellite",
 	"type": "targets"
@@ -14579,14 +14581,15 @@
 },{
 	"name": "Shepherd Satellite",
 	"type": "targets",
-	"group": "Saturn Moon Group"
+	"group": "Satellite Types"
 },{
 	"name": "Minor Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Satellite Types"
 },{
 	"name": "Trojan Satellite",
 	"type": "targets",
-	"group": "Saturn Moon Group"
+	"group": "Satellite Types"
 },{
 	"name": "Jovian Satellite",
 	"type": "targets"
@@ -14607,7 +14610,8 @@
 	"group": "Orbit"
 },{
 	"name": "Moonlet",
-	"type": "targets"
+	"type": "targets",
+	"group": "Saturn Moon Group"
 },{
 	"name": "Gallic Group",
 	"type": "targets",
@@ -14661,7 +14665,8 @@
 	"group": "Jupiter Moon Group"
 },{
 	"name": "Irregular Satellite",
-	"type": "targets"
+	"type": "targets",
+	"group": "Satellite Types"
 },{
 	"name": "Carme Group",
 	"type": "targets",
@@ -14767,11 +14772,11 @@
 },{
 	"name": "Inner Large Satellite",
 	"type": "targets",
-	"group": "Saturn Moon Group"
+	"group": "Satellite Types"
 },{
 	"name": "Outer Large Satellite",
 	"type": "targets",
-	"group": "Saturn Moon Group"
+	"group": "Satellite Types"
 },{
 	"name": "Particle Detector",
 	"type": "instruments"
@@ -14868,7 +14873,7 @@
 },{
 	"name": "Inner Small Satellite",
 	"type": "targets",
-	"group": "Saturn Moon Group"
+	"group": "Satellite Types"
 },{
 	"name": "Impactor",
 	"type": "spacecraft"
