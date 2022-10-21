@@ -11285,7 +11285,7 @@
 	"is_prime": true,
 	"tools": [],
 	"instrument_bundle": "urn:nasa:pds:orex.ovirs",
-	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/d3bdc890-ac30-11eb-87ce-db481780d25f.jpeg\" width=\"300\" height=\"200\"/><br/></p> <p><span style=\"font-size: 0.8em;color: grey;\">The OVIRS instrument at NASA’s Goddard Space Flight Center prior to launch.</span></p><p></p>"
+	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/d3bdc890-ac30-11eb-87ce-db481780d25f.jpeg\" width=\"300\" height=\"200\"/><br/></p> <p><span style=\"font-size: 0.8em;color: grey;\">The OVIRS instrument at NASA’s Goddard Space Flight Center prior to launch.</span></p><p></p><p><br/></p><h4><u><a href=\"http://https://sbnarchive.psi.edu/pds4/orex/orex.certified.html\" target=\"\">​OVIRS v.11 Bundle Certified Data Release</a></u></h4><h6>​This bundle contains all raw and calibrated data through the end of the Bennu encounter. </h6><h6> Release Date: </h6><p>See below for v.10, the most recent archived version</p><p></p><p></p>"
 },{
 	"tags": [
 		"Spectrometer"
@@ -15697,8 +15697,8 @@
 	"instrument": "urn:nasa:pds:context:instrument:ocams.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
-	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"instrument": "urn:nasa:pds:context:instrument:ovirs.orex",
+	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
 	"relationshipId": "2ecd784c-db8e-420c-9984-006190b849df"
 },{
 	"instrument_host": "urn:nasa:pds:context:instrument_host:spacecraft.orex",
@@ -18424,7 +18424,7 @@
 	"instrument": "urn:nasa:pds:context:instrument:ovirs.orex",
 	"bundle": "urn:nasa:pds:orex.ovirs",
 	"relationshipId": null,
-	"label": "OVIRS Data Bundle"
+	"label": "OVIRS v.10.0 Bundle"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:ovirs.orex",
 	"bundle": "urn:nasa:pds:orex.mission",
