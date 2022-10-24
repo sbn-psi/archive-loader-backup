@@ -11284,8 +11284,7 @@
 	"display_description": "The OVIRS is designed to provide spectral maps of inorganic and organic substances on the surface of asteroid Bennu.",
 	"is_prime": true,
 	"tools": [],
-	"instrument_bundle": "urn:nasa:pds:orex.ovirs",
-	"html1": "<p><img src=\"https://pdsregistryimages.psi.edu/images/public/d3bdc890-ac30-11eb-87ce-db481780d25f.jpeg\" width=\"300\" height=\"200\"/><br/></p> <p><span style=\"font-size: 0.8em;color: grey;\">The OVIRS instrument at NASA’s Goddard Space Flight Center prior to launch.</span></p><p></p><p><br/></p><h4><u><a href=\"http://https://sbnarchive.psi.edu/pds4/orex/orex.certified.html\" target=\"\">​OVIRS v.11 Bundle Certified Data Release</a></u></h4><h6>​This bundle contains all raw and calibrated data through the end of the Bennu encounter. </h6><h6> Release Date: </h6><p>See below for v.10, the most recent archived version</p><p></p><p></p>"
+	"html1": "<h4></h4><h4></h4><h4><img src=\"https://pdsregistryimages.psi.edu/images/public/d3bdc890-ac30-11eb-87ce-db481780d25f.jpeg\" width=\"300\" height=\"200\"/>​</h4> <h4><span style=\"font-size: 0.8em;color: grey;\">The OVIRS instrument at NASA’s Goddard Space Flight Center prior to launch.</span></h4><h4></h4><h4>​</h4><h3><u><a href=\"https://sbn.psi.edu/pds/resource/orex/ovirs.certified.html\" target=\"\">​OVIRS v11.0 Bundle Certified Data Release</a></u></h3><h4>​This bundle contains all raw and calibrated data through the end of the Bennu encounter (05/10/21).</h4><h4> Release Date: 10/24/2022</h4><h4>See below for v10.0, the most recent archived version, which contains the data up to 08/17/2020</h4><h4></h4><h4></h4>"
 },{
 	"tags": [
 		"Spectrometer"
@@ -18424,7 +18423,7 @@
 	"instrument": "urn:nasa:pds:context:instrument:ovirs.orex",
 	"bundle": "urn:nasa:pds:orex.ovirs",
 	"relationshipId": null,
-	"label": "OVIRS v.10.0 Bundle"
+	"label": "OVIRS v10.0 Bundle"
 },{
 	"instrument": "urn:nasa:pds:context:instrument:ovirs.orex",
 	"bundle": "urn:nasa:pds:orex.mission",
